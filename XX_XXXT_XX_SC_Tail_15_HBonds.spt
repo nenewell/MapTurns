@@ -1,0 +1,55 @@
+select Dd_14_i_i_ResN1_H_2005, Dd_14_i_i_Res4_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_ii_ii_ResN1_H_4005, Dd_14_ii_ii_Res4_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_ii_ii_ResN2_H_4005, Dd_14_ii_v_ResC1_O_10003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_iii_i_ResN1_H_2005, Dd_14_iii_i_Res4_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_iii_i_ResN1_H_2005, Dd_14_iii_iii_Res4_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_iii_i_ResN2_H_2005, Dd_14_iii_iv_ResC2_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_iii_i_Res1_H_2005, Dd_14_iii_iv_Res4_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_iii_iv_ResN1_H_8005, Dd_14_iii_i_Res4_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_iv_iv_ResN1_H_8005, Dd_14_iv_ii_Res4_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_i_Res3_H_2005, Dd_14_i_iii_ResN1_O_6003; connect hbond create; color hbond [255,21,0] translucent 0.500000
+select Dd_14_i_Res2_H_2005, Dd_14_i_v_ResN2_O_10003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_i_Res4_H_2005, Dd_14_i_v_ResN2_O_10003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_ii_Res3_H_4005, Dd_14_ii_ii_ResN1_O_4003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select Dd_14_ii_Res4_H_4005, Dd_14_ii_ii_ResN1_O_4003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select Dd_14_ii_Res2_H_4005, Dd_14_ii_i_ResC1_O_2003; connect hbond create; color hbond [255,21,0] translucent 0.500000
+select Dd_14_ii_Res2_H_4005, Dd_14_ii_iv_ResC1_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_iii_Res3_H_6005, Dd_14_iii_i_ResN1_O_2003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select Dd_14_iii_Res2_H_6005, Dd_14_iii_ii_ResN1_O_4003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select Dd_14_iii_Res4_H_302, Dd_14_iii_ii_ResN2_O_4003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select Dd_14_iii_Res3_H_6005, Dd_14_iii_iv_ResN1_O_8003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select Dd_14_iii_Res4_H_6005, Dd_14_iii_iv_ResN1_O_8003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select Dd_14_iv_Res2_H_8005, Dd_14_iv_iii_ResN2_O_6003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select Dd_14_iv_Res4_H_8005, Dd_14_iv_iv_ResN1_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_i_ii_ResC1_H_4005, Dd_14_i_Res4_O_100; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select Dd_14_i_ii_ResC1_H_4005, Dd_14_i_Res4_O_200; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select Dd_14_i_ii_ResC1_H_4005, Dd_14_i_Res4_O_300; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select Dd_14_i_ii_ResC1_H_4005, Dd_14_i_Res4_O_400; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select Dd_14_i_iv_ResC2_H_8005, Dd_14_i_iv_Res4_O_8003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select Dd_14_i_v_ResC1_H_10005, Dd_14_i_v_ResN1_O_10003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_i_v_ResC2_H_10005, Dd_14_i_Res3_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_i_v_ResC2_H_10005, Dd_14_i_Res3_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_i_v_ResC2_H_10005, Dd_14_i_Res3_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_i_v_ResC2_H_10005, Dd_14_i_Res3_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_ii_iv_ResC1_H_8005, Dd_14_ii_Res2_O_2003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select Dd_14_ii_iv_ResC1_H_8005, Dd_14_ii_Res2_O_4003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select Dd_14_ii_iv_ResC1_H_8005, Dd_14_ii_Res2_O_6003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select Dd_14_ii_iv_ResC1_H_8005, Dd_14_ii_Res2_O_8003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select Dd_14_ii_v_ResC1_H_10005, Dd_14_ii_ii_ResN2_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_iii_iv_ResC2_H_8005, Dd_14_iii_i_ResN2_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select Dd_14_iv_i_ResC2_H_2005, Dd_14_iv_Res3_O_2003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select Dd_14_iv_i_ResC2_H_2005, Dd_14_iv_Res3_O_4003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select Dd_14_iv_i_ResC2_H_2005, Dd_14_iv_Res3_O_6003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select Dd_14_iv_i_ResC2_H_2005, Dd_14_iv_Res3_O_8003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select Dd_14_iv_iii_ResC2_H_6005, Dd_14_iv_Res4_O_100; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select Dd_14_iv_iii_ResC2_H_6005, Dd_14_iv_Res4_O_200; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select Dd_14_iv_iii_ResC2_H_6005, Dd_14_iv_Res4_O_300; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select Dd_14_iv_iii_ResC2_H_6005, Dd_14_iv_Res4_O_400; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select all; hbonds 4
+rotate @{!quaternion(script("show rotation"))}
+rotate molecular X -90
+rotate molecular Y 90
+rotate molecular Z 15
+rotate molecular X -10
+zoom 125
+translate X -3

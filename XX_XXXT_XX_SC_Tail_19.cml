@@ -1,0 +1,1296 @@
+<molecule>
+<atomArray>
+<atom id="cisDP_18_i_i_ResN2_N_2000" elementType="N" x3="-6.282654" y3="-4.934866" z3="1.160998"/>
+<atom id="cisDP_18_i_i_ResN2_Ca_2001" elementType="C" x3="-6.019189" y3="-3.703910" z3="0.429116"/>
+<atom id="cisDP_18_i_i_ResN2_C_2002" elementType="C" x3="-4.785867" y3="-3.976362" z3="-0.421663"/>
+<atom id="cisDP_18_i_i_ResN2_O_2003" elementType="O" x3="-3.900461" y3="-4.710982" z3="0.012492"/>
+<atom id="cisDP_18_i_i_ResN2_Cb_2004" elementType="C" x3="-5.885913" y3="-3.254110" z3="0.824076"/>
+<atom id="cisDP_18_i_i_ResN2_H_2005" elementType="H" x3="-5.464043" y3="-5.357141" z3="1.550258"/>
+<atom id="cisDP_18_i_i_ResN1_N_2000" elementType="N" x3="-4.714177" y3="-3.402684" z3="-1.619279"/>
+<atom id="cisDP_18_i_i_ResN1_Ca_2001" elementType="C" x3="-3.583063" y3="-3.677382" z3="-2.523035"/>
+<atom id="cisDP_18_i_i_ResN1_C_2002" elementType="C" x3="-2.360035" y3="-2.851923" z3="-2.154275"/>
+<atom id="cisDP_18_i_i_ResN1_O_2003" elementType="O" x3="-2.479352" y3="-1.858148" z3="-1.441691"/>
+<atom id="cisDP_18_i_i_ResN1_Cb_2004" elementType="C" x3="-3.791904" y3="-3.490714" z3="-3.069127"/>
+<atom id="cisDP_18_i_i_Res1_N_2000" elementType="N" x3="-1.194458" y3="-3.240940" z3="-2.673292"/>
+<atom id="cisDP_18_i_ii_ResN2_N_4000" elementType="N" x3="-2.237713" y3="-7.758108" z3="-0.280963"/>
+<atom id="cisDP_18_i_ii_ResN2_Ca_4001" elementType="C" x3="-3.138500" y3="-7.614308" z3="-1.436798"/>
+<atom id="cisDP_18_i_ii_ResN2_C_4002" elementType="C" x3="-3.389565" y3="-6.154951" z3="-1.823779"/>
+<atom id="cisDP_18_i_ii_ResN2_O_4003" elementType="O" x3="-3.753383" y3="-5.906254" z3="-2.978229"/>
+<atom id="cisDP_18_i_ii_ResN2_Cb_4004" elementType="C" x3="-3.655481" y3="-7.878513" z3="-1.239504"/>
+<atom id="cisDP_18_i_ii_ResN1_N_4000" elementType="N" x3="-3.277058" y3="-5.239748" z3="-0.862633"/>
+<atom id="cisDP_18_i_ii_ResN1_Ca_4001" elementType="C" x3="-3.613290" y3="-3.831854" z3="-1.037614"/>
+<atom id="cisDP_18_i_ii_ResN1_C_4002" elementType="C" x3="-2.395446" y3="-2.972760" z3="-1.334329"/>
+<atom id="cisDP_18_i_ii_ResN1_O_4003" elementType="O" x3="-2.510261" y3="-1.746147" z3="-1.319623"/>
+<atom id="cisDP_18_i_ii_ResN1_Cb_4004" elementType="C" x3="-3.915609" y3="-3.625514" z3="-0.548276"/>
+<atom id="cisDP_18_i_ii_ResN1_H_4005" elementType="H" x3="-2.950213" y3="-5.457167" z3="0.056679"/>
+<atom id="cisDP_18_i_ii_Res1_N_4000" elementType="N" x3="-1.241796" y3="-3.600397" z3="-1.616267"/>
+<atom id="cisDP_18_i_ii_Res1_H_4005" elementType="H" x3="-1.149787" y3="-4.594097" z3="-1.678738"/>
+<atom id="cisDP_18_i_iii_ResN2_N_6000" elementType="N" x3="2.421198" y3="-7.704364" z3="3.063130"/>
+<atom id="cisDP_18_i_iii_ResN2_Ca_6001" elementType="C" x3="1.923004" y3="-7.215823" z3="1.788018"/>
+<atom id="cisDP_18_i_iii_ResN2_C_6002" elementType="C" x3="2.120637" y3="-5.708953" z3="1.696322"/>
+<atom id="cisDP_18_i_iii_ResN2_O_6003" elementType="O" x3="2.087544" y3="-4.995816" z3="2.712440"/>
+<atom id="cisDP_18_i_iii_ResN2_Cb_6004" elementType="C" x3="1.326730" y3="-7.316707" z3="1.729409"/>
+<atom id="cisDP_18_i_iii_ResN2_H_6005" elementType="H" x3="1.841883" y3="-7.459283" z3="3.840430"/>
+<atom id="cisDP_18_i_iii_ResN1_N_6000" elementType="N" x3="2.246542" y3="-5.210941" z3="0.471450"/>
+<atom id="cisDP_18_i_iii_ResN1_Ca_6001" elementType="C" x3="2.232665" y3="-3.780713" z3="0.209382"/>
+<atom id="cisDP_18_i_iii_ResN1_C_6002" elementType="C" x3="1.698237" y3="-3.562967" z3="-1.193160"/>
+<atom id="cisDP_18_i_iii_ResN1_O_6003" elementType="O" x3="2.273381" y3="-4.055212" z3="-2.163453"/>
+<atom id="cisDP_18_i_iii_ResN1_Cb_6004" elementType="C" x3="2.784199" y3="-3.530731" z3="0.270470"/>
+<atom id="cisDP_18_i_iii_ResN1_H_6005" elementType="H" x3="2.358442" y3="-5.775120" z3="-0.346548"/>
+<atom id="cisDP_18_i_iii_Res1_N_6000" elementType="N" x3="0.616952" y3="-2.780554" z3="-1.304345"/>
+<atom id="cisDP_18_i_iii_Res1_H_6005" elementType="H" x3="0.177069" y3="-2.306114" z3="-0.541119"/>
+<atom id="cisDP_18_i_iv_ResN2_N_8000" elementType="N" x3="0.807753" y3="-7.829038" z3="4.875758"/>
+<atom id="cisDP_18_i_iv_ResN2_Ca_8001" elementType="C" x3="0.022599" y3="-8.090741" z3="3.687438"/>
+<atom id="cisDP_18_i_iv_ResN2_C_8002" elementType="C" x3="-0.530766" y3="-6.794508" z3="3.096388"/>
+<atom id="cisDP_18_i_iv_ResN2_O_8003" elementType="O" x3="-0.996160" y3="-5.928858" z3="3.827637"/>
+<atom id="cisDP_18_i_iv_ResN2_Cb_8004" elementType="C" x3="-0.442648" y3="-8.462057" z3="3.824394"/>
+<atom id="cisDP_18_i_iv_ResN2_H_8005" elementType="H" x3="0.314359" y3="-7.991906" z3="5.730572"/>
+<atom id="cisDP_18_i_iv_ResN1_N_8000" elementType="N" x3="-0.462235" y3="-6.665285" z3="1.772245"/>
+<atom id="cisDP_18_i_iv_ResN1_Ca_8001" elementType="C" x3="-1.128984" y3="-5.578893" z3="1.062737"/>
+<atom id="cisDP_18_i_iv_ResN1_C_8002" elementType="C" x3="-0.165039" y3="-4.679458" z3="0.344861"/>
+<atom id="cisDP_18_i_iv_ResN1_O_8003" elementType="O" x3="1.006520" y3="-4.602080" z3="0.699137"/>
+<atom id="cisDP_18_i_iv_ResN1_H_8005" elementType="H" x3="0.042216" y3="-7.292126" z3="1.178905"/>
+<atom id="cisDP_18_i_iv_Res1_N_8000" elementType="N" x3="-0.673484" y3="-4.069768" z3="-0.722066"/>
+<atom id="cisDP_18_i_iv_Res1_H_8005" elementType="H" x3="-1.581527" y3="-4.289239" z3="-1.079041"/>
+<atom id="cisDP_18_i_v_ResN2_N_10000" elementType="N" x3="0.170137" y3="-10.624920" z3="-1.505361"/>
+<atom id="cisDP_18_i_v_ResN2_Ca_10001" elementType="C" x3="0.981196" y3="-9.518740" z3="-1.008861"/>
+<atom id="cisDP_18_i_v_ResN2_C_10002" elementType="C" x3="0.020506" y3="-8.380120" z3="-0.641182"/>
+<atom id="cisDP_18_i_v_ResN2_O_10003" elementType="O" x3="-1.203931" y3="-8.529367" z3="-0.830130"/>
+<atom id="cisDP_18_i_v_ResN2_Cb_10004" elementType="C" x3="1.405736" y3="-9.342033" z3="-1.425451"/>
+<atom id="cisDP_18_i_v_ResN2_H_10005" elementType="H" x3="-0.748243" y3="-10.424939" z3="-1.846056"/>
+<atom id="cisDP_18_i_v_ResN1_N_10000" elementType="N" x3="0.528701" y3="-7.300058" z3="-0.118977"/>
+<atom id="cisDP_18_i_v_ResN1_Ca_10001" elementType="C" x3="-0.264507" y3="-6.097243" z3="0.154566"/>
+<atom id="cisDP_18_i_v_ResN1_C_10002" elementType="C" x3="0.344998" y3="-4.939282" z3="-0.594124"/>
+<atom id="cisDP_18_i_v_ResN1_O_10003" elementType="O" x3="1.580940" y3="-4.828028" z3="-0.680555"/>
+<atom id="cisDP_18_i_v_ResN1_Cb_10004" elementType="C" x3="-0.277620" y3="-5.962052" z3="0.746220"/>
+<atom id="cisDP_18_i_v_ResN1_H_10005" elementType="H" x3="1.502838" y3="-7.290974" z3="0.106242"/>
+<atom id="cisDP_18_i_v_Res1_N_10000" elementType="N" x3="-0.501709" y3="-4.068385" z3="-1.150712"/>
+<atom id="cisDP_18_i_v_Res1_H_10005" elementType="H" x3="-1.487126" y3="-4.181150" z3="-1.020869"/>
+<atom id="cisDP_18_ii_i_ResN2_N_2000" elementType="N" x3="-1.166471" y3="-8.327521" z3="-0.963100"/>
+<atom id="cisDP_18_ii_i_ResN2_Ca_2001" elementType="C" x3="-1.848766" y3="-8.134740" z3="0.318229"/>
+<atom id="cisDP_18_ii_i_ResN2_C_2002" elementType="C" x3="-1.424942" y3="-6.832073" z3="0.981481"/>
+<atom id="cisDP_18_ii_i_ResN2_O_2003" elementType="O" x3="-2.105762" y3="-6.365366" z3="1.902186"/>
+<atom id="cisDP_18_ii_i_ResN2_Cb_2004" elementType="C" x3="-1.651797" y3="-8.609492" z3="0.650248"/>
+<atom id="cisDP_18_ii_i_ResN1_N_2000" elementType="N" x3="-0.329076" y3="-6.241803" z3="0.506120"/>
+<atom id="cisDP_18_ii_i_ResN1_Ca_2001" elementType="C" x3="0.227211" y3="-5.064041" z3="1.154225"/>
+<atom id="cisDP_18_ii_i_ResN1_C_2002" elementType="C" x3="0.551649" y3="-3.921837" z3="0.217171"/>
+<atom id="cisDP_18_ii_i_ResN1_O_2003" elementType="O" x3="1.435884" y3="-3.111937" z3="0.497856"/>
+<atom id="cisDP_18_ii_i_ResN1_H_2005" elementType="H" x3="0.173639" y3="-6.552371" z3="-0.301213"/>
+<atom id="cisDP_18_ii_i_Res1_N_2000" elementType="N" x3="-0.174075" y3="-3.854122" z3="-0.893004"/>
+<atom id="cisDP_18_ii_i_Res1_H_2005" elementType="H" x3="-0.880304" y3="-4.519206" z3="-1.136869"/>
+<atom id="cisDP_18_ii_ii_ResN2_N_4000" elementType="N" x3="-2.752779" y3="-7.213177" z3="-2.712385"/>
+<atom id="cisDP_18_ii_ii_ResN2_Ca_4001" elementType="C" x3="-1.821090" y3="-7.673822" z3="-3.758883"/>
+<atom id="cisDP_18_ii_ii_ResN2_C_4002" elementType="C" x3="-1.298289" y3="-6.407655" z3="-4.429671"/>
+<atom id="cisDP_18_ii_ii_ResN2_O_4003" elementType="O" x3="-2.101844" y3="-5.615206" z3="-4.917748"/>
+<atom id="cisDP_18_ii_ii_ResN2_Cb_4004" elementType="C" x3="-2.118528" y3="-8.013985" z3="-4.163786"/>
+<atom id="cisDP_18_ii_ii_ResN2_H_4005" elementType="H" x3="-3.674090" y3="-7.590825" z3="-2.808754"/>
+<atom id="cisDP_18_ii_ii_ResN1_N_4000" elementType="N" x3="0.016133" y3="-6.184920" z3="-4.376140"/>
+<atom id="cisDP_18_ii_ii_ResN1_Ca_4001" elementType="C" x3="0.642959" y3="-5.012454" z3="-4.945377"/>
+<atom id="cisDP_18_ii_ii_ResN1_C_4002" elementType="C" x3="0.628605" y3="-3.767125" z3="-4.099701"/>
+<atom id="cisDP_18_ii_ii_ResN1_O_4003" elementType="O" x3="1.222169" y3="-2.763580" z3="-4.472062"/>
+<atom id="cisDP_18_ii_ii_ResN1_H_4005" elementType="H" x3="0.659748" y3="-6.812572" z3="-3.938534"/>
+<atom id="cisDP_18_ii_ii_Res1_N_4000" elementType="N" x3="0.016673" y3="-3.805951" z3="-2.920535"/>
+<atom id="cisDP_18_ii_ii_Res1_H_4005" elementType="H" x3="-0.446426" y3="-4.603929" z3="-2.535683"/>
+<atom id="cisDP_18_ii_iii_ResN2_N_6000" elementType="N" x3="4.992667" y3="-8.037252" z3="-0.464406"/>
+<atom id="cisDP_18_ii_iii_ResN2_Ca_6001" elementType="C" x3="4.697001" y3="-6.608876" z3="-0.489557"/>
+<atom id="cisDP_18_ii_iii_ResN2_C_6002" elementType="C" x3="3.193862" y3="-6.398621" z3="-0.480149"/>
+<atom id="cisDP_18_ii_iii_ResN2_O_6003" elementType="O" x3="2.468535" y3="-7.007324" z3="-1.262139"/>
+<atom id="cisDP_18_ii_iii_ResN2_Cb_6004" elementType="C" x3="4.947897" y3="-6.337620" z3="-0.981318"/>
+<atom id="cisDP_18_ii_iii_ResN2_H_6005" elementType="H" x3="4.569461" y3="-8.543813" z3="-1.215679"/>
+<atom id="cisDP_18_ii_iii_ResN1_N_6000" elementType="N" x3="2.739758" y3="-5.528944" z3="0.424013"/>
+<atom id="cisDP_18_ii_iii_ResN1_Ca_6001" elementType="C" x3="1.352543" y3="-5.089921" z3="0.455950"/>
+<atom id="cisDP_18_ii_iii_ResN1_C_6002" elementType="C" x3="1.202392" y3="-3.814439" z3="-0.358821"/>
+<atom id="cisDP_18_ii_iii_ResN1_O_6003" elementType="O" x3="1.873708" y3="-2.817038" z3="-0.105101"/>
+<atom id="cisDP_18_ii_iii_ResN1_Cb_6004" elementType="C" x3="1.175386" y3="-4.977570" z3="1.032049"/>
+<atom id="cisDP_18_ii_iii_ResN1_H_6005" elementType="H" x3="3.305274" y3="-5.114804" z3="1.136697"/>
+<atom id="cisDP_18_ii_iii_Res1_N_6000" elementType="N" x3="0.309741" y3="-3.842077" z3="-1.341315"/>
+<atom id="cisDP_18_ii_iii_Res1_H_6005" elementType="H" x3="-0.215017" y3="-4.652902" z3="-1.600206"/>
+<atom id="cisDP_18_ii_iv_ResN2_N_8000" elementType="N" x3="-0.631801" y3="-7.297403" z3="3.669121"/>
+<atom id="cisDP_18_ii_iv_ResN2_Ca_8001" elementType="C" x3="-0.958369" y3="-6.638037" z3="2.403180"/>
+<atom id="cisDP_18_ii_iv_ResN2_C_8002" elementType="C" x3="0.272908" y3="-5.864687" z3="1.976923"/>
+<atom id="cisDP_18_ii_iv_ResN2_O_8003" elementType="O" x3="0.988422" y3="-5.261701" z3="2.778985"/>
+<atom id="cisDP_18_ii_iv_ResN2_Cb_8004" elementType="C" x3="-1.428341" y3="-6.260657" z3="2.480798"/>
+<atom id="cisDP_18_ii_iv_ResN2_H_8005" elementType="H" x3="-1.205486" y3="-7.022390" z3="4.440546"/>
+<atom id="cisDP_18_ii_iv_ResN1_N_8000" elementType="N" x3="0.563589" y3="-5.931291" z3="0.672988"/>
+<atom id="cisDP_18_ii_iv_ResN1_Ca_8001" elementType="C" x3="1.752698" y3="-5.332390" z3="0.104147"/>
+<atom id="cisDP_18_ii_iv_ResN1_C_8002" elementType="C" x3="1.481119" y3="-3.940958" z3="-0.506352"/>
+<atom id="cisDP_18_ii_iv_ResN1_O_8003" elementType="O" x3="2.322382" y3="-3.045116" z3="-0.412135"/>
+<atom id="cisDP_18_ii_iv_ResN1_Cb_8004" elementType="C" x3="1.978208" y3="-5.696676" z3="-0.327163"/>
+<atom id="cisDP_18_ii_iv_ResN1_H_8005" elementType="H" x3="-0.015383" y3="-6.395684" z3="0.003519"/>
+<atom id="cisDP_18_ii_iv_Res1_N_8000" elementType="N" x3="0.334002" y3="-3.815757" z3="-1.156053"/>
+<atom id="cisDP_18_ii_iv_Res1_H_8005" elementType="H" x3="-0.394087" y3="-4.498752" z3="-1.103839"/>
+<atom id="cisDP_18_ii_v_ResN2_N_10000" elementType="N" x3="-4.469715" y3="-7.360087" z3="-1.178675"/>
+<atom id="cisDP_18_ii_v_ResN2_Ca_10001" elementType="C" x3="-4.111343" y3="-6.688455" z3="0.083919"/>
+<atom id="cisDP_18_ii_v_ResN2_C_10002" elementType="C" x3="-2.620523" y3="-6.800397" z3="0.307953"/>
+<atom id="cisDP_18_ii_v_ResN2_O_10003" elementType="O" x3="-2.003440" y3="-7.836192" z3="0.063716"/>
+<atom id="cisDP_18_ii_v_ResN2_Cb_10004" elementType="C" x3="-4.401569" y3="-6.959289" z3="0.554352"/>
+<atom id="cisDP_18_ii_v_ResN2_H_10005" elementType="H" x3="-4.135263" y3="-8.300194" z3="-1.249321"/>
+<atom id="cisDP_18_ii_v_ResN1_N_10000" elementType="N" x3="-2.013416" y3="-5.731936" z3="0.751048"/>
+<atom id="cisDP_18_ii_v_ResN1_Ca_10001" elementType="C" x3="-0.574729" y3="-5.686659" z3="1.067894"/>
+<atom id="cisDP_18_ii_v_ResN1_C_10002" elementType="C" x3="0.119565" y3="-4.613332" z3="0.199972"/>
+<atom id="cisDP_18_ii_v_ResN1_O_10003" elementType="O" x3="1.325186" y3="-4.402733" z3="0.404341"/>
+<atom id="cisDP_18_ii_v_ResN1_H_10005" elementType="H" x3="-2.484259" y3="-4.863785" z3="0.907795"/>
+<atom id="cisDP_18_ii_v_Res1_N_10000" elementType="N" x3="-0.579275" y3="-4.039610" z3="-0.740347"/>
+<atom id="cisDP_18_ii_v_Res1_H_10005" elementType="H" x3="-1.528272" y3="-4.269849" z3="-0.957057"/>
+<atom id="cisDP_18_iii_i_ResN2_N_2000" elementType="N" x3="-4.291831" y3="-6.973583" z3="-5.457093"/>
+<atom id="cisDP_18_iii_i_ResN2_Ca_2001" elementType="C" x3="-3.757017" y3="-5.666682" z3="-5.073120"/>
+<atom id="cisDP_18_iii_i_ResN2_C_2002" elementType="C" x3="-2.732024" y3="-5.938796" z3="-3.963765"/>
+<atom id="cisDP_18_iii_i_ResN2_O_2003" elementType="O" x3="-3.087479" y3="-6.235564" z3="-2.819641"/>
+<atom id="cisDP_18_iii_i_ResN2_Cb_2004" elementType="C" x3="-4.212772" y3="-5.305529" z3="-4.880050"/>
+<atom id="cisDP_18_iii_i_ResN2_H_2005" elementType="H" x3="-4.828030" y3="-7.420546" z3="-4.740557"/>
+<atom id="cisDP_18_iii_i_ResN1_N_2000" elementType="N" x3="-1.455738" y3="-5.835334" z3="-4.327323"/>
+<atom id="cisDP_18_iii_i_ResN1_Ca_2001" elementType="C" x3="-0.343715" y3="-6.134542" z3="-3.420329"/>
+<atom id="cisDP_18_iii_i_ResN1_C_2002" elementType="C" x3="0.132728" y3="-4.998565" z3="-2.529087"/>
+<atom id="cisDP_18_iii_i_ResN1_O_2003" elementType="O" x3="0.948334" y3="-5.213811" z3="-1.623171"/>
+<atom id="cisDP_18_iii_i_ResN1_Cb_2004" elementType="C" x3="0.126201" y3="-6.346499" z3="-3.745766"/>
+<atom id="cisDP_18_iii_i_ResN1_H_2005" elementType="H" x3="-1.166145" y3="-5.547678" z3="-5.239985"/>
+<atom id="cisDP_18_iii_i_Res1_N_2000" elementType="N" x3="-0.377146" y3="-3.801354" z3="-2.794069"/>
+<atom id="cisDP_18_iii_i_Res1_H_2005" elementType="H" x3="-1.049634" y3="-3.634965" z3="-3.515209"/>
+<atom id="cisDP_18_iii_ii_ResN2_N_4000" elementType="N" x3="-1.776631" y3="-8.207567" z3="-1.950265"/>
+<atom id="cisDP_18_iii_ii_ResN2_Ca_4001" elementType="C" x3="-2.793736" y3="-7.433545" z3="-2.672664"/>
+<atom id="cisDP_18_iii_ii_ResN2_C_4002" elementType="C" x3="-3.076265" y3="-6.045689" z3="-2.061884"/>
+<atom id="cisDP_18_iii_ii_ResN2_O_4003" elementType="O" x3="-3.640419" y3="-5.207991" z3="-2.750142"/>
+<atom id="cisDP_18_iii_ii_ResN2_Cb_4004" elementType="C" x3="-3.318792" y3="-7.745293" z3="-2.677254"/>
+<atom id="cisDP_18_iii_ii_ResN2_H_4005" elementType="H" x3="-2.083416" y3="-9.116431" z3="-1.669108"/>
+<atom id="cisDP_18_iii_ii_ResN1_N_4000" elementType="N" x3="-2.744921" y3="-5.813404" z3="-0.781965"/>
+<atom id="cisDP_18_iii_ii_ResN1_Ca_4001" elementType="C" x3="-2.962074" y3="-4.487775" z3="-0.154227"/>
+<atom id="cisDP_18_iii_ii_ResN1_C_4002" elementType="C" x3="-2.077433" y3="-3.387412" z3="-0.718956"/>
+<atom id="cisDP_18_iii_ii_ResN1_O_4003" elementType="O" x3="-2.367815" y3="-2.190917" z3="-0.564114"/>
+<atom id="cisDP_18_iii_ii_ResN1_Cb_4004" elementType="C" x3="-2.882687" y3="-4.520808" z3="0.451940"/>
+<atom id="cisDP_18_iii_ii_ResN1_H_4005" elementType="H" x3="-2.339102" y3="-6.497211" z3="-0.175516"/>
+<atom id="cisDP_18_iii_ii_Res1_N_4000" elementType="N" x3="-0.984246" y3="-3.782744" z3="-1.354164"/>
+<atom id="cisDP_18_iii_ii_Res1_H_4005" elementType="H" x3="-0.763677" y3="-4.740509" z3="-1.540149"/>
+<atom id="cisDP_18_iii_iii_ResN2_N_6000" elementType="N" x3="-5.506834" y3="-4.240512" z3="1.772637"/>
+<atom id="cisDP_18_iii_iii_ResN2_Ca_6001" elementType="C" x3="-4.278349" y3="-4.967327" z3="2.028079"/>
+<atom id="cisDP_18_iii_iii_ResN2_C_6002" elementType="C" x3="-3.425412" y3="-5.053504" z3="0.780227"/>
+<atom id="cisDP_18_iii_iii_ResN2_O_6003" elementType="O" x3="-2.269619" y3="-5.462212" z3="0.838941"/>
+<atom id="cisDP_18_iii_iii_ResN2_H_6005" elementType="H" x3="-5.391436" y3="-3.264093" z3="1.591896"/>
+<atom id="cisDP_18_iii_iii_ResN1_N_6000" elementType="N" x3="-4.004295" y3="-4.675090" z3="-0.355151"/>
+<atom id="cisDP_18_iii_iii_ResN1_Ca_6001" elementType="C" x3="-3.293193" y3="-4.691953" z3="-1.626397"/>
+<atom id="cisDP_18_iii_iii_ResN1_C_6002" elementType="C" x3="-2.242827" y3="-3.582656" z3="-1.599357"/>
+<atom id="cisDP_18_iii_iii_ResN1_O_6003" elementType="O" x3="-2.492042" y3="-2.501899" z3="-1.062109"/>
+<atom id="cisDP_18_iii_iii_ResN1_Cb_6004" elementType="C" x3="-3.680343" y3="-4.592460" z3="-2.097359"/>
+<atom id="cisDP_18_iii_iii_ResN1_H_6005" elementType="H" x3="-4.950840" y3="-4.357542" z3="-0.417642"/>
+<atom id="cisDP_18_iii_iii_Res1_N_6000" elementType="N" x3="-1.070348" y3="-3.850606" z3="-2.167979"/>
+<atom id="cisDP_18_iii_iii_Res1_H_6005" elementType="H" x3="-0.843121" y3="-4.722017" z3="-2.603047"/>
+<atom id="cisDP_18_iii_iv_ResN2_N_8000" elementType="N" x3="-0.732108" y3="-10.314619" z3="-4.431863"/>
+<atom id="cisDP_18_iii_iv_ResN2_Ca_8001" elementType="C" x3="-1.027430" y3="-9.348634" z3="-3.366611"/>
+<atom id="cisDP_18_iii_iv_ResN2_C_8002" elementType="C" x3="-0.279214" y3="-8.059302" z3="-3.706097"/>
+<atom id="cisDP_18_iii_iv_ResN2_O_8003" elementType="O" x3="0.925993" y3="-8.092196" z3="-3.968620"/>
+<atom id="cisDP_18_iii_iv_ResN2_Cb_8004" elementType="C" x3="-0.847947" y3="-9.563371" z3="-2.821458"/>
+<atom id="cisDP_18_iii_iv_ResN2_H_8005" elementType="H" x3="0.245239" y3="-10.392857" z3="-4.627679"/>
+<atom id="cisDP_18_iii_iv_ResN1_N_8000" elementType="N" x3="-1.006970" y3="-6.956437" z3="-3.811872"/>
+<atom id="cisDP_18_iii_iv_ResN1_Ca_8001" elementType="C" x3="-0.472600" y3="-5.678953" z3="-4.272650"/>
+<atom id="cisDP_18_iii_iv_ResN1_C_8002" elementType="C" x3="-0.745320" y3="-4.548225" z3="-3.284032"/>
+<atom id="cisDP_18_iii_iv_ResN1_O_8003" elementType="O" x3="-1.817461" y3="-4.540183" z3="-2.668877"/>
+<atom id="cisDP_18_iii_iv_ResN1_Cb_8004" elementType="C" x3="-0.735129" y3="-5.528792" z3="-4.814455"/>
+<atom id="cisDP_18_iii_iv_ResN1_H_8005" elementType="H" x3="-1.979597" y3="-6.922228" z3="-3.582112"/>
+<atom id="cisDP_18_iii_iv_Res1_N_8000" elementType="N" x3="0.180969" y3="-3.609586" z3="-3.144586"/>
+<atom id="cisDP_18_iii_iv_Res1_H_8005" elementType="H" x3="1.065472" y3="-3.637582" z3="-3.610485"/>
+<atom id="cisDP_18_iii_v_ResN2_N_10000" elementType="N" x3="-1.297557" y3="-7.411577" z3="2.573727"/>
+<atom id="cisDP_18_iii_v_ResN2_Ca_10001" elementType="C" x3="-0.601452" y3="-6.374107" z3="1.821360"/>
+<atom id="cisDP_18_iii_v_ResN2_C_10002" elementType="C" x3="-1.127400" y3="-6.212764" z3="0.383363"/>
+<atom id="cisDP_18_iii_v_ResN2_O_10003" elementType="O" x3="-0.520157" y3="-6.706405" z3="-0.566165"/>
+<atom id="cisDP_18_iii_v_ResN2_Cb_10004" elementType="C" x3="0.007295" y3="-6.503102" z3="1.810455"/>
+<atom id="cisDP_18_iii_v_ResN2_H_10005" elementType="H" x3="-1.312155" y3="-8.308101" z3="2.130830"/>
+<atom id="cisDP_18_iii_v_ResN1_N_10000" elementType="N" x3="-2.273535" y3="-5.522818" z3="0.218621"/>
+<atom id="cisDP_18_iii_v_ResN1_Ca_10001" elementType="C" x3="-2.776085" y3="-5.252905" z3="-1.137773"/>
+<atom id="cisDP_18_iii_v_ResN1_C_10002" elementType="C" x3="-1.776245" y3="-4.439894" z3="-1.952848"/>
+<atom id="cisDP_18_iii_v_ResN1_O_10003" elementType="O" x3="-1.703831" y3="-4.645157" z3="-3.166415"/>
+<atom id="cisDP_18_iii_v_ResN1_Cb_10004" elementType="C" x3="-3.294953" y3="-4.933785" z3="-1.043455"/>
+<atom id="cisDP_18_iii_v_Res1_N_10000" elementType="N" x3="-1.049066" y3="-3.538017" z3="-1.286357"/>
+<atom id="cisDP_18_iii_v_Res1_H_10005" elementType="H" x3="-1.170764" y3="-3.367930" z3="-0.308576"/>
+<atom id="cisDP_18_iv_i_ResN2_N_2000" elementType="N" x3="-2.046637" y3="-7.823575" z3="-2.993399"/>
+<atom id="cisDP_18_iv_i_ResN2_Ca_2001" elementType="C" x3="-3.185267" y3="-7.182592" z3="-3.628128"/>
+<atom id="cisDP_18_iv_i_ResN2_C_2002" elementType="C" x3="-3.613603" y3="-5.873454" z3="-2.969492"/>
+<atom id="cisDP_18_iv_i_ResN2_O_2003" elementType="O" x3="-4.436702" y3="-5.137820" z3="-3.513062"/>
+<atom id="cisDP_18_iv_i_ResN2_Cb_2004" elementType="C" x3="-3.647462" y3="-7.578338" z3="-3.688138"/>
+<atom id="cisDP_18_iv_i_ResN2_H_2005" elementType="H" x3="-2.273464" y3="-8.559588" z3="-2.355106"/>
+<atom id="cisDP_18_iv_i_ResN1_N_2000" elementType="N" x3="-3.024916" y3="-5.574248" z3="-1.814352"/>
+<atom id="cisDP_18_iv_i_ResN1_Ca_2001" elementType="C" x3="-3.290350" y3="-4.321369" z3="-1.110560"/>
+<atom id="cisDP_18_iv_i_ResN1_C_2002" elementType="C" x3="-2.220320" y3="-3.268924" z3="-1.375435"/>
+<atom id="cisDP_18_iv_i_ResN1_O_2003" elementType="O" x3="-2.415393" y3="-2.104425" z3="-1.046576"/>
+<atom id="cisDP_18_iv_i_ResN1_Cb_2004" elementType="C" x3="-3.345864" y3="-4.417183" z3="-0.506473"/>
+<atom id="cisDP_18_iv_i_ResN1_H_2005" elementType="H" x3="-2.370844" y3="-6.173628" z3="-1.352981"/>
+<atom id="cisDP_18_iv_i_Res1_N_2000" elementType="N" x3="-1.096107" y3="-3.676533" z3="-1.960634"/>
+<atom id="cisDP_18_iv_i_Res1_H_2005" elementType="H" x3="-0.921462" y3="-4.621156" z3="-2.239276"/>
+<atom id="cisDP_18_iv_ii_ResN2_N_4000" elementType="N" x3="-2.908488" y3="-7.419153" z3="2.375321"/>
+<atom id="cisDP_18_iv_ii_ResN2_Ca_4001" elementType="C" x3="-3.219532" y3="-7.874817" z3="1.037715"/>
+<atom id="cisDP_18_iv_ii_ResN2_C_4002" elementType="C" x3="-3.107038" y3="-6.771725" z3="-0.042784"/>
+<atom id="cisDP_18_iv_ii_ResN2_O_4003" elementType="O" x3="-3.017740" y3="-7.134006" z3="-1.205372"/>
+<atom id="cisDP_18_iv_ii_ResN2_Cb_4004" elementType="C" x3="-3.775092" y3="-8.165070" z3="0.995031"/>
+<atom id="cisDP_18_iv_ii_ResN2_H_4005" elementType="H" x3="-3.708574" y3="-7.188623" z3="2.929250"/>
+<atom id="cisDP_18_iv_ii_ResN1_N_4000" elementType="N" x3="-3.209950" y3="-5.528271" z3="0.379920"/>
+<atom id="cisDP_18_iv_ii_ResN1_Ca_4001" elementType="C" x3="-3.127678" y3="-4.408381" z3="-0.595158"/>
+<atom id="cisDP_18_iv_ii_ResN1_C_4002" elementType="C" x3="-1.630034" y3="-3.906512" z3="-0.631746"/>
+<atom id="cisDP_18_iv_ii_ResN1_O_4003" elementType="O" x3="-0.949646" y3="-3.880972" z3="0.326841"/>
+<atom id="cisDP_18_iv_ii_ResN1_Cb_4004" elementType="C" x3="-3.466568" y3="-3.945781" z3="-0.419584"/>
+<atom id="cisDP_18_iv_ii_ResN1_H_4005" elementType="H" x3="-3.344004" y3="-5.257031" z3="1.333182"/>
+<atom id="cisDP_18_iv_ii_Res1_N_4000" elementType="N" x3="-1.329337" y3="-3.425941" z3="-1.850157"/>
+<atom id="cisDP_18_iv_ii_Res1_H_4005" elementType="H" x3="-1.921551" y3="-3.464980" z3="-2.654556"/>
+<atom id="cisDP_18_iv_iii_ResN2_N_6000" elementType="N" x3="-2.562413" y3="-7.386023" z3="1.475412"/>
+<atom id="cisDP_18_iv_iii_ResN2_Ca_6001" elementType="C" x3="-2.835498" y3="-7.766175" z3="0.102955"/>
+<atom id="cisDP_18_iv_iii_ResN2_C_6002" elementType="C" x3="-3.013993" y3="-6.663019" z3="-0.921617"/>
+<atom id="cisDP_18_iv_iii_ResN2_O_6003" elementType="O" x3="-3.134438" y3="-6.952008" z3="-2.123748"/>
+<atom id="cisDP_18_iv_iii_ResN2_H_6005" elementType="H" x3="-3.364503" y3="-7.092106" z3="1.995460"/>
+<atom id="cisDP_18_iv_iii_ResN1_N_6000" elementType="N" x3="-3.028206" y3="-5.408986" z3="-0.470465"/>
+<atom id="cisDP_18_iv_iii_ResN1_Ca_6001" elementType="C" x3="-3.337121" y3="-4.292699" z3="-1.357806"/>
+<atom id="cisDP_18_iv_iii_ResN1_C_6002" elementType="C" x3="-2.201889" y3="-3.284738" z3="-1.415869"/>
+<atom id="cisDP_18_iv_iii_ResN1_O_6003" elementType="O" x3="-2.293653" y3="-2.187138" z3="-0.848854"/>
+<atom id="cisDP_18_iv_iii_ResN1_Cb_6004" elementType="C" x3="-3.863921" y3="-4.020921" z3="-1.191733"/>
+<atom id="cisDP_18_iv_iii_ResN1_H_6005" elementType="H" x3="-2.835390" y3="-5.148845" z3="0.476128"/>
+<atom id="cisDP_18_iv_iii_Res1_N_6000" elementType="N" x3="-1.130671" y3="-3.644182" z3="-2.111045"/>
+<atom id="cisDP_18_iv_iii_Res1_H_6005" elementType="H" x3="-1.019392" y3="-4.528042" z3="-2.566164"/>
+<atom id="cisDP_18_iv_iv_ResN2_N_8000" elementType="N" x3="1.445681" y3="-8.717568" z3="-3.572771"/>
+<atom id="cisDP_18_iv_iv_ResN2_Ca_8001" elementType="C" x3="1.122022" y3="-7.402814" z3="-3.014254"/>
+<atom id="cisDP_18_iv_iv_ResN2_C_8002" elementType="C" x3="-0.094869" y3="-6.742205" z3="-3.653629"/>
+<atom id="cisDP_18_iv_iv_ResN2_O_8003" elementType="O" x3="-0.325627" y3="-6.888826" z3="-4.856156"/>
+<atom id="cisDP_18_iv_iv_ResN2_Cb_8004" elementType="C" x3="1.600468" y3="-7.027828" z3="-3.071297"/>
+<atom id="cisDP_18_iv_iv_ResN2_H_8005" elementType="H" x3="2.378117" y3="-8.797702" z3="-3.923847"/>
+<atom id="cisDP_18_iv_iv_ResN1_N_8000" elementType="N" x3="-0.866188" y3="-6.019426" z3="-2.849155"/>
+<atom id="cisDP_18_iv_iv_ResN1_Ca_8001" elementType="C" x3="-1.877304" y3="-5.107431" z3="-3.371863"/>
+<atom id="cisDP_18_iv_iv_ResN1_C_8002" elementType="C" x3="-1.269576" y3="-3.806205" z3="-3.885835"/>
+<atom id="cisDP_18_iv_iv_ResN1_O_8003" elementType="O" x3="-1.804246" y3="-3.180208" z3="-4.800321"/>
+<atom id="cisDP_18_iv_iv_ResN1_Cb_8004" elementType="C" x3="-2.299255" y3="-4.987889" z3="-2.945001"/>
+<atom id="cisDP_18_iv_iv_ResN1_H_8005" elementType="H" x3="-0.811075" y3="-6.046497" z3="-1.851249"/>
+<atom id="cisDP_18_iv_iv_Res1_N_8000" elementType="N" x3="-0.149570" y3="-3.406857" z3="-3.292092"/>
+<atom id="cisDP_18_iv_iv_Res1_H_8005" elementType="H" x3="0.652623" y3="-3.067559" z3="-3.783553"/>
+<atom id="cisDP_18_i_Res1_Ca_2001" elementType="C" x3="0.000000" y3="-2.541250" z3="-2.491680"/>
+<atom id="cisDP_18_i_Res1_C_2002" elementType="C" x3="-0.213160" y3="-1.182681" z3="-3.158803"/>
+<atom id="cisDP_18_i_Res1_O_2003" elementType="O" x3="-0.881256" y3="-1.070734" z3="-4.139723"/>
+<atom id="cisDP_18_i_Res1_Cb_2004" elementType="C" x3="0.420900" y3="-2.851335" z3="-2.795766"/>
+<atom id="cisDP_18_i_Res2_N_2000" elementType="N" x3="0.299636" y3="-0.107472" z3="-2.544675"/>
+<atom id="cisDP_18_i_Res2_Ca_2001" elementType="C" x3="1.248886" y3="-0.057007" z3="-1.469391"/>
+<atom id="cisDP_18_i_Res2_C_2002" elementType="C" x3="0.654489" y3="0.045453" z3="-0.068338"/>
+<atom id="cisDP_18_i_Res2_O_2003" elementType="O" x3="1.380232" y3="0.232654" z3="0.886570"/>
+<atom id="cisDP_18_i_Res2_Cb_2004" elementType="C" x3="1.570338" y3="0.451702" z3="-1.596873"/>
+<atom id="cisDP_18_i_Res3_N_2000" elementType="N" x3="-0.654489" y3="-0.045453" z3="0.068338"/>
+<atom id="cisDP_18_i_Res3_Ca_2001" elementType="C" x3="-1.226281" y3="-0.198595" z3="1.408547"/>
+<atom id="cisDP_18_i_Res3_C_2002" elementType="C" x3="-0.667886" y3="-1.452450" z3="2.044078"/>
+<atom id="cisDP_18_i_Res3_O_2003" elementType="O" x3="-0.539532" y3="-2.474187" z3="1.392954"/>
+<atom id="cisDP_18_i_Res3_Cb_2004" elementType="C" x3="-1.838867" y3="-0.237961" z3="1.376507"/>
+<atom id="cisDP_18_i_Res3_H_2005" elementType="H" x3="-1.318333" y3="-0.029647" z3="-0.679723"/>
+<atom id="cisDP_18_i_Res4_N_2000" elementType="N" x3="-0.447530" y3="-1.378044" z3="3.348657"/>
+<atom id="cisDP_18_i_Res4_Ca_2001" elementType="C" x3="0.000000" y3="-2.541250" z3="4.113406"/>
+<atom id="cisDP_18_i_Res4_H_2005" elementType="H" x3="-0.537232" y3="-0.542521" z3="3.891578"/>
+<atom id="cisDP_18_i_Res4_Cb_140" elementType="C" x3="1.252941" y3="-2.223242" z3="4.939901"/>
+<atom id="cisDP_18_i_Res4_O_100" elementType="O" x3="0.944438" y3="-1.178868" z3="5.869061"/>
+<atom id="cisDP_18_i_Res4_C_101" elementType="C" x3="2.353568" y3="-1.747822" z3="4.029952"/>
+<atom id="cisDP_18_i_Res4_H_102" elementType="H" x3="0.536148" y3="-1.565991" z3="6.695494"/>
+<atom id="cisDP_18_ii_Res1_Ca_4001" elementType="C" x3="-0.000000" y3="-2.668240" z3="-2.162779"/>
+<atom id="cisDP_18_ii_Res1_C_4002" elementType="C" x3="-1.423020" y3="-2.191465" z3="-1.864740"/>
+<atom id="cisDP_18_ii_Res1_O_4003" elementType="O" x3="-2.324921" y3="-3.028917" z3="-1.802928"/>
+<atom id="cisDP_18_ii_Res1_Cb_4004" elementType="C" x3="0.025350" y3="-2.812191" z3="-2.750016"/>
+<atom id="cisDP_18_ii_Res2_N_4000" elementType="N" x3="-1.649742" y3="-0.880823" z3="-1.754498"/>
+<atom id="cisDP_18_ii_Res2_Ca_4001" elementType="C" x3="-0.628810" y3="0.162850" z3="-1.812458"/>
+<atom id="cisDP_18_ii_Res2_C_4002" elementType="C" x3="0.269933" y3="0.200227" z3="-0.572222"/>
+<atom id="cisDP_18_ii_Res2_O_4003" elementType="O" x3="1.409303" y3="0.661351" z3="-0.657180"/>
+<atom id="cisDP_18_ii_Res2_Cb_4004" elementType="C" x3="-0.959710" y3="0.680170" z3="-1.859657"/>
+<atom id="cisDP_18_ii_Res3_N_4000" elementType="N" x3="-0.269933" y3="-0.200227" z3="0.572222"/>
+<atom id="cisDP_18_ii_Res3_Ca_4001" elementType="C" x3="0.494482" y3="-0.246409" z3="1.801789"/>
+<atom id="cisDP_18_ii_Res3_C_4002" elementType="C" x3="-0.201615" y3="-1.208664" z3="2.757482"/>
+<atom id="cisDP_18_ii_Res3_O_4003" elementType="O" x3="-1.405162" y3="-1.444688" z3="2.627375"/>
+<atom id="cisDP_18_ii_Res3_Cb_4004" elementType="C" x3="0.554424" y3="0.315343" z3="2.040108"/>
+<atom id="cisDP_18_ii_Res3_H_4005" elementType="H" x3="-1.224885" y3="-0.474566" z3="0.681718"/>
+<atom id="cisDP_18_ii_Res4_N_4000" elementType="N" x3="0.556955" y3="-1.777094" z3="3.692749"/>
+<atom id="cisDP_18_ii_Res4_Ca_4001" elementType="C" x3="-0.000000" y3="-2.668240" z3="4.697696"/>
+<atom id="cisDP_18_ii_Res4_H_4005" elementType="H" x3="1.546849" y3="-1.654767" z3="3.758919"/>
+<atom id="cisDP_18_ii_Res4_Cb_240" elementType="C" x3="1.091908" y3="-3.031521" z3="5.699245"/>
+<atom id="cisDP_18_ii_Res4_O_200" elementType="O" x3="2.190332" y3="-3.635356" z3="4.988188"/>
+<atom id="cisDP_18_ii_Res4_C_201" elementType="C" x3="0.575318" y3="-3.988974" z3="6.794592"/>
+<atom id="cisDP_18_ii_Res4_H_202" elementType="H" x3="1.885507" y3="-4.493665" z3="4.575658"/>
+<atom id="cisDP_18_iii_Res1_Ca_6001" elementType="C" x3="0.000000" y3="-2.588551" z3="-2.760111"/>
+<atom id="cisDP_18_iii_Res1_C_6002" elementType="C" x3="-0.692004" y3="-1.272401" z3="-3.111402"/>
+<atom id="cisDP_18_iii_Res1_O_6003" elementType="O" x3="-1.616877" y3="-1.259593" z3="-3.917412"/>
+<atom id="cisDP_18_iii_Res1_Cb_6004" elementType="C" x3="0.460236" y3="-2.685689" z3="-3.150619"/>
+<atom id="cisDP_18_iii_Res2_N_6000" elementType="N" x3="-0.223115" y3="-0.148789" z3="-2.549140"/>
+<atom id="cisDP_18_iii_Res2_Ca_6001" elementType="C" x3="0.943455" y3="-0.014710" z3="-1.680678"/>
+<atom id="cisDP_18_iii_Res2_C_6002" elementType="C" x3="0.603582" y3="0.182813" z3="-0.213309"/>
+<atom id="cisDP_18_iii_Res2_O_6003" elementType="O" x3="1.457890" y3="0.669712" z3="0.530383"/>
+<atom id="cisDP_18_iii_Res2_Cb_6004" elementType="C" x3="1.207199" y3="0.489842" z3="-1.896496"/>
+<atom id="cisDP_18_iii_Res3_N_6000" elementType="N" x3="-0.603582" y3="-0.182813" z3="0.213309"/>
+<atom id="cisDP_18_iii_Res3_Ca_6001" elementType="C" x3="-1.007647" y3="-0.015336" z3="1.603856"/>
+<atom id="cisDP_18_iii_Res3_C_6002" elementType="C" x3="-0.964121" y3="-1.352056" z3="2.334778"/>
+<atom id="cisDP_18_iii_Res3_O_6003" elementType="O" x3="-1.666611" y3="-2.303490" z3="1.969401"/>
+<atom id="cisDP_18_iii_Res3_Cb_6004" elementType="C" x3="-1.551685" y3="0.258854" z3="1.648174"/>
+<atom id="cisDP_18_iii_Res3_H_6005" elementType="H" x3="-1.304344" y3="-0.588885" z3="-0.374098"/>
+<atom id="cisDP_18_iii_Res4_N_6000" elementType="N" x3="-0.134005" y3="-1.411953" z3="3.368282"/>
+<atom id="cisDP_18_iii_Res4_Ca_6001" elementType="C" x3="-0.000000" y3="-2.588551" z3="4.215993"/>
+<atom id="cisDP_18_iii_Res4_H_6005" elementType="H" x3="0.458272" y3="-0.652725" z3="3.637994"/>
+<atom id="cisDP_18_iii_Res4_Cb_340" elementType="C" x3="1.059582" y3="-2.281558" z3="5.279782"/>
+<atom id="cisDP_18_iii_Res4_O_300" elementType="O" x3="2.218242" y3="-1.699774" z3="4.659454"/>
+<atom id="cisDP_18_iii_Res4_C_301" elementType="C" x3="1.449879" y3="-3.537153" z3="6.058641"/>
+<atom id="cisDP_18_iii_Res4_H_302" elementType="H" x3="2.600254" y3="-0.996433" z3="5.258466"/>
+<atom id="cisDP_18_iv_Res1_Ca_8001" elementType="C" x3="0.000000" y3="-2.748052" z3="-2.248918"/>
+<atom id="cisDP_18_iv_Res1_C_8002" elementType="C" x3="-0.498888" y3="-1.461072" z3="-2.900439"/>
+<atom id="cisDP_18_iv_Res1_O_8003" elementType="O" x3="-1.370508" y3="-1.500237" z3="-3.766759"/>
+<atom id="cisDP_18_iv_Res1_Cb_8004" elementType="C" x3="0.427307" y3="-3.012479" z3="-2.601978"/>
+<atom id="cisDP_18_iv_Res2_N_8000" elementType="N" x3="0.067992" y3="-0.314260" z3="-2.496378"/>
+<atom id="cisDP_18_iv_Res2_Ca_8001" elementType="C" x3="1.158130" y3="-0.184936" z3="-1.526810"/>
+<atom id="cisDP_18_iv_Res2_C_8002" elementType="C" x3="0.654775" y3="0.031514" z3="-0.103333"/>
+<atom id="cisDP_18_iv_Res2_O_8003" elementType="O" x3="1.459418" y3="0.257111" z3="0.799618"/>
+<atom id="cisDP_18_iv_Res2_Cb_8004" elementType="C" x3="1.439336" y3="0.321287" z3="-1.715374"/>
+<atom id="cisDP_18_iv_Res3_N_8000" elementType="N" x3="-0.654775" y3="-0.031514" z3="0.103333"/>
+<atom id="cisDP_18_iv_Res3_Ca_8001" elementType="C" x3="-1.197575" y3="0.203131" z3="1.437569"/>
+<atom id="cisDP_18_iv_Res3_C_8002" elementType="C" x3="-1.227123" y3="-1.071233" z3="2.266693"/>
+<atom id="cisDP_18_iv_Res3_O_8003" elementType="O" x3="-2.285354" y3="-1.638304" z3="2.518671"/>
+<atom id="cisDP_18_iv_Res3_Cb_8004" elementType="C" x3="-1.757685" y3="0.446561" z3="1.401486"/>
+<atom id="cisDP_18_iv_Res3_H_8005" elementType="H" x3="-1.333823" y3="-0.234169" z3="-0.602475"/>
+<atom id="cisDP_18_iv_Res4_N_8000" elementType="N" x3="-0.059706" y3="-1.522971" z3="2.702073"/>
+<atom id="cisDP_18_iv_Res4_Ca_8001" elementType="C" x3="0.000000" y3="-2.748052" z3="3.476874"/>
+<atom id="cisDP_18_iv_Res4_H_8005" elementType="H" x3="0.821405" y3="-1.078377" z3="2.538809"/>
+<atom id="cisDP_18_iv_Res4_Cb_440" elementType="C" x3="0.023996" y3="-3.985922" z3="2.556519"/>
+<atom id="cisDP_18_iv_Res4_O_400" elementType="O" x3="-0.309646" y3="-5.162541" z3="3.308543"/>
+<atom id="cisDP_18_iv_Res4_C_401" elementType="C" x3="1.377335" y3="-4.143596" z3="1.879107"/>
+<atom id="cisDP_18_iv_Res4_H_402" elementType="H" x3="-0.800600" y3="-4.899923" z3="4.139513"/>
+<atom id="cisDP_18_i_i_Res4_C_2002" elementType="C" x3="-0.824995" y3="-3.210216" z3="5.288870"/>
+<atom id="cisDP_18_i_i_Res4_O_2003" elementType="O" x3="-0.273620" y3="-4.079744" z3="6.006575"/>
+<atom id="cisDP_18_i_i_ResC1_N_2000" elementType="N" x3="-2.041571" y3="-2.727916" z3="5.550764"/>
+<atom id="cisDP_18_i_i_ResC1_Ca_2001" elementType="C" x3="-2.695943" y3="-3.267818" z3="6.723241"/>
+<atom id="cisDP_18_i_i_ResC1_C_2002" elementType="C" x3="-3.068296" y3="-4.726551" z3="6.471028"/>
+<atom id="cisDP_18_i_i_ResC1_O_2003" elementType="O" x3="-3.491596" y3="-5.093347" z3="5.408985"/>
+<atom id="cisDP_18_i_i_ResC1_Cb_2004" elementType="C" x3="-3.191965" y3="-2.965718" z3="6.870090"/>
+<atom id="cisDP_18_i_i_ResC1_H_2005" elementType="H" x3="-2.541229" y3="-2.038937" z3="5.024852"/>
+<atom id="cisDP_18_i_i_ResC2_N_2000" elementType="N" x3="-3.049480" y3="-5.515098" z3="7.594289"/>
+<atom id="cisDP_18_i_i_ResC2_Ca_2001" elementType="C" x3="-3.571025" y3="-6.885484" z3="7.487031"/>
+<atom id="cisDP_18_i_i_ResC2_C_2002" elementType="C" x3="-5.068044" y3="-6.864700" z3="7.602762"/>
+<atom id="cisDP_18_i_i_ResC2_O_2003" elementType="O" x3="-5.735240" y3="-5.894581" z3="8.067487"/>
+<atom id="cisDP_18_i_i_ResC2_Cb_2004" elementType="C" x3="-3.309349" y3="-7.207440" z3="7.933221"/>
+<atom id="cisDP_18_i_i_ResC2_H_2005" elementType="H" x3="-2.709006" y3="-5.242865" z3="8.494091"/>
+<atom id="cisDP_18_i_ii_Res4_C_4002" elementType="C" x3="-1.140503" y3="-2.867562" z3="5.104218"/>
+<atom id="cisDP_18_i_ii_Res4_O_4003" elementType="O" x3="-1.497565" y3="-1.756523" z3="5.453397"/>
+<atom id="cisDP_18_i_ii_ResC1_N_4000" elementType="N" x3="-1.721481" y3="-3.967220" z3="5.576386"/>
+<atom id="cisDP_18_i_ii_ResC1_Ca_4001" elementType="C" x3="-2.784641" y3="-3.895440" z3="6.594724"/>
+<atom id="cisDP_18_i_ii_ResC1_C_4002" elementType="C" x3="-2.320489" y3="-3.245652" z3="7.912755"/>
+<atom id="cisDP_18_i_ii_ResC1_O_4003" elementType="O" x3="-3.086040" y3="-2.612799" z3="8.601616"/>
+<atom id="cisDP_18_i_ii_ResC1_Cb_4004" elementType="C" x3="-3.006283" y3="-4.459612" z3="6.717302"/>
+<atom id="cisDP_18_i_ii_ResC1_H_4005" elementType="H" x3="-1.487460" y3="-4.894114" z3="5.284711"/>
+<atom id="cisDP_18_i_ii_ResC2_N_4000" elementType="N" x3="-1.063525" y3="-3.451840" z3="8.255266"/>
+<atom id="cisDP_18_i_ii_ResC2_Ca_4001" elementType="C" x3="-0.472133" y3="-2.816737" z3="9.422541"/>
+<atom id="cisDP_18_i_ii_ResC2_C_4002" elementType="C" x3="-0.196667" y3="-1.330016" z3="9.227587"/>
+<atom id="cisDP_18_i_ii_ResC2_O_4003" elementType="O" x3="-0.372715" y3="-0.570749" z3="10.141771"/>
+<atom id="cisDP_18_i_ii_ResC2_H_4005" elementType="H" x3="-0.438653" y3="-4.047012" z3="7.748982"/>
+<atom id="cisDP_18_i_iii_Res4_C_6002" elementType="C" x3="-1.054969" y3="-3.035909" z3="5.078818"/>
+<atom id="cisDP_18_i_iii_Res4_O_6003" elementType="O" x3="-1.010966" y3="-4.159744" z3="5.543618"/>
+<atom id="cisDP_18_i_iii_ResC1_N_6000" elementType="N" x3="-2.093229" y3="-2.239941" z3="5.269135"/>
+<atom id="cisDP_18_i_iii_ResC1_Ca_6001" elementType="C" x3="-3.254917" y3="-2.648997" z3="6.027268"/>
+<atom id="cisDP_18_i_iii_ResC1_C_6002" elementType="C" x3="-4.491006" y3="-2.182249" z3="5.308673"/>
+<atom id="cisDP_18_i_iii_ResC1_O_6003" elementType="O" x3="-4.513842" y3="-2.066016" z3="4.081088"/>
+<atom id="cisDP_18_i_iii_ResC1_H_6005" elementType="H" x3="-2.155788" y3="-1.304463" z3="4.922385"/>
+<atom id="cisDP_18_i_iii_ResC2_N_6000" elementType="N" x3="-5.556106" y3="-1.953310" z3="6.059168"/>
+<atom id="cisDP_18_i_iii_ResC2_Ca_6001" elementType="C" x3="-6.775644" y3="-1.489455" z3="5.458771"/>
+<atom id="cisDP_18_i_iii_ResC2_C_6002" elementType="C" x3="-6.559579" y3="-0.202217" z3="4.729409"/>
+<atom id="cisDP_18_i_iii_ResC2_O_6003" elementType="O" x3="-5.815032" y3="0.687564" z3="5.155293"/>
+<atom id="cisDP_18_i_iii_ResC2_Cb_6004" elementType="C" x3="-7.205959" y3="-1.399343" z3="5.876491"/>
+<atom id="cisDP_18_i_iii_ResC2_H_6005" elementType="H" x3="-5.616407" y3="-2.150822" z3="7.037474"/>
+<atom id="cisDP_18_i_iv_Res4_C_8002" elementType="C" x3="-1.165388" y3="-3.356427" z3="4.615704"/>
+<atom id="cisDP_18_i_iv_Res4_O_8003" elementType="O" x3="-2.323208" y3="-2.935758" z3="4.634829"/>
+<atom id="cisDP_18_i_iv_ResC1_N_8000" elementType="N" x3="-0.845008" y3="-4.609649" z3="4.896339"/>
+<atom id="cisDP_18_i_iv_ResC1_Ca_8001" elementType="C" x3="-1.846445" y3="-5.568808" z3="5.319977"/>
+<atom id="cisDP_18_i_iv_ResC1_C_8002" elementType="C" x3="-1.190118" y3="-6.676992" z3="6.107154"/>
+<atom id="cisDP_18_i_iv_ResC1_O_8003" elementType="O" x3="-0.321137" y3="-7.367565" z3="5.595418"/>
+<atom id="cisDP_18_i_iv_ResC1_Cb_8004" elementType="C" x3="-2.142212" y3="-5.808983" z3="4.844827"/>
+<atom id="cisDP_18_i_iv_ResC1_H_8005" elementType="H" x3="0.083204" y3="-4.976484" z3="4.838343"/>
+<atom id="cisDP_18_i_iv_ResC2_N_8000" elementType="N" x3="-1.602760" y3="-6.828852" z3="7.357422"/>
+<atom id="cisDP_18_i_iv_ResC2_Ca_8001" elementType="C" x3="-1.145655" y3="-7.923071" z3="8.188946"/>
+<atom id="cisDP_18_i_iv_ResC2_C_8002" elementType="C" x3="-2.319788" y3="-8.387935" z3="9.020843"/>
+<atom id="cisDP_18_i_iv_ResC2_O_8003" elementType="O" x3="-3.264670" y3="-7.637735" z3="9.241133"/>
+<atom id="cisDP_18_i_iv_ResC2_Cb_8004" elementType="C" x3="-0.694929" y3="-7.746696" z3="8.560932"/>
+<atom id="cisDP_18_i_iv_ResC2_H_8005" elementType="H" x3="-2.247125" y3="-6.211723" z3="7.808708"/>
+<atom id="cisDP_18_i_v_Res4_C_10002" elementType="C" x3="-1.275899" y3="-3.569454" z3="4.419251"/>
+<atom id="cisDP_18_i_v_Res4_O_10003" elementType="O" x3="-1.388753" y3="-4.825255" z3="4.492760"/>
+<atom id="cisDP_18_i_v_ResC1_N_10000" elementType="N" x3="-2.405582" y3="-2.905831" z3="4.565791"/>
+<atom id="cisDP_18_i_v_ResC1_Ca_10001" elementType="C" x3="-3.742108" y3="-3.531170" z3="4.768022"/>
+<atom id="cisDP_18_i_v_ResC1_C_10002" elementType="C" x3="-4.616051" y3="-3.737003" z3="3.529662"/>
+<atom id="cisDP_18_i_v_ResC1_O_10003" elementType="O" x3="-5.841550" y3="-3.967450" z3="3.617213"/>
+<atom id="cisDP_18_i_v_ResC1_Cb_10004" elementType="C" x3="-4.043959" y3="-3.100882" z3="5.146648"/>
+<atom id="cisDP_18_i_v_ResC1_H_10005" elementType="H" x3="-2.361988" y3="-1.907315" z3="4.539569"/>
+<atom id="cisDP_18_i_v_ResC2_N_10000" elementType="N" x3="-4.011670" y3="-3.669779" z3="2.367646"/>
+<atom id="cisDP_18_i_v_ResC2_Ca_10001" elementType="C" x3="-4.691671" y3="-3.761041" z3="1.061000"/>
+<atom id="cisDP_18_i_v_ResC2_C_10002" elementType="C" x3="-4.224919" y3="-5.028703" z3="0.361948"/>
+<atom id="cisDP_18_i_v_ResC2_O_10003" elementType="O" x3="-3.198072" y3="-5.042550" z3="-0.325346"/>
+<atom id="cisDP_18_i_v_ResC2_Cb_10004" elementType="C" x3="-4.571539" y3="-3.272584" z3="0.723580"/>
+<atom id="cisDP_18_i_v_ResC2_H_10005" elementType="H" x3="-3.019159" y3="-3.548020" z3="2.367057"/>
+<atom id="cisDP_18_ii_i_Res4_C_2002" elementType="C" x3="-1.172353" y3="-2.030911" z3="5.474861"/>
+<atom id="cisDP_18_ii_i_Res4_O_2003" elementType="O" x3="-1.049421" y3="-1.684080" z3="6.610360"/>
+<atom id="cisDP_18_ii_i_ResC1_N_2000" elementType="N" x3="-2.297689" y3="-1.943509" z3="4.790021"/>
+<atom id="cisDP_18_ii_i_ResC1_Ca_2001" elementType="C" x3="-3.526395" y3="-1.519350" z3="5.424626"/>
+<atom id="cisDP_18_ii_i_ResC1_C_2002" elementType="C" x3="-4.018375" y3="-2.658004" z3="6.305337"/>
+<atom id="cisDP_18_ii_i_ResC1_O_2003" elementType="O" x3="-4.471791" y3="-2.454248" z3="7.416358"/>
+<atom id="cisDP_18_ii_i_ResC1_Cb_2004" elementType="C" x3="-3.941734" y3="-1.380931" z3="4.994077"/>
+<atom id="cisDP_18_ii_i_ResC1_H_2005" elementType="H" x3="-2.382285" y3="-2.156263" z3="3.815906"/>
+<atom id="cisDP_18_ii_i_ResC2_N_2000" elementType="N" x3="-3.976462" y3="-3.870073" z3="5.758341"/>
+<atom id="cisDP_18_ii_i_ResC2_Ca_2001" elementType="C" x3="-4.400306" y3="-5.052976" z3="6.456794"/>
+<atom id="cisDP_18_ii_i_ResC2_C_2002" elementType="C" x3="-3.295627" y3="-6.066806" z3="6.650814"/>
+<atom id="cisDP_18_ii_i_ResC2_O_2003" elementType="O" x3="-2.363194" y3="-6.184983" z3="5.848098"/>
+<atom id="cisDP_18_ii_i_ResC2_Cb_2004" elementType="C" x3="-4.857048" y3="-5.327333" z3="6.152096"/>
+<atom id="cisDP_18_ii_i_ResC2_H_2005" elementType="H" x3="-3.649537" y3="-4.043277" z3="4.829170"/>
+<atom id="cisDP_18_ii_ii_Res4_C_4002" elementType="C" x3="-1.475243" y3="-3.164782" z3="4.772591"/>
+<atom id="cisDP_18_ii_ii_Res4_O_4003" elementType="O" x3="-1.813469" y3="-4.342609" z3="4.804076"/>
+<atom id="cisDP_18_ii_ii_ResC1_N_4000" elementType="N" x3="-2.344141" y3="-2.165321" z3="4.884949"/>
+<atom id="cisDP_18_ii_ii_ResC1_Ca_4001" elementType="C" x3="-3.757456" y3="-2.425150" z3="5.152430"/>
+<atom id="cisDP_18_ii_ii_ResC1_C_4002" elementType="C" x3="-4.565564" y3="-2.719118" z3="3.890575"/>
+<atom id="cisDP_18_ii_ii_ResC1_O_4003" elementType="O" x3="-5.792853" y3="-2.663565" z3="3.921725"/>
+<atom id="cisDP_18_ii_ii_ResC1_Cb_4004" elementType="C" x3="-4.006180" y3="-1.949561" z3="5.442820"/>
+<atom id="cisDP_18_ii_ii_ResC1_H_4005" elementType="H" x3="-2.105432" y3="-1.197993" z3="4.797819"/>
+<atom id="cisDP_18_ii_ii_ResC2_N_4000" elementType="N" x3="-3.888361" y3="-3.047156" z3="2.792969"/>
+<atom id="cisDP_18_ii_ii_ResC2_Ca_4001" elementType="C" x3="-4.583026" y3="-3.228074" z3="1.513705"/>
+<atom id="cisDP_18_ii_ii_ResC2_C_4002" elementType="C" x3="-5.797795" y3="-4.162306" z3="1.569743"/>
+<atom id="cisDP_18_ii_ii_ResC2_O_4003" elementType="O" x3="-6.848802" y3="-3.839453" z3="1.013889"/>
+<atom id="cisDP_18_ii_ii_ResC2_Cb_4004" elementType="C" x3="-4.192688" y3="-3.403764" z3="1.072848"/>
+<atom id="cisDP_18_ii_ii_ResC2_H_4005" elementType="H" x3="-2.899407" y3="-3.188587" z3="2.758651"/>
+<atom id="cisDP_18_ii_iii_Res4_C_6002" elementType="C" x3="-0.456625" y3="-2.067234" z3="6.027307"/>
+<atom id="cisDP_18_ii_iii_Res4_O_6003" elementType="O" x3="0.211501" y3="-1.204349" z3="6.617502"/>
+<atom id="cisDP_18_ii_iii_ResC1_N_6000" elementType="N" x3="-1.581789" y3="-2.609831" z3="6.505505"/>
+<atom id="cisDP_18_ii_iii_ResC1_Ca_6001" elementType="C" x3="-2.113719" y3="-2.286706" z3="7.824851"/>
+<atom id="cisDP_18_ii_iii_ResC1_C_6002" elementType="C" x3="-2.028554" y3="-3.482226" z3="8.790278"/>
+<atom id="cisDP_18_ii_iii_ResC1_O_6003" elementType="O" x3="-2.510071" y3="-4.558594" z3="8.507771"/>
+<atom id="cisDP_18_ii_iii_ResC1_Cb_6004" elementType="C" x3="-2.697623" y3="-2.082609" z3="7.796968"/>
+<atom id="cisDP_18_ii_iii_ResC1_H_6005" elementType="H" x3="-2.134158" y3="-3.270238" z3="5.996874"/>
+<atom id="cisDP_18_ii_iii_ResC2_N_6000" elementType="N" x3="-1.419315" y3="-3.271187" z3="9.954909"/>
+<atom id="cisDP_18_ii_iii_ResC2_Ca_6001" elementType="C" x3="-1.413146" y3="-4.270353" z3="10.995050"/>
+<atom id="cisDP_18_ii_iii_ResC2_C_6002" elementType="C" x3="-1.997934" y3="-3.669001" z3="12.250321"/>
+<atom id="cisDP_18_ii_iii_ResC2_O_6003" elementType="O" x3="-1.814376" y3="-2.468040" z3="12.546259"/>
+<atom id="cisDP_18_ii_iii_ResC2_Cb_6004" elementType="C" x3="-0.854103" y3="-4.488634" z3="11.115445"/>
+<atom id="cisDP_18_ii_iii_ResC2_H_6005" elementType="H" x3="-0.934782" y3="-2.427673" z3="10.187601"/>
+<atom id="cisDP_18_ii_iv_Res4_C_8002" elementType="C" x3="-0.223960" y3="-2.799383" z3="5.792326"/>
+<atom id="cisDP_18_ii_iv_Res4_O_8003" elementType="O" x3="0.337570" y3="-1.895493" z3="6.451197"/>
+<atom id="cisDP_18_ii_iv_ResC1_N_8000" elementType="N" x3="-1.056472" y3="-3.672109" z3="6.363639"/>
+<atom id="cisDP_18_ii_iv_ResC1_Ca_8001" elementType="C" x3="-1.163679" y3="-3.899107" z3="7.818469"/>
+<atom id="cisDP_18_ii_iv_ResC1_C_8002" elementType="C" x3="-0.233729" y3="-4.999831" z3="8.397571"/>
+<atom id="cisDP_18_ii_iv_ResC1_O_8003" elementType="O" x3="-0.442717" y3="-5.367802" z3="9.551350"/>
+<atom id="cisDP_18_ii_iv_ResC1_Cb_8004" elementType="C" x3="-1.749247" y3="-4.013699" z3="7.943720"/>
+<atom id="cisDP_18_ii_iv_ResC1_H_8005" elementType="H" x3="-1.679790" y3="-4.245986" z3="5.831920"/>
+<atom id="cisDP_18_ii_iv_ResC2_N_8000" elementType="N" x3="0.675144" y3="-5.552507" z3="7.576561"/>
+<atom id="cisDP_18_ii_iv_ResC2_Ca_8001" elementType="C" x3="1.457801" y3="-6.761444" z3="7.892286"/>
+<atom id="cisDP_18_ii_iv_ResC2_C_8002" elementType="C" x3="0.689861" y3="-7.969625" z3="7.396567"/>
+<atom id="cisDP_18_ii_iv_ResC2_O_8003" elementType="O" x3="-0.498687" y3="-7.844958" z3="7.098113"/>
+<atom id="cisDP_18_ii_iv_ResC2_H_8005" elementType="H" x3="0.887197" y3="-5.172821" z3="6.675787"/>
+<atom id="cisDP_18_ii_v_Res4_C_10002" elementType="C" x3="-1.132406" y3="-1.957337" z3="5.414008"/>
+<atom id="cisDP_18_ii_v_Res4_O_10003" elementType="O" x3="-0.922886" y3="-0.891978" z3="5.972110"/>
+<atom id="cisDP_18_ii_v_ResC1_N_10000" elementType="N" x3="-2.328964" y3="-2.535742" z3="5.377105"/>
+<atom id="cisDP_18_ii_v_ResC1_Ca_10001" elementType="C" x3="-3.480891" y3="-1.951165" z3="6.042440"/>
+<atom id="cisDP_18_ii_v_ResC1_C_10002" elementType="C" x3="-4.343416" y3="-1.049419" z3="5.197174"/>
+<atom id="cisDP_18_ii_v_ResC1_O_10003" elementType="O" x3="-5.338465" y3="-0.561040" z3="5.685286"/>
+<atom id="cisDP_18_ii_v_ResC1_H_10005" elementType="H" x3="-2.530711" y3="-3.392492" z3="4.902482"/>
+<atom id="cisDP_18_ii_v_ResC2_N_10000" elementType="N" x3="-3.977549" y3="-0.831792" z3="3.936864"/>
+<atom id="cisDP_18_ii_v_ResC2_Ca_10001" elementType="C" x3="-4.680750" y3="0.102647" z3="3.063167"/>
+<atom id="cisDP_18_ii_v_ResC2_C_10002" elementType="C" x3="-5.076961" y3="-0.571685" z3="1.764426"/>
+<atom id="cisDP_18_ii_v_ResC2_O_10003" elementType="O" x3="-4.331660" y3="-1.388600" z3="1.228180"/>
+<atom id="cisDP_18_ii_v_ResC2_Cb_10004" elementType="C" x3="-4.323706" y3="0.591882" z3="2.939713"/>
+<atom id="cisDP_18_ii_v_ResC2_H_10005" elementType="H" x3="-3.209214" y3="-1.278460" z3="3.478995"/>
+<atom id="cisDP_18_iii_i_Res4_C_2002" elementType="C" x3="-1.317640" y3="-2.877266" z3="4.929350"/>
+<atom id="cisDP_18_iii_i_Res4_O_2003" elementType="O" x3="-2.041851" y3="-1.953877" z3="5.311706"/>
+<atom id="cisDP_18_iii_i_ResC1_N_2000" elementType="N" x3="-1.605789" y3="-4.161961" z3="5.150038"/>
+<atom id="cisDP_18_iii_i_ResC1_Ca_2001" elementType="C" x3="-2.790637" y3="-4.557610" z3="5.907298"/>
+<atom id="cisDP_18_iii_i_ResC1_C_2002" elementType="C" x3="-2.659717" y3="-4.061632" z3="7.339345"/>
+<atom id="cisDP_18_iii_i_ResC1_O_2003" elementType="O" x3="-1.715406" y3="-4.418480" z3="8.055737"/>
+<atom id="cisDP_18_iii_i_ResC1_Cb_2004" elementType="C" x3="-2.857767" y3="-5.166875" z3="5.893145"/>
+<atom id="cisDP_18_iii_i_ResC1_H_2005" elementType="H" x3="-1.048465" y3="-4.924835" z3="4.822979"/>
+<atom id="cisDP_18_iii_i_ResC2_N_2000" elementType="N" x3="-3.619995" y3="-3.256164" z3="7.770902"/>
+<atom id="cisDP_18_iii_i_ResC2_Ca_2001" elementType="C" x3="-3.636711" y3="-2.734770" z3="9.134315"/>
+<atom id="cisDP_18_iii_i_ResC2_C_2002" elementType="C" x3="-4.894718" y3="-3.234120" z3="9.830981"/>
+<atom id="cisDP_18_iii_i_ResC2_O_2003" elementType="O" x3="-6.005770" y3="-2.770415" z3="9.505412"/>
+<atom id="cisDP_18_iii_i_ResC2_Cb_2004" elementType="C" x3="-3.622941" y3="-2.124358" z3="9.118940"/>
+<atom id="cisDP_18_iii_i_ResC2_H_2005" elementType="H" x3="-4.387481" y3="-2.952761" z3="7.205978"/>
+<atom id="cisDP_18_iii_ii_Res4_C_4002" elementType="C" x3="-0.961346" y3="-3.762639" z3="3.853222"/>
+<atom id="cisDP_18_iii_ii_Res4_O_4003" elementType="O" x3="-0.545861" y3="-4.898072" z3="3.624261"/>
+<atom id="cisDP_18_iii_ii_ResC1_N_4000" elementType="N" x3="-2.254667" y3="-3.456489" z3="3.856519"/>
+<atom id="cisDP_18_iii_ii_ResC1_Ca_4001" elementType="C" x3="-3.274033" y3="-4.459492" z3="3.581616"/>
+<atom id="cisDP_18_iii_ii_ResC1_C_4002" elementType="C" x3="-3.320927" y3="-4.823397" z3="2.100106"/>
+<atom id="cisDP_18_iii_ii_ResC1_O_4003" elementType="O" x3="-3.349789" y3="-3.943872" z3="1.235337"/>
+<atom id="cisDP_18_iii_ii_ResC1_Cb_4004" elementType="C" x3="-3.821920" y3="-4.255313" z3="3.760912"/>
+<atom id="cisDP_18_iii_ii_ResC1_H_4005" elementType="H" x3="-2.613155" y3="-2.541979" z3="4.042548"/>
+<atom id="cisDP_18_iii_ii_ResC2_N_4000" elementType="N" x3="-3.316305" y3="-6.124457" z3="1.818757"/>
+<atom id="cisDP_18_iii_ii_ResC2_Ca_4001" elementType="C" x3="-3.397924" y3="-6.629715" z3="0.449165"/>
+<atom id="cisDP_18_iii_ii_ResC2_C_4002" elementType="C" x3="-4.831658" y3="-7.133131" z3="0.266447"/>
+<atom id="cisDP_18_iii_ii_ResC2_O_4003" elementType="O" x3="-5.459983" y3="-7.590383" z3="1.225971"/>
+<atom id="cisDP_18_iii_ii_ResC2_Cb_4004" elementType="C" x3="-2.995970" y3="-7.083751" z3="0.362596"/>
+<atom id="cisDP_18_iii_ii_ResC2_H_4005" elementType="H" x3="-3.257446" y3="-6.840123" z3="2.514362"/>
+<atom id="cisDP_18_iii_iii_Res4_C_6002" elementType="C" x3="-0.817136" y3="-3.618882" z3="5.009964"/>
+<atom id="cisDP_18_iii_iii_Res4_O_6003" elementType="O" x3="-2.033718" y3="-3.548650" z3="5.153897"/>
+<atom id="cisDP_18_iii_iii_ResC1_N_6000" elementType="N" x3="-0.116107" y3="-4.707747" z3="5.307279"/>
+<atom id="cisDP_18_iii_iii_ResC1_Ca_6001" elementType="C" x3="-0.687868" y3="-5.881112" z3="5.955392"/>
+<atom id="cisDP_18_iii_iii_ResC1_C_6002" elementType="C" x3="-0.000197" y3="-5.931894" z3="7.332579"/>
+<atom id="cisDP_18_iii_iii_ResC1_O_6003" elementType="O" x3="1.229584" y3="-5.989803" z3="7.399710"/>
+<atom id="cisDP_18_iii_iii_ResC1_Cb_6004" elementType="C" x3="-0.601333" y3="-6.405654" z3="5.652597"/>
+<atom id="cisDP_18_iii_iii_ResC1_H_6005" elementType="H" x3="0.859316" y3="-4.799128" z3="5.106026"/>
+<atom id="cisDP_18_iii_iii_ResC2_N_6000" elementType="N" x3="-0.779899" y3="-5.799067" z3="8.392047"/>
+<atom id="cisDP_18_iii_iii_ResC2_Ca_6001" elementType="C" x3="-0.264670" y3="-5.758423" z3="9.753870"/>
+<atom id="cisDP_18_iii_iii_ResC2_C_6002" elementType="C" x3="-0.713883" y3="-6.974753" z3="10.557704"/>
+<atom id="cisDP_18_iii_iii_ResC2_O_6003" elementType="O" x3="-1.911616" y3="-7.183892" z3="10.761106"/>
+<atom id="cisDP_18_iii_iii_ResC2_Cb_6004" elementType="C" x3="-0.464755" y3="-5.245526" z3="10.022695"/>
+<atom id="cisDP_18_iii_iii_ResC2_H_6005" elementType="H" x3="-1.775253" y3="-5.717649" z3="8.334591"/>
+<atom id="cisDP_18_iii_iv_Res4_C_8002" elementType="C" x3="-1.129056" y3="-3.545287" z3="4.965792"/>
+<atom id="cisDP_18_iii_iv_Res4_O_8003" elementType="O" x3="-1.229220" y3="-4.775916" z3="4.936646"/>
+<atom id="cisDP_18_iii_iv_ResC1_N_8000" elementType="N" x3="-1.942934" y3="-2.769667" z3="5.661461"/>
+<atom id="cisDP_18_iii_iv_ResC1_Ca_8001" elementType="C" x3="-3.019492" y3="-3.307436" z3="6.452580"/>
+<atom id="cisDP_18_iii_iv_ResC1_C_8002" elementType="C" x3="-4.042322" y3="-4.070698" z3="5.615077"/>
+<atom id="cisDP_18_iii_iv_ResC1_O_8003" elementType="O" x3="-4.468700" y3="-3.603736" z3="4.571614"/>
+<atom id="cisDP_18_iii_iv_ResC1_Cb_8004" elementType="C" x3="-3.291708" y3="-2.858660" z3="6.760137"/>
+<atom id="cisDP_18_iii_iv_ResC1_H_8005" elementType="H" x3="-1.871693" y3="-1.772538" z3="5.688286"/>
+<atom id="cisDP_18_iii_iv_ResC2_N_8000" elementType="N" x3="-4.417134" y3="-5.256064" z3="6.086960"/>
+<atom id="cisDP_18_iii_iv_ResC2_Ca_8001" elementType="C" x3="-5.429745" y3="-6.088696" z3="5.422781"/>
+<atom id="cisDP_18_iii_iv_ResC2_C_8002" elementType="C" x3="-6.830541" y3="-5.617623" z3="5.776741"/>
+<atom id="cisDP_18_iii_iv_ResC2_O_8003" elementType="O" x3="-7.009688" y3="-4.977918" z3="6.806928"/>
+<atom id="cisDP_18_iii_iv_ResC2_Cb_8004" elementType="C" x3="-5.359253" y3="-6.671246" z3="5.602435"/>
+<atom id="cisDP_18_iii_iv_ResC2_H_8005" elementType="H" x3="-4.040825" y3="-5.662285" z3="6.919727"/>
+<atom id="cisDP_18_iii_v_Res4_C_10002" elementType="C" x3="-1.086355" y3="-3.097739" z3="4.339654"/>
+<atom id="cisDP_18_iii_v_Res4_O_10003" elementType="O" x3="-1.631617" y3="-4.199195" z3="4.436826"/>
+<atom id="cisDP_18_iii_v_ResC1_N_10000" elementType="N" x3="-1.394559" y3="-2.073461" z3="5.126614"/>
+<atom id="cisDP_18_iii_v_ResC1_Ca_10001" elementType="C" x3="-2.433779" y3="-2.197467" z3="6.140466"/>
+<atom id="cisDP_18_iii_v_ResC1_C_10002" elementType="C" x3="-3.203396" y3="-0.894333" z3="6.273052"/>
+<atom id="cisDP_18_iii_v_ResC1_O_10003" elementType="O" x3="-2.643145" y3="0.188992" z3="6.093390"/>
+<atom id="cisDP_18_iii_v_ResC1_Cb_10004" elementType="C" x3="-2.192919" y3="-2.344539" z3="6.684210"/>
+<atom id="cisDP_18_iii_v_ResC1_H_10005" elementType="H" x3="-0.954762" y3="-1.176386" z3="5.084027"/>
+<atom id="cisDP_18_iii_v_ResC2_N_10000" elementType="N" x3="-4.495485" y3="-1.012597" z3="6.562190"/>
+<atom id="cisDP_18_iii_v_ResC2_Ca_10001" elementType="C" x3="-5.353233" y3="0.148318" z3="6.753866"/>
+<atom id="cisDP_18_iii_v_ResC2_C_10002" elementType="C" x3="-5.598801" y3="0.234003" z3="8.256504"/>
+<atom id="cisDP_18_iii_v_ResC2_O_10003" elementType="O" x3="-6.139464" y3="-0.695316" z3="8.863520"/>
+<atom id="cisDP_18_iii_v_ResC2_Cb_10004" elementType="C" x3="-5.883017" y3="0.079713" z3="6.451755"/>
+<atom id="cisDP_18_iii_v_ResC2_H_10005" elementType="H" x3="-4.963619" y3="-1.890125" z3="6.667147"/>
+<atom id="cisDP_18_iv_i_Res4_C_2002" elementType="C" x3="1.182953" y3="-2.743933" z3="4.439145"/>
+<atom id="cisDP_18_iv_i_Res4_O_2003" elementType="O" x3="2.255372" y3="-2.222824" z3="4.127600"/>
+<atom id="cisDP_18_iv_i_ResC1_N_2000" elementType="N" x3="0.955851" y3="-3.299529" z3="5.626630"/>
+<atom id="cisDP_18_iv_i_ResC1_Ca_2001" elementType="C" x3="1.967372" y3="-3.379834" z3="6.669335"/>
+<atom id="cisDP_18_iv_i_ResC1_C_2002" elementType="C" x3="2.223012" y3="-4.838045" z3="7.023463"/>
+<atom id="cisDP_18_iv_i_ResC1_O_2003" elementType="O" x3="1.298835" y3="-5.573397" z3="7.376272"/>
+<atom id="cisDP_18_iv_i_ResC1_Cb_2004" elementType="C" x3="1.786793" y3="-3.093757" z3="7.181206"/>
+<atom id="cisDP_18_iv_i_ResC1_H_2005" elementType="H" x3="0.077013" y3="-3.700037" z3="5.885717"/>
+<atom id="cisDP_18_iv_i_ResC2_N_2000" elementType="N" x3="3.477742" y3="-5.252814" z3="6.926731"/>
+<atom id="cisDP_18_iv_i_ResC2_Ca_2001" elementType="C" x3="3.869633" y3="-6.603683" z3="7.301732"/>
+<atom id="cisDP_18_iv_i_ResC2_C_2002" elementType="C" x3="4.605173" y3="-6.606129" z3="8.642188"/>
+<atom id="cisDP_18_iv_i_ResC2_O_2003" elementType="O" x3="5.490637" y3="-5.787845" z3="8.865703"/>
+<atom id="cisDP_18_iv_i_ResC2_Cb_2004" elementType="C" x3="4.234611" y3="-6.845659" z3="6.873576"/>
+<atom id="cisDP_18_iv_i_ResC2_H_2005" elementType="H" x3="4.229310" y3="-4.681923" z3="6.596470"/>
+<atom id="cisDP_18_iv_ii_Res4_C_4002" elementType="C" x3="-0.596099" y3="-2.763171" z3="4.765324"/>
+<atom id="cisDP_18_iv_ii_Res4_O_4003" elementType="O" x3="-0.749316" y3="-3.947360" z3="5.266310"/>
+<atom id="cisDP_18_iv_ii_ResC1_N_4000" elementType="N" x3="-0.964584" y3="-1.727824" z3="5.377780"/>
+<atom id="cisDP_18_iv_ii_ResC1_Ca_4001" elementType="C" x3="-1.624297" y3="-1.776782" z3="6.638577"/>
+<atom id="cisDP_18_iv_ii_ResC1_C_4002" elementType="C" x3="-3.110056" y3="-1.527378" z3="6.609750"/>
+<atom id="cisDP_18_iv_ii_ResC1_O_4003" elementType="O" x3="-3.784879" y3="-1.537047" z3="7.622420"/>
+<atom id="cisDP_18_iv_ii_ResC1_Cb_4004" elementType="C" x3="-1.389421" y3="-1.343771" z3="7.063653"/>
+<atom id="cisDP_18_iv_ii_ResC1_H_4005" elementType="H" x3="-0.823653" y3="-0.801133" z3="5.028655"/>
+<atom id="cisDP_18_iv_ii_ResC2_N_4000" elementType="N" x3="-3.650338" y3="-1.391260" z3="5.406406"/>
+<atom id="cisDP_18_iv_ii_ResC2_Ca_4001" elementType="C" x3="-5.047876" y3="-0.972696" z3="5.247476"/>
+<atom id="cisDP_18_iv_ii_ResC2_C_4002" elementType="C" x3="-5.977545" y3="-2.254354" z3="5.138083"/>
+<atom id="cisDP_18_iv_ii_ResC2_O_4003" elementType="O" x3="-5.713496" y3="-3.156016" z3="4.385397"/>
+<atom id="cisDP_18_iv_ii_ResC2_Cb_4004" elementType="C" x3="-5.108272" y3="-0.646589" z3="4.752393"/>
+<atom id="cisDP_18_iv_ii_ResC2_H_4005" elementType="H" x3="-3.163511" y3="-1.557361" z3="4.548318"/>
+<atom id="cisDP_18_iv_iii_Res4_C_6002" elementType="C" x3="0.589759" y3="-2.286115" z3="4.984050"/>
+<atom id="cisDP_18_iv_iii_Res4_O_6003" elementType="O" x3="1.329262" y3="-1.294120" z3="5.036137"/>
+<atom id="cisDP_18_iv_iii_ResC1_N_6000" elementType="N" x3="0.273324" y3="-2.992555" z3="6.064342"/>
+<atom id="cisDP_18_iv_iii_ResC1_Ca_6001" elementType="C" x3="0.709902" y3="-2.565130" z3="7.397668"/>
+<atom id="cisDP_18_iv_iii_ResC1_C_6002" elementType="C" x3="2.232447" y3="-2.675540" z3="7.548494"/>
+<atom id="cisDP_18_iv_iii_ResC1_O_6003" elementType="O" x3="2.827241" y3="-3.731722" z3="7.293143"/>
+<atom id="cisDP_18_iv_iii_ResC1_Cb_6004" elementType="C" x3="0.441060" y3="-2.888479" z3="7.847161"/>
+<atom id="cisDP_18_iv_iii_ResC1_H_6005" elementType="H" x3="-0.265157" y3="-3.834615" z3="6.049603"/>
+<atom id="cisDP_18_iv_iii_ResC2_N_6000" elementType="N" x3="2.847267" y3="-1.566209" z3="7.958403"/>
+<atom id="cisDP_18_iv_iii_ResC2_Ca_6001" elementType="C" x3="4.296108" y3="-1.485295" z3="8.150381"/>
+<atom id="cisDP_18_iv_iii_ResC2_C_6002" elementType="C" x3="4.588788" y3="-1.266347" z3="9.635563"/>
+<atom id="cisDP_18_iv_iii_ResC2_O_6003" elementType="O" x3="3.730243" y3="-0.773462" z3="10.363825"/>
+<atom id="cisDP_18_iv_iii_ResC2_Cb_6004" elementType="C" x3="4.517889" y3="-1.013345" z3="7.826605"/>
+<atom id="cisDP_18_iv_iii_ResC2_H_6005" elementType="H" x3="2.365022" y3="-0.714347" z3="8.163206"/>
+<atom id="cisDP_18_iv_iv_Res4_C_8002" elementType="C" x3="1.148535" y3="-4.125741" z3="3.285069"/>
+<atom id="cisDP_18_iv_iv_Res4_O_8003" elementType="O" x3="2.297946" y3="-4.065489" z3="2.849230"/>
+<atom id="cisDP_18_iv_iv_ResC1_N_8000" elementType="N" x3="0.829351" y3="-4.781794" z3="4.395900"/>
+<atom id="cisDP_18_iv_iv_ResC1_Ca_8001" elementType="C" x3="1.848802" y3="-5.322598" z3="5.285304"/>
+<atom id="cisDP_18_iv_iv_ResC1_C_8002" elementType="C" x3="2.447785" y3="-6.607204" z3="4.720968"/>
+<atom id="cisDP_18_iv_iv_ResC1_O_8003" elementType="O" x3="1.723696" y3="-7.538670" z3="4.369845"/>
+<atom id="cisDP_18_iv_iv_ResC1_Cb_8004" elementType="C" x3="1.615246" y3="-5.426168" z3="5.841688"/>
+<atom id="cisDP_18_iv_iv_ResC1_H_8005" elementType="H" x3="-0.110127" y3="-4.948494" z3="4.695340"/>
+<atom id="cisDP_18_iv_iv_ResC2_N_8000" elementType="N" x3="3.772952" y3="-6.650007" z3="4.637394"/>
+<atom id="cisDP_18_iv_iv_ResC2_Ca_8001" elementType="C" x3="4.471138" y3="-7.779905" z3="4.007101"/>
+<atom id="cisDP_18_iv_iv_ResC2_C_8002" elementType="C" x3="4.770896" y3="-8.810807" z3="5.086849"/>
+<atom id="cisDP_18_iv_iv_ResC2_O_8003" elementType="O" x3="4.892185" y3="-10.013644" z3="4.806724"/>
+<atom id="cisDP_18_iv_iv_ResC2_Cb_8004" elementType="C" x3="4.994534" y3="-7.584319" z3="3.754067"/>
+<atom id="cisDP_18_iv_iv_ResC2_H_8005" elementType="H" x3="4.377729" y3="-5.934973" z3="4.988263"/>
+</atomArray>
+<bondArray>
+<bond atomRefs2="cisDP_18_i_i_ResN2_N_2000 cisDP_18_i_i_ResN2_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN2_Ca_2001 cisDP_18_i_i_ResN2_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN2_Ca_2001 cisDP_18_i_i_ResN2_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN2_C_2002 cisDP_18_i_i_ResN2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN2_C_2002 cisDP_18_i_i_ResN1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN2_N_2000 cisDP_18_i_i_ResN2_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN2_C_2002 cisDP_18_i_i_ResN2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN1_N_2000 cisDP_18_i_i_ResN1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN1_Ca_2001 cisDP_18_i_i_ResN1_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN1_Ca_2001 cisDP_18_i_i_ResN1_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN1_C_2002 cisDP_18_i_i_ResN1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN1_C_2002 cisDP_18_i_i_Res1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResN1_C_2002 cisDP_18_i_i_ResN1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_Res1_N_2000 cisDP_18_i_Res1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN2_N_4000 cisDP_18_i_ii_ResN2_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN2_Ca_4001 cisDP_18_i_ii_ResN2_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN2_Ca_4001 cisDP_18_i_ii_ResN2_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN2_C_4002 cisDP_18_i_ii_ResN2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN2_C_4002 cisDP_18_i_ii_ResN1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN2_C_4002 cisDP_18_i_ii_ResN2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN1_N_4000 cisDP_18_i_ii_ResN1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN1_Ca_4001 cisDP_18_i_ii_ResN1_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN1_Ca_4001 cisDP_18_i_ii_ResN1_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN1_C_4002 cisDP_18_i_ii_ResN1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN1_C_4002 cisDP_18_i_ii_Res1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN1_N_4000 cisDP_18_i_ii_ResN1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResN1_C_4002 cisDP_18_i_ii_ResN1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_Res1_N_4000 cisDP_18_i_Res1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_Res1_N_4000 cisDP_18_i_ii_Res1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN2_N_6000 cisDP_18_i_iii_ResN2_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN2_Ca_6001 cisDP_18_i_iii_ResN2_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN2_Ca_6001 cisDP_18_i_iii_ResN2_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN2_C_6002 cisDP_18_i_iii_ResN2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN2_C_6002 cisDP_18_i_iii_ResN1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN2_N_6000 cisDP_18_i_iii_ResN2_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN2_C_6002 cisDP_18_i_iii_ResN2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN1_N_6000 cisDP_18_i_iii_ResN1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN1_Ca_6001 cisDP_18_i_iii_ResN1_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN1_Ca_6001 cisDP_18_i_iii_ResN1_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN1_C_6002 cisDP_18_i_iii_ResN1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN1_C_6002 cisDP_18_i_iii_Res1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN1_N_6000 cisDP_18_i_iii_ResN1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResN1_C_6002 cisDP_18_i_iii_ResN1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_Res1_N_6000 cisDP_18_i_Res1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_Res1_N_6000 cisDP_18_i_iii_Res1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN2_N_8000 cisDP_18_i_iv_ResN2_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN2_Ca_8001 cisDP_18_i_iv_ResN2_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN2_Ca_8001 cisDP_18_i_iv_ResN2_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN2_C_8002 cisDP_18_i_iv_ResN2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN2_C_8002 cisDP_18_i_iv_ResN1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN2_N_8000 cisDP_18_i_iv_ResN2_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN2_C_8002 cisDP_18_i_iv_ResN2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN1_N_8000 cisDP_18_i_iv_ResN1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN1_Ca_8001 cisDP_18_i_iv_ResN1_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN1_C_8002 cisDP_18_i_iv_ResN1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN1_C_8002 cisDP_18_i_iv_Res1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN1_N_8000 cisDP_18_i_iv_ResN1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResN1_C_8002 cisDP_18_i_iv_ResN1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_Res1_N_8000 cisDP_18_i_Res1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_Res1_N_8000 cisDP_18_i_iv_Res1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN2_N_10000 cisDP_18_i_v_ResN2_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN2_Ca_10001 cisDP_18_i_v_ResN2_Cb_10004" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN2_Ca_10001 cisDP_18_i_v_ResN2_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN2_C_10002 cisDP_18_i_v_ResN2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN2_C_10002 cisDP_18_i_v_ResN1_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN2_N_10000 cisDP_18_i_v_ResN2_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN2_C_10002 cisDP_18_i_v_ResN2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN1_N_10000 cisDP_18_i_v_ResN1_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN1_Ca_10001 cisDP_18_i_v_ResN1_Cb_10004" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN1_Ca_10001 cisDP_18_i_v_ResN1_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN1_C_10002 cisDP_18_i_v_ResN1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN1_C_10002 cisDP_18_i_v_Res1_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN1_N_10000 cisDP_18_i_v_ResN1_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResN1_C_10002 cisDP_18_i_v_ResN1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_Res1_N_10000 cisDP_18_i_Res1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_Res1_N_10000 cisDP_18_i_v_Res1_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN2_N_2000 cisDP_18_ii_i_ResN2_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN2_Ca_2001 cisDP_18_ii_i_ResN2_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN2_Ca_2001 cisDP_18_ii_i_ResN2_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN2_C_2002 cisDP_18_ii_i_ResN2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN2_C_2002 cisDP_18_ii_i_ResN1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN2_C_2002 cisDP_18_ii_i_ResN2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN1_N_2000 cisDP_18_ii_i_ResN1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN1_Ca_2001 cisDP_18_ii_i_ResN1_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN1_C_2002 cisDP_18_ii_i_ResN1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN1_C_2002 cisDP_18_ii_i_Res1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN1_N_2000 cisDP_18_ii_i_ResN1_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResN1_C_2002 cisDP_18_ii_i_ResN1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_Res1_N_2000 cisDP_18_ii_Res1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_Res1_N_2000 cisDP_18_ii_i_Res1_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN2_N_4000 cisDP_18_ii_ii_ResN2_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN2_Ca_4001 cisDP_18_ii_ii_ResN2_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN2_Ca_4001 cisDP_18_ii_ii_ResN2_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN2_C_4002 cisDP_18_ii_ii_ResN2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN2_C_4002 cisDP_18_ii_ii_ResN1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN2_N_4000 cisDP_18_ii_ii_ResN2_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN2_C_4002 cisDP_18_ii_ii_ResN2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN1_N_4000 cisDP_18_ii_ii_ResN1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN1_Ca_4001 cisDP_18_ii_ii_ResN1_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN1_C_4002 cisDP_18_ii_ii_ResN1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN1_C_4002 cisDP_18_ii_ii_Res1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN1_N_4000 cisDP_18_ii_ii_ResN1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResN1_C_4002 cisDP_18_ii_ii_ResN1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_Res1_N_4000 cisDP_18_ii_Res1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_Res1_N_4000 cisDP_18_ii_ii_Res1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN2_N_6000 cisDP_18_ii_iii_ResN2_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN2_Ca_6001 cisDP_18_ii_iii_ResN2_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN2_Ca_6001 cisDP_18_ii_iii_ResN2_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN2_C_6002 cisDP_18_ii_iii_ResN2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN2_C_6002 cisDP_18_ii_iii_ResN1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN2_N_6000 cisDP_18_ii_iii_ResN2_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN2_C_6002 cisDP_18_ii_iii_ResN2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN1_N_6000 cisDP_18_ii_iii_ResN1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN1_Ca_6001 cisDP_18_ii_iii_ResN1_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN1_Ca_6001 cisDP_18_ii_iii_ResN1_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN1_C_6002 cisDP_18_ii_iii_ResN1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN1_C_6002 cisDP_18_ii_iii_Res1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN1_N_6000 cisDP_18_ii_iii_ResN1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResN1_C_6002 cisDP_18_ii_iii_ResN1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_Res1_N_6000 cisDP_18_ii_Res1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_Res1_N_6000 cisDP_18_ii_iii_Res1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN2_N_8000 cisDP_18_ii_iv_ResN2_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN2_Ca_8001 cisDP_18_ii_iv_ResN2_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN2_Ca_8001 cisDP_18_ii_iv_ResN2_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN2_C_8002 cisDP_18_ii_iv_ResN2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN2_C_8002 cisDP_18_ii_iv_ResN1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN2_N_8000 cisDP_18_ii_iv_ResN2_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN2_C_8002 cisDP_18_ii_iv_ResN2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN1_N_8000 cisDP_18_ii_iv_ResN1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN1_Ca_8001 cisDP_18_ii_iv_ResN1_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN1_Ca_8001 cisDP_18_ii_iv_ResN1_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN1_C_8002 cisDP_18_ii_iv_ResN1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN1_C_8002 cisDP_18_ii_iv_Res1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN1_N_8000 cisDP_18_ii_iv_ResN1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResN1_C_8002 cisDP_18_ii_iv_ResN1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_Res1_N_8000 cisDP_18_ii_Res1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_Res1_N_8000 cisDP_18_ii_iv_Res1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN2_N_10000 cisDP_18_ii_v_ResN2_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN2_Ca_10001 cisDP_18_ii_v_ResN2_Cb_10004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN2_Ca_10001 cisDP_18_ii_v_ResN2_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN2_C_10002 cisDP_18_ii_v_ResN2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN2_C_10002 cisDP_18_ii_v_ResN1_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN2_N_10000 cisDP_18_ii_v_ResN2_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN2_C_10002 cisDP_18_ii_v_ResN2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN1_N_10000 cisDP_18_ii_v_ResN1_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN1_Ca_10001 cisDP_18_ii_v_ResN1_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN1_C_10002 cisDP_18_ii_v_ResN1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN1_C_10002 cisDP_18_ii_v_Res1_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN1_N_10000 cisDP_18_ii_v_ResN1_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResN1_C_10002 cisDP_18_ii_v_ResN1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_Res1_N_10000 cisDP_18_ii_Res1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_Res1_N_10000 cisDP_18_ii_v_Res1_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN2_N_2000 cisDP_18_iii_i_ResN2_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN2_Ca_2001 cisDP_18_iii_i_ResN2_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN2_Ca_2001 cisDP_18_iii_i_ResN2_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN2_C_2002 cisDP_18_iii_i_ResN2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN2_C_2002 cisDP_18_iii_i_ResN1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN2_N_2000 cisDP_18_iii_i_ResN2_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN2_C_2002 cisDP_18_iii_i_ResN2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN1_N_2000 cisDP_18_iii_i_ResN1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN1_Ca_2001 cisDP_18_iii_i_ResN1_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN1_Ca_2001 cisDP_18_iii_i_ResN1_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN1_C_2002 cisDP_18_iii_i_ResN1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN1_C_2002 cisDP_18_iii_i_Res1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN1_N_2000 cisDP_18_iii_i_ResN1_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResN1_C_2002 cisDP_18_iii_i_ResN1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_Res1_N_2000 cisDP_18_iii_Res1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_Res1_N_2000 cisDP_18_iii_i_Res1_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN2_N_4000 cisDP_18_iii_ii_ResN2_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN2_Ca_4001 cisDP_18_iii_ii_ResN2_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN2_Ca_4001 cisDP_18_iii_ii_ResN2_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN2_C_4002 cisDP_18_iii_ii_ResN2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN2_C_4002 cisDP_18_iii_ii_ResN1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN2_N_4000 cisDP_18_iii_ii_ResN2_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN2_C_4002 cisDP_18_iii_ii_ResN2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN1_N_4000 cisDP_18_iii_ii_ResN1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN1_Ca_4001 cisDP_18_iii_ii_ResN1_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN1_Ca_4001 cisDP_18_iii_ii_ResN1_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN1_C_4002 cisDP_18_iii_ii_ResN1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN1_C_4002 cisDP_18_iii_ii_Res1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN1_N_4000 cisDP_18_iii_ii_ResN1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResN1_C_4002 cisDP_18_iii_ii_ResN1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_Res1_N_4000 cisDP_18_iii_Res1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_Res1_N_4000 cisDP_18_iii_ii_Res1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN2_N_6000 cisDP_18_iii_iii_ResN2_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN2_Ca_6001 cisDP_18_iii_iii_ResN2_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN2_C_6002 cisDP_18_iii_iii_ResN2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN2_C_6002 cisDP_18_iii_iii_ResN1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN2_N_6000 cisDP_18_iii_iii_ResN2_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN2_C_6002 cisDP_18_iii_iii_ResN2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN1_N_6000 cisDP_18_iii_iii_ResN1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN1_Ca_6001 cisDP_18_iii_iii_ResN1_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN1_Ca_6001 cisDP_18_iii_iii_ResN1_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN1_C_6002 cisDP_18_iii_iii_ResN1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN1_C_6002 cisDP_18_iii_iii_Res1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN1_N_6000 cisDP_18_iii_iii_ResN1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResN1_C_6002 cisDP_18_iii_iii_ResN1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_Res1_N_6000 cisDP_18_iii_Res1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_Res1_N_6000 cisDP_18_iii_iii_Res1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN2_N_8000 cisDP_18_iii_iv_ResN2_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN2_Ca_8001 cisDP_18_iii_iv_ResN2_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN2_Ca_8001 cisDP_18_iii_iv_ResN2_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN2_C_8002 cisDP_18_iii_iv_ResN2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN2_C_8002 cisDP_18_iii_iv_ResN1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN2_N_8000 cisDP_18_iii_iv_ResN2_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN2_C_8002 cisDP_18_iii_iv_ResN2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN1_N_8000 cisDP_18_iii_iv_ResN1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN1_Ca_8001 cisDP_18_iii_iv_ResN1_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN1_Ca_8001 cisDP_18_iii_iv_ResN1_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN1_C_8002 cisDP_18_iii_iv_ResN1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN1_C_8002 cisDP_18_iii_iv_Res1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN1_N_8000 cisDP_18_iii_iv_ResN1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResN1_C_8002 cisDP_18_iii_iv_ResN1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_Res1_N_8000 cisDP_18_iii_Res1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_Res1_N_8000 cisDP_18_iii_iv_Res1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN2_N_10000 cisDP_18_iii_v_ResN2_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN2_Ca_10001 cisDP_18_iii_v_ResN2_Cb_10004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN2_Ca_10001 cisDP_18_iii_v_ResN2_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN2_C_10002 cisDP_18_iii_v_ResN2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN2_C_10002 cisDP_18_iii_v_ResN1_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN2_N_10000 cisDP_18_iii_v_ResN2_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN2_C_10002 cisDP_18_iii_v_ResN2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN1_N_10000 cisDP_18_iii_v_ResN1_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN1_Ca_10001 cisDP_18_iii_v_ResN1_Cb_10004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN1_Ca_10001 cisDP_18_iii_v_ResN1_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN1_C_10002 cisDP_18_iii_v_ResN1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN1_C_10002 cisDP_18_iii_v_Res1_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResN1_C_10002 cisDP_18_iii_v_ResN1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_Res1_N_10000 cisDP_18_iii_Res1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_Res1_N_10000 cisDP_18_iii_v_Res1_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN2_N_2000 cisDP_18_iv_i_ResN2_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN2_Ca_2001 cisDP_18_iv_i_ResN2_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN2_Ca_2001 cisDP_18_iv_i_ResN2_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN2_C_2002 cisDP_18_iv_i_ResN2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN2_C_2002 cisDP_18_iv_i_ResN1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN2_N_2000 cisDP_18_iv_i_ResN2_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN2_C_2002 cisDP_18_iv_i_ResN2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN1_N_2000 cisDP_18_iv_i_ResN1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN1_Ca_2001 cisDP_18_iv_i_ResN1_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN1_Ca_2001 cisDP_18_iv_i_ResN1_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN1_C_2002 cisDP_18_iv_i_ResN1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN1_C_2002 cisDP_18_iv_i_Res1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN1_N_2000 cisDP_18_iv_i_ResN1_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResN1_C_2002 cisDP_18_iv_i_ResN1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_Res1_N_2000 cisDP_18_iv_Res1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_Res1_N_2000 cisDP_18_iv_i_Res1_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN2_N_4000 cisDP_18_iv_ii_ResN2_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN2_Ca_4001 cisDP_18_iv_ii_ResN2_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN2_Ca_4001 cisDP_18_iv_ii_ResN2_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN2_C_4002 cisDP_18_iv_ii_ResN2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN2_C_4002 cisDP_18_iv_ii_ResN1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN2_N_4000 cisDP_18_iv_ii_ResN2_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN2_C_4002 cisDP_18_iv_ii_ResN2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN1_N_4000 cisDP_18_iv_ii_ResN1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN1_Ca_4001 cisDP_18_iv_ii_ResN1_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN1_Ca_4001 cisDP_18_iv_ii_ResN1_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN1_C_4002 cisDP_18_iv_ii_ResN1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN1_C_4002 cisDP_18_iv_ii_Res1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN1_N_4000 cisDP_18_iv_ii_ResN1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResN1_C_4002 cisDP_18_iv_ii_ResN1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_Res1_N_4000 cisDP_18_iv_Res1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_Res1_N_4000 cisDP_18_iv_ii_Res1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN2_N_6000 cisDP_18_iv_iii_ResN2_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN2_Ca_6001 cisDP_18_iv_iii_ResN2_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN2_C_6002 cisDP_18_iv_iii_ResN2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN2_C_6002 cisDP_18_iv_iii_ResN1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN2_N_6000 cisDP_18_iv_iii_ResN2_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN2_C_6002 cisDP_18_iv_iii_ResN2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN1_N_6000 cisDP_18_iv_iii_ResN1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN1_Ca_6001 cisDP_18_iv_iii_ResN1_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN1_Ca_6001 cisDP_18_iv_iii_ResN1_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN1_C_6002 cisDP_18_iv_iii_ResN1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN1_C_6002 cisDP_18_iv_iii_Res1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN1_N_6000 cisDP_18_iv_iii_ResN1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResN1_C_6002 cisDP_18_iv_iii_ResN1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_Res1_N_6000 cisDP_18_iv_Res1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_Res1_N_6000 cisDP_18_iv_iii_Res1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN2_N_8000 cisDP_18_iv_iv_ResN2_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN2_Ca_8001 cisDP_18_iv_iv_ResN2_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN2_Ca_8001 cisDP_18_iv_iv_ResN2_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN2_C_8002 cisDP_18_iv_iv_ResN2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN2_C_8002 cisDP_18_iv_iv_ResN1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN2_N_8000 cisDP_18_iv_iv_ResN2_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN2_C_8002 cisDP_18_iv_iv_ResN2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN1_N_8000 cisDP_18_iv_iv_ResN1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN1_Ca_8001 cisDP_18_iv_iv_ResN1_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN1_Ca_8001 cisDP_18_iv_iv_ResN1_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN1_C_8002 cisDP_18_iv_iv_ResN1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN1_C_8002 cisDP_18_iv_iv_Res1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN1_N_8000 cisDP_18_iv_iv_ResN1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResN1_C_8002 cisDP_18_iv_iv_ResN1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_Res1_N_8000 cisDP_18_iv_Res1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_Res1_N_8000 cisDP_18_iv_iv_Res1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res1_Ca_2001 cisDP_18_i_Res1_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res1_Ca_2001 cisDP_18_i_Res1_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res1_C_2002 cisDP_18_i_Res1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res1_C_2002 cisDP_18_i_Res2_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res2_N_2000 cisDP_18_i_Res2_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res2_Ca_2001 cisDP_18_i_Res2_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res2_Ca_2001 cisDP_18_i_Res2_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res2_C_2002 cisDP_18_i_Res2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res2_C_2002 cisDP_18_i_Res3_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res2_C_2002 cisDP_18_i_Res2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res3_N_2000 cisDP_18_i_Res3_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res3_Ca_2001 cisDP_18_i_Res3_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res3_Ca_2001 cisDP_18_i_Res3_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res3_C_2002 cisDP_18_i_Res3_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res3_C_2002 cisDP_18_i_Res4_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res3_N_2000 cisDP_18_i_Res3_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res3_C_2002 cisDP_18_i_Res3_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_N_2000 cisDP_18_i_Res4_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_N_2000 cisDP_18_i_Res4_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_Ca_2001 cisDP_18_i_Res4_Cb_140" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_Cb_140 cisDP_18_i_Res4_O_100" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_Cb_140 cisDP_18_i_Res4_C_101" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_O_100 cisDP_18_i_Res4_H_102" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res1_Ca_4001 cisDP_18_ii_Res1_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res1_Ca_4001 cisDP_18_ii_Res1_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res1_C_4002 cisDP_18_ii_Res1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res1_C_4002 cisDP_18_ii_Res2_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res2_N_4000 cisDP_18_ii_Res2_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res2_Ca_4001 cisDP_18_ii_Res2_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res2_Ca_4001 cisDP_18_ii_Res2_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res2_C_4002 cisDP_18_ii_Res2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res2_C_4002 cisDP_18_ii_Res3_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res2_C_4002 cisDP_18_ii_Res2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res3_N_4000 cisDP_18_ii_Res3_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res3_Ca_4001 cisDP_18_ii_Res3_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res3_Ca_4001 cisDP_18_ii_Res3_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res3_C_4002 cisDP_18_ii_Res3_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res3_C_4002 cisDP_18_ii_Res4_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res3_N_4000 cisDP_18_ii_Res3_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res3_C_4002 cisDP_18_ii_Res3_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_N_4000 cisDP_18_ii_Res4_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_N_4000 cisDP_18_ii_Res4_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_Ca_4001 cisDP_18_ii_Res4_Cb_240" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_Cb_240 cisDP_18_ii_Res4_O_200" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_Cb_240 cisDP_18_ii_Res4_C_201" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_O_200 cisDP_18_ii_Res4_H_202" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res1_Ca_6001 cisDP_18_iii_Res1_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res1_Ca_6001 cisDP_18_iii_Res1_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res1_C_6002 cisDP_18_iii_Res1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res1_C_6002 cisDP_18_iii_Res2_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res2_N_6000 cisDP_18_iii_Res2_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res2_Ca_6001 cisDP_18_iii_Res2_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res2_Ca_6001 cisDP_18_iii_Res2_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res2_C_6002 cisDP_18_iii_Res2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res2_C_6002 cisDP_18_iii_Res3_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res2_C_6002 cisDP_18_iii_Res2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res3_N_6000 cisDP_18_iii_Res3_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res3_Ca_6001 cisDP_18_iii_Res3_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res3_Ca_6001 cisDP_18_iii_Res3_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res3_C_6002 cisDP_18_iii_Res3_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res3_C_6002 cisDP_18_iii_Res4_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res3_N_6000 cisDP_18_iii_Res3_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res3_C_6002 cisDP_18_iii_Res3_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_N_6000 cisDP_18_iii_Res4_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_N_6000 cisDP_18_iii_Res4_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_Ca_6001 cisDP_18_iii_Res4_Cb_340" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_Cb_340 cisDP_18_iii_Res4_O_300" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_Cb_340 cisDP_18_iii_Res4_C_301" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_O_300 cisDP_18_iii_Res4_H_302" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res1_Ca_8001 cisDP_18_iv_Res1_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res1_Ca_8001 cisDP_18_iv_Res1_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res1_C_8002 cisDP_18_iv_Res1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res1_C_8002 cisDP_18_iv_Res2_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res2_N_8000 cisDP_18_iv_Res2_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res2_Ca_8001 cisDP_18_iv_Res2_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res2_Ca_8001 cisDP_18_iv_Res2_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res2_C_8002 cisDP_18_iv_Res2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res2_C_8002 cisDP_18_iv_Res3_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res2_C_8002 cisDP_18_iv_Res2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res3_N_8000 cisDP_18_iv_Res3_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res3_Ca_8001 cisDP_18_iv_Res3_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res3_Ca_8001 cisDP_18_iv_Res3_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res3_C_8002 cisDP_18_iv_Res3_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res3_C_8002 cisDP_18_iv_Res4_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res3_N_8000 cisDP_18_iv_Res3_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res3_C_8002 cisDP_18_iv_Res3_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res4_N_8000 cisDP_18_iv_Res4_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res4_N_8000 cisDP_18_iv_Res4_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res4_Ca_8001 cisDP_18_iv_Res4_Cb_440" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res4_Cb_440 cisDP_18_iv_Res4_O_400" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res4_Cb_440 cisDP_18_iv_Res4_C_401" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res4_O_400 cisDP_18_iv_Res4_H_402" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_Ca_2001 cisDP_18_i_i_Res4_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_Res4_C_2002 cisDP_18_i_i_Res4_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_Res4_C_2002 cisDP_18_i_i_ResC1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC1_N_2000 cisDP_18_i_i_ResC1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC1_Ca_2001 cisDP_18_i_i_ResC1_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC1_Ca_2001 cisDP_18_i_i_ResC1_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC1_C_2002 cisDP_18_i_i_ResC1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC1_C_2002 cisDP_18_i_i_ResC2_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC1_N_2000 cisDP_18_i_i_ResC1_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC1_C_2002 cisDP_18_i_i_ResC1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC2_N_2000 cisDP_18_i_i_ResC2_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC2_Ca_2001 cisDP_18_i_i_ResC2_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC2_Ca_2001 cisDP_18_i_i_ResC2_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC2_C_2002 cisDP_18_i_i_ResC2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC2_N_2000 cisDP_18_i_i_ResC2_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_i_i_ResC2_C_2002 cisDP_18_i_i_ResC2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_Ca_2001 cisDP_18_i_ii_Res4_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_Res4_C_4002 cisDP_18_i_ii_Res4_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_Res4_C_4002 cisDP_18_i_ii_ResC1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC1_N_4000 cisDP_18_i_ii_ResC1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC1_Ca_4001 cisDP_18_i_ii_ResC1_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC1_Ca_4001 cisDP_18_i_ii_ResC1_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC1_C_4002 cisDP_18_i_ii_ResC1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC1_C_4002 cisDP_18_i_ii_ResC2_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC1_N_4000 cisDP_18_i_ii_ResC1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC1_C_4002 cisDP_18_i_ii_ResC1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC2_N_4000 cisDP_18_i_ii_ResC2_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC2_Ca_4001 cisDP_18_i_ii_ResC2_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC2_C_4002 cisDP_18_i_ii_ResC2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC2_N_4000 cisDP_18_i_ii_ResC2_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_i_ii_ResC2_C_4002 cisDP_18_i_ii_ResC2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_Ca_2001 cisDP_18_i_iii_Res4_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_Res4_C_6002 cisDP_18_i_iii_Res4_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_Res4_C_6002 cisDP_18_i_iii_ResC1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC1_N_6000 cisDP_18_i_iii_ResC1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC1_Ca_6001 cisDP_18_i_iii_ResC1_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC1_C_6002 cisDP_18_i_iii_ResC1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC1_C_6002 cisDP_18_i_iii_ResC2_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC1_N_6000 cisDP_18_i_iii_ResC1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC1_C_6002 cisDP_18_i_iii_ResC1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC2_N_6000 cisDP_18_i_iii_ResC2_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC2_Ca_6001 cisDP_18_i_iii_ResC2_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC2_Ca_6001 cisDP_18_i_iii_ResC2_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC2_C_6002 cisDP_18_i_iii_ResC2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC2_N_6000 cisDP_18_i_iii_ResC2_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_i_iii_ResC2_C_6002 cisDP_18_i_iii_ResC2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_Ca_2001 cisDP_18_i_iv_Res4_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_Res4_C_8002 cisDP_18_i_iv_Res4_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_Res4_C_8002 cisDP_18_i_iv_ResC1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC1_N_8000 cisDP_18_i_iv_ResC1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC1_Ca_8001 cisDP_18_i_iv_ResC1_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC1_Ca_8001 cisDP_18_i_iv_ResC1_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC1_C_8002 cisDP_18_i_iv_ResC1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC1_C_8002 cisDP_18_i_iv_ResC2_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC1_N_8000 cisDP_18_i_iv_ResC1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC1_C_8002 cisDP_18_i_iv_ResC1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC2_N_8000 cisDP_18_i_iv_ResC2_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC2_Ca_8001 cisDP_18_i_iv_ResC2_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC2_Ca_8001 cisDP_18_i_iv_ResC2_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC2_C_8002 cisDP_18_i_iv_ResC2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC2_N_8000 cisDP_18_i_iv_ResC2_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_i_iv_ResC2_C_8002 cisDP_18_i_iv_ResC2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_i_Res4_Ca_2001 cisDP_18_i_v_Res4_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_Res4_C_10002 cisDP_18_i_v_Res4_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_Res4_C_10002 cisDP_18_i_v_ResC1_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC1_N_10000 cisDP_18_i_v_ResC1_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC1_Ca_10001 cisDP_18_i_v_ResC1_Cb_10004" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC1_Ca_10001 cisDP_18_i_v_ResC1_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC1_C_10002 cisDP_18_i_v_ResC1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC1_C_10002 cisDP_18_i_v_ResC2_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC1_N_10000 cisDP_18_i_v_ResC1_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC1_C_10002 cisDP_18_i_v_ResC1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC2_N_10000 cisDP_18_i_v_ResC2_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC2_Ca_10001 cisDP_18_i_v_ResC2_Cb_10004" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC2_Ca_10001 cisDP_18_i_v_ResC2_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC2_C_10002 cisDP_18_i_v_ResC2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC2_N_10000 cisDP_18_i_v_ResC2_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_i_v_ResC2_C_10002 cisDP_18_i_v_ResC2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_Ca_4001 cisDP_18_ii_i_Res4_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_Res4_C_2002 cisDP_18_ii_i_Res4_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_Res4_C_2002 cisDP_18_ii_i_ResC1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC1_N_2000 cisDP_18_ii_i_ResC1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC1_Ca_2001 cisDP_18_ii_i_ResC1_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC1_Ca_2001 cisDP_18_ii_i_ResC1_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC1_C_2002 cisDP_18_ii_i_ResC1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC1_C_2002 cisDP_18_ii_i_ResC2_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC1_N_2000 cisDP_18_ii_i_ResC1_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC1_C_2002 cisDP_18_ii_i_ResC1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC2_N_2000 cisDP_18_ii_i_ResC2_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC2_Ca_2001 cisDP_18_ii_i_ResC2_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC2_Ca_2001 cisDP_18_ii_i_ResC2_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC2_C_2002 cisDP_18_ii_i_ResC2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC2_N_2000 cisDP_18_ii_i_ResC2_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_i_ResC2_C_2002 cisDP_18_ii_i_ResC2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_Ca_4001 cisDP_18_ii_ii_Res4_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_Res4_C_4002 cisDP_18_ii_ii_Res4_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_Res4_C_4002 cisDP_18_ii_ii_ResC1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC1_N_4000 cisDP_18_ii_ii_ResC1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC1_Ca_4001 cisDP_18_ii_ii_ResC1_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC1_Ca_4001 cisDP_18_ii_ii_ResC1_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC1_C_4002 cisDP_18_ii_ii_ResC1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC1_C_4002 cisDP_18_ii_ii_ResC2_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC1_N_4000 cisDP_18_ii_ii_ResC1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC1_C_4002 cisDP_18_ii_ii_ResC1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC2_N_4000 cisDP_18_ii_ii_ResC2_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC2_Ca_4001 cisDP_18_ii_ii_ResC2_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC2_Ca_4001 cisDP_18_ii_ii_ResC2_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC2_C_4002 cisDP_18_ii_ii_ResC2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC2_N_4000 cisDP_18_ii_ii_ResC2_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_ii_ResC2_C_4002 cisDP_18_ii_ii_ResC2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_Ca_4001 cisDP_18_ii_iii_Res4_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_Res4_C_6002 cisDP_18_ii_iii_Res4_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_Res4_C_6002 cisDP_18_ii_iii_ResC1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC1_N_6000 cisDP_18_ii_iii_ResC1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC1_Ca_6001 cisDP_18_ii_iii_ResC1_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC1_Ca_6001 cisDP_18_ii_iii_ResC1_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC1_C_6002 cisDP_18_ii_iii_ResC1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC1_C_6002 cisDP_18_ii_iii_ResC2_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC1_N_6000 cisDP_18_ii_iii_ResC1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC1_C_6002 cisDP_18_ii_iii_ResC1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC2_N_6000 cisDP_18_ii_iii_ResC2_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC2_Ca_6001 cisDP_18_ii_iii_ResC2_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC2_Ca_6001 cisDP_18_ii_iii_ResC2_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC2_C_6002 cisDP_18_ii_iii_ResC2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC2_N_6000 cisDP_18_ii_iii_ResC2_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iii_ResC2_C_6002 cisDP_18_ii_iii_ResC2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_Ca_4001 cisDP_18_ii_iv_Res4_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_Res4_C_8002 cisDP_18_ii_iv_Res4_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_Res4_C_8002 cisDP_18_ii_iv_ResC1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC1_N_8000 cisDP_18_ii_iv_ResC1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC1_Ca_8001 cisDP_18_ii_iv_ResC1_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC1_Ca_8001 cisDP_18_ii_iv_ResC1_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC1_C_8002 cisDP_18_ii_iv_ResC1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC1_C_8002 cisDP_18_ii_iv_ResC2_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC1_N_8000 cisDP_18_ii_iv_ResC1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC1_C_8002 cisDP_18_ii_iv_ResC1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC2_N_8000 cisDP_18_ii_iv_ResC2_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC2_Ca_8001 cisDP_18_ii_iv_ResC2_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC2_C_8002 cisDP_18_ii_iv_ResC2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC2_N_8000 cisDP_18_ii_iv_ResC2_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_iv_ResC2_C_8002 cisDP_18_ii_iv_ResC2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_Res4_Ca_4001 cisDP_18_ii_v_Res4_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_Res4_C_10002 cisDP_18_ii_v_Res4_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_Res4_C_10002 cisDP_18_ii_v_ResC1_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC1_N_10000 cisDP_18_ii_v_ResC1_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC1_Ca_10001 cisDP_18_ii_v_ResC1_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC1_C_10002 cisDP_18_ii_v_ResC1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC1_C_10002 cisDP_18_ii_v_ResC2_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC1_N_10000 cisDP_18_ii_v_ResC1_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC1_C_10002 cisDP_18_ii_v_ResC1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC2_N_10000 cisDP_18_ii_v_ResC2_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC2_Ca_10001 cisDP_18_ii_v_ResC2_Cb_10004" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC2_Ca_10001 cisDP_18_ii_v_ResC2_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC2_C_10002 cisDP_18_ii_v_ResC2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC2_N_10000 cisDP_18_ii_v_ResC2_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_ii_v_ResC2_C_10002 cisDP_18_ii_v_ResC2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_Ca_6001 cisDP_18_iii_i_Res4_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_Res4_C_2002 cisDP_18_iii_i_Res4_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_Res4_C_2002 cisDP_18_iii_i_ResC1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC1_N_2000 cisDP_18_iii_i_ResC1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC1_Ca_2001 cisDP_18_iii_i_ResC1_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC1_Ca_2001 cisDP_18_iii_i_ResC1_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC1_C_2002 cisDP_18_iii_i_ResC1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC1_C_2002 cisDP_18_iii_i_ResC2_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC1_N_2000 cisDP_18_iii_i_ResC1_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC1_C_2002 cisDP_18_iii_i_ResC1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC2_N_2000 cisDP_18_iii_i_ResC2_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC2_Ca_2001 cisDP_18_iii_i_ResC2_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC2_Ca_2001 cisDP_18_iii_i_ResC2_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC2_C_2002 cisDP_18_iii_i_ResC2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC2_N_2000 cisDP_18_iii_i_ResC2_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_i_ResC2_C_2002 cisDP_18_iii_i_ResC2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_Ca_6001 cisDP_18_iii_ii_Res4_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_Res4_C_4002 cisDP_18_iii_ii_Res4_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_Res4_C_4002 cisDP_18_iii_ii_ResC1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC1_N_4000 cisDP_18_iii_ii_ResC1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC1_Ca_4001 cisDP_18_iii_ii_ResC1_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC1_Ca_4001 cisDP_18_iii_ii_ResC1_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC1_C_4002 cisDP_18_iii_ii_ResC1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC1_C_4002 cisDP_18_iii_ii_ResC2_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC1_N_4000 cisDP_18_iii_ii_ResC1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC1_C_4002 cisDP_18_iii_ii_ResC1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC2_N_4000 cisDP_18_iii_ii_ResC2_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC2_Ca_4001 cisDP_18_iii_ii_ResC2_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC2_Ca_4001 cisDP_18_iii_ii_ResC2_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC2_C_4002 cisDP_18_iii_ii_ResC2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC2_N_4000 cisDP_18_iii_ii_ResC2_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_ii_ResC2_C_4002 cisDP_18_iii_ii_ResC2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_Ca_6001 cisDP_18_iii_iii_Res4_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_Res4_C_6002 cisDP_18_iii_iii_Res4_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_Res4_C_6002 cisDP_18_iii_iii_ResC1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC1_N_6000 cisDP_18_iii_iii_ResC1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC1_Ca_6001 cisDP_18_iii_iii_ResC1_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC1_Ca_6001 cisDP_18_iii_iii_ResC1_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC1_C_6002 cisDP_18_iii_iii_ResC1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC1_C_6002 cisDP_18_iii_iii_ResC2_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC1_N_6000 cisDP_18_iii_iii_ResC1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC1_C_6002 cisDP_18_iii_iii_ResC1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC2_N_6000 cisDP_18_iii_iii_ResC2_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC2_Ca_6001 cisDP_18_iii_iii_ResC2_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC2_Ca_6001 cisDP_18_iii_iii_ResC2_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC2_C_6002 cisDP_18_iii_iii_ResC2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC2_N_6000 cisDP_18_iii_iii_ResC2_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iii_ResC2_C_6002 cisDP_18_iii_iii_ResC2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_Ca_6001 cisDP_18_iii_iv_Res4_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_Res4_C_8002 cisDP_18_iii_iv_Res4_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_Res4_C_8002 cisDP_18_iii_iv_ResC1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC1_N_8000 cisDP_18_iii_iv_ResC1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC1_Ca_8001 cisDP_18_iii_iv_ResC1_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC1_Ca_8001 cisDP_18_iii_iv_ResC1_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC1_C_8002 cisDP_18_iii_iv_ResC1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC1_C_8002 cisDP_18_iii_iv_ResC2_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC1_N_8000 cisDP_18_iii_iv_ResC1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC1_C_8002 cisDP_18_iii_iv_ResC1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC2_N_8000 cisDP_18_iii_iv_ResC2_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC2_Ca_8001 cisDP_18_iii_iv_ResC2_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC2_Ca_8001 cisDP_18_iii_iv_ResC2_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC2_C_8002 cisDP_18_iii_iv_ResC2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC2_N_8000 cisDP_18_iii_iv_ResC2_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_iv_ResC2_C_8002 cisDP_18_iii_iv_ResC2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_Res4_Ca_6001 cisDP_18_iii_v_Res4_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_Res4_C_10002 cisDP_18_iii_v_Res4_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_Res4_C_10002 cisDP_18_iii_v_ResC1_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC1_N_10000 cisDP_18_iii_v_ResC1_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC1_Ca_10001 cisDP_18_iii_v_ResC1_Cb_10004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC1_Ca_10001 cisDP_18_iii_v_ResC1_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC1_C_10002 cisDP_18_iii_v_ResC1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC1_C_10002 cisDP_18_iii_v_ResC2_N_10000" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC1_N_10000 cisDP_18_iii_v_ResC1_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC1_C_10002 cisDP_18_iii_v_ResC1_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC2_N_10000 cisDP_18_iii_v_ResC2_Ca_10001" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC2_Ca_10001 cisDP_18_iii_v_ResC2_Cb_10004" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC2_Ca_10001 cisDP_18_iii_v_ResC2_C_10002" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC2_C_10002 cisDP_18_iii_v_ResC2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC2_N_10000 cisDP_18_iii_v_ResC2_H_10005" order="1"/>
+<bond atomRefs2="cisDP_18_iii_v_ResC2_C_10002 cisDP_18_iii_v_ResC2_O_10003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res4_Ca_8001 cisDP_18_iv_i_Res4_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_Res4_C_2002 cisDP_18_iv_i_Res4_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_Res4_C_2002 cisDP_18_iv_i_ResC1_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC1_N_2000 cisDP_18_iv_i_ResC1_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC1_Ca_2001 cisDP_18_iv_i_ResC1_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC1_Ca_2001 cisDP_18_iv_i_ResC1_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC1_C_2002 cisDP_18_iv_i_ResC1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC1_C_2002 cisDP_18_iv_i_ResC2_N_2000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC1_N_2000 cisDP_18_iv_i_ResC1_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC1_C_2002 cisDP_18_iv_i_ResC1_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC2_N_2000 cisDP_18_iv_i_ResC2_Ca_2001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC2_Ca_2001 cisDP_18_iv_i_ResC2_Cb_2004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC2_Ca_2001 cisDP_18_iv_i_ResC2_C_2002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC2_C_2002 cisDP_18_iv_i_ResC2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC2_N_2000 cisDP_18_iv_i_ResC2_H_2005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_i_ResC2_C_2002 cisDP_18_iv_i_ResC2_O_2003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res4_Ca_8001 cisDP_18_iv_ii_Res4_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_Res4_C_4002 cisDP_18_iv_ii_Res4_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_Res4_C_4002 cisDP_18_iv_ii_ResC1_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC1_N_4000 cisDP_18_iv_ii_ResC1_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC1_Ca_4001 cisDP_18_iv_ii_ResC1_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC1_Ca_4001 cisDP_18_iv_ii_ResC1_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC1_C_4002 cisDP_18_iv_ii_ResC1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC1_C_4002 cisDP_18_iv_ii_ResC2_N_4000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC1_N_4000 cisDP_18_iv_ii_ResC1_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC1_C_4002 cisDP_18_iv_ii_ResC1_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC2_N_4000 cisDP_18_iv_ii_ResC2_Ca_4001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC2_Ca_4001 cisDP_18_iv_ii_ResC2_Cb_4004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC2_Ca_4001 cisDP_18_iv_ii_ResC2_C_4002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC2_C_4002 cisDP_18_iv_ii_ResC2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC2_N_4000 cisDP_18_iv_ii_ResC2_H_4005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_ii_ResC2_C_4002 cisDP_18_iv_ii_ResC2_O_4003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res4_Ca_8001 cisDP_18_iv_iii_Res4_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_Res4_C_6002 cisDP_18_iv_iii_Res4_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_Res4_C_6002 cisDP_18_iv_iii_ResC1_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC1_N_6000 cisDP_18_iv_iii_ResC1_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC1_Ca_6001 cisDP_18_iv_iii_ResC1_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC1_Ca_6001 cisDP_18_iv_iii_ResC1_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC1_C_6002 cisDP_18_iv_iii_ResC1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC1_C_6002 cisDP_18_iv_iii_ResC2_N_6000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC1_N_6000 cisDP_18_iv_iii_ResC1_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC1_C_6002 cisDP_18_iv_iii_ResC1_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC2_N_6000 cisDP_18_iv_iii_ResC2_Ca_6001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC2_Ca_6001 cisDP_18_iv_iii_ResC2_Cb_6004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC2_Ca_6001 cisDP_18_iv_iii_ResC2_C_6002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC2_C_6002 cisDP_18_iv_iii_ResC2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC2_N_6000 cisDP_18_iv_iii_ResC2_H_6005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iii_ResC2_C_6002 cisDP_18_iv_iii_ResC2_O_6003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_Res4_Ca_8001 cisDP_18_iv_iv_Res4_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_Res4_C_8002 cisDP_18_iv_iv_Res4_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_Res4_C_8002 cisDP_18_iv_iv_ResC1_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC1_N_8000 cisDP_18_iv_iv_ResC1_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC1_Ca_8001 cisDP_18_iv_iv_ResC1_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC1_Ca_8001 cisDP_18_iv_iv_ResC1_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC1_C_8002 cisDP_18_iv_iv_ResC1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC1_C_8002 cisDP_18_iv_iv_ResC2_N_8000" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC1_N_8000 cisDP_18_iv_iv_ResC1_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC1_C_8002 cisDP_18_iv_iv_ResC1_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC2_N_8000 cisDP_18_iv_iv_ResC2_Ca_8001" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC2_Ca_8001 cisDP_18_iv_iv_ResC2_Cb_8004" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC2_Ca_8001 cisDP_18_iv_iv_ResC2_C_8002" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC2_C_8002 cisDP_18_iv_iv_ResC2_O_8003" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC2_N_8000 cisDP_18_iv_iv_ResC2_H_8005" order="1"/>
+<bond atomRefs2="cisDP_18_iv_iv_ResC2_C_8002 cisDP_18_iv_iv_ResC2_O_8003" order="1"/>
+</bondArray>
+</molecule>

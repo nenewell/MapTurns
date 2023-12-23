@@ -1,0 +1,27 @@
+select PcisP_15_i_iii_Res1_H_6005, PcisP_15_i_iii_ResN2_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_iii_i_Res1_H_2005, PcisP_15_iii_i_ResN2_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_iii_Res4_H_302, PcisP_15_iii_Res1_O_6003; connect hbond create; color hbond [255,21,0] translucent 0.000000
+select PcisP_15_iii_Res2_H_6005, PcisP_15_iii_ii_ResN2_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_iii_Res2_H_6005, PcisP_15_iii_iv_ResN2_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_iv_Res4_H_402, PcisP_15_iv_Res1_O_8003; connect hbond create; color hbond [255,0,55] translucent 0.000000
+select PcisP_15_i_i_ResC2_H_2005, PcisP_15_i_Res3_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_i_i_ResC2_H_2005, PcisP_15_i_Res3_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_i_i_ResC2_H_2005, PcisP_15_i_Res3_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_i_i_ResC2_H_2005, PcisP_15_i_Res3_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_i_ii_ResC2_H_4005, PcisP_15_i_Res4_O_100; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select PcisP_15_i_ii_ResC2_H_4005, PcisP_15_i_Res4_O_200; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select PcisP_15_i_ii_ResC2_H_4005, PcisP_15_i_Res4_O_300; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select PcisP_15_i_ii_ResC2_H_4005, PcisP_15_i_Res4_O_400; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select PcisP_15_ii_ii_ResC1_H_4005, PcisP_15_ii_ii_ResN2_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_ii_iv_ResC2_H_8005, PcisP_15_ii_Res4_O_100; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_ii_iv_ResC2_H_8005, PcisP_15_ii_Res4_O_200; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_ii_iv_ResC2_H_8005, PcisP_15_ii_Res4_O_300; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select PcisP_15_ii_iv_ResC2_H_8005, PcisP_15_ii_Res4_O_400; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select all; hbonds 4
+rotate @{!quaternion(script("show rotation"))}
+rotate molecular X -90
+rotate molecular Y 90
+rotate molecular Z 15
+rotate molecular X -10
+zoom 125
+translate X -3

@@ -1,0 +1,53 @@
+select AB_7_ii_ii_Res1_H_4005, AB_7_ii_i_ResC2_O_2003; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select AB_7_ii_iv_ResN2_H_8005, AB_7_ii_iii_ResC1_O_6003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select AB_7_iv_iii_Res1_H_6005, AB_7_iv_iv_ResC2_O_8003; connect hbond create; color hbond [255,0,55] translucent 0.500000
+select AB_7_iv_v_Res1_H_10005, AB_7_iv_v_ResN2_O_10003; connect hbond create; color hbond [25,0,255] translucent 0.500000
+select AB_7_i_Res2_H_2005, AB_7_i_ii_ResN2_O_4003; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select AB_7_i_Res3_H_2005, AB_7_i_ii_ResN1_O_4003; connect hbond create; color hbond [106,0,255] translucent 0.500000
+select AB_7_i_Res2_H_2005, AB_7_i_v_ResN2_O_10003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select AB_7_i_Res3_H_2005, AB_7_i_v_ResN2_O_10003; connect hbond create; color hbond [255,0,93] translucent 0.500000
+select AB_7_i_Res3_H_2005, AB_7_i_v_ResN1_O_10003; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select AB_7_ii_Res2_H_4005, AB_7_ii_v_ResN2_O_10003; connect hbond create; color hbond [255,0,166] translucent 0.500000
+select AB_7_ii_Res3_H_4005, AB_7_ii_v_ResN2_O_10003; connect hbond create; color hbond [255,0,166] translucent 0.500000
+select AB_7_iii_Res2_H_6005, AB_7_iii_iv_ResN2_O_8003; connect hbond create; color hbond [255,0,0] translucent 0.500000
+select AB_7_iii_Res3_H_6005, AB_7_iii_iv_ResN1_O_8003; connect hbond create; color hbond [174,0,255] translucent 0.500000
+select AB_7_iv_Res2_H_8005, AB_7_iv_ii_ResN2_O_4003; connect hbond create; color hbond [25,0,255] translucent 0.500000
+select AB_7_iv_Res3_H_8005, AB_7_iv_ii_ResN1_O_4003; connect hbond create; color hbond [255,0,25] translucent 0.500000
+select AB_7_i_iii_ResC2_H_6005, AB_7_i_Res3_O_2003; connect hbond create; color hbond [128,0,255] translucent 0.500000
+select AB_7_i_iii_ResC2_H_6005, AB_7_i_Res3_O_4003; connect hbond create; color hbond [128,0,255] translucent 0.500000
+select AB_7_i_iii_ResC2_H_6005, AB_7_i_Res3_O_6003; connect hbond create; color hbond [128,0,255] translucent 0.500000
+select AB_7_i_iii_ResC2_H_6005, AB_7_i_Res3_O_8003; connect hbond create; color hbond [128,0,255] translucent 0.500000
+select AB_7_i_v_ResC2_H_10005, AB_7_i_v_Res4_O_10003; connect hbond create; color hbond [25,0,255] translucent 0.500000
+select AB_7_ii_i_ResC2_H_2005, AB_7_ii_Res4_O_100; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select AB_7_ii_i_ResC2_H_2005, AB_7_ii_Res4_O_200; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select AB_7_ii_i_ResC2_H_2005, AB_7_ii_Res4_O_300; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select AB_7_ii_i_ResC2_H_2005, AB_7_ii_Res4_O_400; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select AB_7_ii_ii_ResC2_H_4005, AB_7_ii_Res3_O_2003; connect hbond create; color hbond [102,0,255] translucent 0.500000
+select AB_7_ii_ii_ResC2_H_4005, AB_7_ii_Res3_O_4003; connect hbond create; color hbond [102,0,255] translucent 0.500000
+select AB_7_ii_ii_ResC2_H_4005, AB_7_ii_Res3_O_6003; connect hbond create; color hbond [102,0,255] translucent 0.500000
+select AB_7_ii_ii_ResC2_H_4005, AB_7_ii_Res3_O_8003; connect hbond create; color hbond [102,0,255] translucent 0.500000
+select AB_7_iii_i_ResC2_H_2005, AB_7_iii_Res4_O_100; connect hbond create; color hbond [25,0,255] translucent 0.500000
+select AB_7_iii_i_ResC2_H_2005, AB_7_iii_Res4_O_200; connect hbond create; color hbond [25,0,255] translucent 0.500000
+select AB_7_iii_i_ResC2_H_2005, AB_7_iii_Res4_O_300; connect hbond create; color hbond [25,0,255] translucent 0.500000
+select AB_7_iii_i_ResC2_H_2005, AB_7_iii_Res4_O_400; connect hbond create; color hbond [25,0,255] translucent 0.500000
+select AB_7_iii_ii_ResC2_H_4005, AB_7_iii_Res3_O_2003; connect hbond create; color hbond [255,81,0] translucent 0.500000
+select AB_7_iii_ii_ResC2_H_4005, AB_7_iii_Res3_O_4003; connect hbond create; color hbond [255,81,0] translucent 0.500000
+select AB_7_iii_ii_ResC2_H_4005, AB_7_iii_Res3_O_6003; connect hbond create; color hbond [255,81,0] translucent 0.500000
+select AB_7_iii_ii_ResC2_H_4005, AB_7_iii_Res3_O_8003; connect hbond create; color hbond [255,81,0] translucent 0.500000
+select AB_7_iii_iii_ResC2_H_6005, AB_7_iii_iii_Res4_O_6003; connect hbond create; color hbond [89,0,255] translucent 0.500000
+select AB_7_iv_iii_ResC2_H_6005, AB_7_iv_Res3_O_2003; connect hbond create; color hbond [255,0,93] translucent 0.500000
+select AB_7_iv_iii_ResC2_H_6005, AB_7_iv_Res3_O_4003; connect hbond create; color hbond [255,0,93] translucent 0.500000
+select AB_7_iv_iii_ResC2_H_6005, AB_7_iv_Res3_O_6003; connect hbond create; color hbond [255,0,93] translucent 0.500000
+select AB_7_iv_iii_ResC2_H_6005, AB_7_iv_Res3_O_8003; connect hbond create; color hbond [255,0,93] translucent 0.500000
+select AB_7_iv_iv_ResC2_H_8005, AB_7_iv_Res3_O_2003; connect hbond create; color hbond [255,0,55] translucent 0.500000
+select AB_7_iv_iv_ResC2_H_8005, AB_7_iv_Res3_O_4003; connect hbond create; color hbond [255,0,55] translucent 0.500000
+select AB_7_iv_iv_ResC2_H_8005, AB_7_iv_Res3_O_6003; connect hbond create; color hbond [255,0,55] translucent 0.500000
+select AB_7_iv_iv_ResC2_H_8005, AB_7_iv_Res3_O_8003; connect hbond create; color hbond [255,0,55] translucent 0.500000
+select all; hbonds 4
+rotate @{!quaternion(script("show rotation"))}
+rotate molecular X -90
+rotate molecular Y 90
+rotate molecular Z 15
+rotate molecular X -10
+zoom 125
+translate X -3

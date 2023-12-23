@@ -1,0 +1,49 @@
+select pG_17_i_ii_Res1_H_4005, pG_17_i_Res4_O_100; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select pG_17_i_ii_Res1_H_4005, pG_17_i_Res4_O_200; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select pG_17_i_ii_Res1_H_4005, pG_17_i_Res4_O_300; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select pG_17_i_ii_Res1_H_4005, pG_17_i_Res4_O_400; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select pG_17_ii_i_ResN1_H_2005, pG_17_ii_Res4_O_100; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select pG_17_ii_i_ResN1_H_2005, pG_17_ii_Res4_O_200; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select pG_17_ii_i_ResN1_H_2005, pG_17_ii_Res4_O_300; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select pG_17_ii_i_ResN1_H_2005, pG_17_ii_Res4_O_400; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select pG_17_ii_i_ResN1_H_2005, pG_17_ii_i_Res4_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_ii_i_ResN1_H_2005, pG_17_ii_iii_Res4_O_6003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select pG_17_iii_ii_Res1_H_4005, pG_17_iii_ii_ResN2_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_i_Res4_H_2005, pG_17_i_Res2_O_2003; connect hbond create; color hbond [51,0,255] translucent 0.000000
+select pG_17_i_Res4_H_102, pG_17_i_Res2_O_2003; connect hbond create; color hbond [51,0,255] translucent 0.000000
+select pG_17_ii_Res4_H_4005, pG_17_ii_Res2_O_4003; connect hbond create; color hbond [255,149,0] translucent 0.000000
+select pG_17_ii_Res4_H_202, pG_17_ii_Res1_O_4003; connect hbond create; color hbond [255,0,157] translucent 0.000000
+select pG_17_iii_Res3_H_6005, pG_17_iii_Res1_O_6003; connect hbond create; color hbond [68,0,255] translucent 0.000000
+select pG_17_iii_Res4_H_6005, pG_17_iii_Res2_O_6003; connect hbond create; color hbond [68,0,255] translucent 0.000000
+select pG_17_ii_v_ResC1_H_10005, pG_17_ii_Res4_O_100; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_ii_v_ResC1_H_10005, pG_17_ii_Res4_O_200; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_ii_v_ResC1_H_10005, pG_17_ii_Res4_O_300; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_ii_v_ResC1_H_10005, pG_17_ii_Res4_O_400; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_i_ResC2_H_2005, pG_17_iv_Res4_O_100; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_i_ResC2_H_2005, pG_17_iv_Res4_O_200; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_i_ResC2_H_2005, pG_17_iv_Res4_O_300; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_i_ResC2_H_2005, pG_17_iv_Res4_O_400; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_ii_ResC1_H_4005, pG_17_iv_Res4_O_100; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_ii_ResC1_H_4005, pG_17_iv_Res4_O_200; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_ii_ResC1_H_4005, pG_17_iv_Res4_O_300; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_ii_ResC1_H_4005, pG_17_iv_Res4_O_400; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_iii_ResC1_H_6005, pG_17_iv_Res4_O_100; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_iii_ResC1_H_6005, pG_17_iv_Res4_O_200; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_iii_ResC1_H_6005, pG_17_iv_Res4_O_300; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_iii_ResC1_H_6005, pG_17_iv_Res4_O_400; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_iv_ResC1_H_8005, pG_17_iv_Res4_O_100; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_iv_ResC1_H_8005, pG_17_iv_Res4_O_200; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_iv_ResC1_H_8005, pG_17_iv_Res4_O_300; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_iv_ResC1_H_8005, pG_17_iv_Res4_O_400; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_v_ResC1_H_10005, pG_17_iv_Res4_O_100; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_v_ResC1_H_10005, pG_17_iv_Res4_O_200; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_v_ResC1_H_10005, pG_17_iv_Res4_O_300; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select pG_17_iv_v_ResC1_H_10005, pG_17_iv_Res4_O_400; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select all; hbonds 4
+rotate @{!quaternion(script("show rotation"))}
+rotate molecular X -90
+rotate molecular Y 90
+rotate molecular Z 15
+rotate molecular X -10
+zoom 125
+translate X -3

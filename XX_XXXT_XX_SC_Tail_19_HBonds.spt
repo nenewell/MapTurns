@@ -1,0 +1,60 @@
+select cisDP_18_i_i_ResN2_H_2005, cisDP_18_i_i_ResC1_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_i_iii_Res1_H_6005, cisDP_18_i_iii_ResN2_O_6003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select cisDP_18_i_iii_Res1_H_6005, cisDP_18_i_Res3_O_2003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select cisDP_18_i_iii_Res1_H_6005, cisDP_18_i_Res3_O_4003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select cisDP_18_i_iii_Res1_H_6005, cisDP_18_i_Res3_O_6003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select cisDP_18_i_iii_Res1_H_6005, cisDP_18_i_Res3_O_8003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select cisDP_18_i_iii_ResN2_H_6005, cisDP_18_i_iv_ResC1_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_i_v_Res1_H_10005, cisDP_18_i_v_ResC2_O_10003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_i_Res1_H_2005, cisDP_18_ii_ii_ResC2_O_4003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select cisDP_18_ii_iv_ResN2_H_8005, cisDP_18_ii_i_ResC2_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iii_v_Res1_H_10005, cisDP_18_iii_Res3_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iii_v_Res1_H_10005, cisDP_18_iii_Res3_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iii_v_Res1_H_10005, cisDP_18_iii_Res3_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iii_v_Res1_H_10005, cisDP_18_iii_Res3_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_i_Res3_H_2005, cisDP_18_i_i_ResN1_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_i_Res3_H_2005, cisDP_18_i_ii_ResN1_O_4003; connect hbond create; color hbond [255,0,55] translucent 0.500000
+select cisDP_18_i_Res4_H_102, cisDP_18_i_ii_ResC1_O_4003; connect hbond create; color hbond [149,0,255] translucent 0.500000
+select cisDP_18_ii_Res4_H_202, cisDP_18_ii_iv_ResN2_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iii_Res3_H_6005, cisDP_18_iii_ii_ResN1_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iv_Res4_H_8005, cisDP_18_iv_Res2_O_8003; connect hbond create; color hbond [255,0,209] translucent 0.000000
+select cisDP_18_iv_Res3_H_8005, cisDP_18_iv_i_ResN1_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iv_Res3_H_8005, cisDP_18_iv_iii_ResN1_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_i_i_ResC2_H_2005, cisDP_18_i_Res4_O_100; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select cisDP_18_i_i_ResC2_H_2005, cisDP_18_i_Res4_O_200; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select cisDP_18_i_i_ResC2_H_2005, cisDP_18_i_Res4_O_300; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select cisDP_18_i_i_ResC2_H_2005, cisDP_18_i_Res4_O_400; connect hbond create; color hbond [68,0,255] translucent 0.500000
+select cisDP_18_i_ii_ResC1_H_4005, cisDP_18_i_iv_ResN2_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_i_iv_ResC1_H_8005, cisDP_18_i_iii_ResN2_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_i_v_ResC2_H_10005, cisDP_18_i_Res3_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_i_v_ResC2_H_10005, cisDP_18_i_Res3_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_i_v_ResC2_H_10005, cisDP_18_i_Res3_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_i_v_ResC2_H_10005, cisDP_18_i_Res3_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_i_ResC1_H_2005, cisDP_18_ii_Res3_O_2003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select cisDP_18_ii_i_ResC1_H_2005, cisDP_18_ii_Res3_O_4003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select cisDP_18_ii_i_ResC1_H_2005, cisDP_18_ii_Res3_O_6003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select cisDP_18_ii_i_ResC1_H_2005, cisDP_18_ii_Res3_O_8003; connect hbond create; color hbond [255,0,209] translucent 0.500000
+select cisDP_18_ii_ii_ResC2_H_4005, cisDP_18_ii_Res3_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_ii_ResC2_H_4005, cisDP_18_ii_Res3_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_ii_ResC2_H_4005, cisDP_18_ii_Res3_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_ii_ResC2_H_4005, cisDP_18_ii_Res3_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_iv_ResC2_H_8005, cisDP_18_ii_Res4_O_100; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_iv_ResC2_H_8005, cisDP_18_ii_Res4_O_200; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_iv_ResC2_H_8005, cisDP_18_ii_Res4_O_300; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_iv_ResC2_H_8005, cisDP_18_ii_Res4_O_400; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_v_ResC2_H_10005, cisDP_18_ii_Res3_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_v_ResC2_H_10005, cisDP_18_ii_Res3_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_v_ResC2_H_10005, cisDP_18_ii_Res3_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_ii_v_ResC2_H_10005, cisDP_18_ii_Res3_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iv_ii_ResC2_H_4005, cisDP_18_iv_Res3_O_2003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iv_ii_ResC2_H_4005, cisDP_18_iv_Res3_O_4003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iv_ii_ResC2_H_4005, cisDP_18_iv_Res3_O_6003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select cisDP_18_iv_ii_ResC2_H_4005, cisDP_18_iv_Res3_O_8003; connect hbond create; color hbond [255,255,0] translucent 0.500000
+select all; hbonds 4
+rotate @{!quaternion(script("show rotation"))}
+rotate molecular X -90
+rotate molecular Y 90
+rotate molecular Z 15
+rotate molecular X -10
+zoom 125
+translate X -3

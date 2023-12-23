@@ -1,0 +1,239 @@
+Motif statistics in the global set of turns, showing motif count, fraction
+of turns with the motif, fractional overrepresentation, PVal and avg. depth.
+
+Count   Fraction  Overrep  PVal    Avg. Depth
+------  --------  -------  ------  ----------
+  6454     0.063    0.144  0.0000         5.4
+
+
+Motif statistics in the classical types, with types ordered by
+motif fractional overrepresentation. Statistics include motif count,
+abundance fraction, fractional overrepresention, PVal and avg. depth.
+
+Type  Count   Fraction  Overrep  PVal    Avg. Depth
+----  ------  --------  -------  ------  ----------
+  II    1049     0.081    0.474  0.0000         5.4
+ II'     219     0.077    0.391  0.0000         5.5
+  IV    1946     0.073    0.315  0.0000         5.5
+VIa2      14     0.065    0.180  0.4575         6.6
+ VIb      53     0.061    0.114  0.4144         6.6
+   I    2430     0.055   -0.004  0.8269         5.3
+VIII     481     0.053   -0.040  0.3701         5.2
+  I'     238     0.052   -0.058  0.3483         5.2
+VIa1      24     0.034   -0.380  0.0161         5.5
+
+
+Motif statistics in the BB clusters (see menu at far left and left-hand
+map below), with clusters ordered by motif statistical significance.
+Motif statistics include the motif's most common Ramachandran type and
+its count, abundance fraction, fractional overrepresentation, PVal and avg. depth.
+
+BB Cluster      Rama Type  Count  Fraction  Overrep  PVal    Avg. Depth
+--------------  ---------  -----  --------  -------  ------  ----------
+    AG_9(VIII)         AG    231     0.126    1.283  0.0000         5.3
+      Pa_3(II)         Pa    514     0.090    0.624  0.0000         5.7
+      Pd_2(II)         Pd    863     0.076    0.385  0.0000         5.3
+     dN_13(IV)         dN    109     0.108    0.964  0.0000         5.6
+      AD_1b(I)         AD    807     0.069    0.244  0.0000         5.1
+     pD_8(II')         pD    248     0.076    0.371  0.0000         5.4
+  cisDP_18(IV)      cisAB     30     0.092    0.668  0.0027         5.2
+     pG_17(IV)         pG     36     0.074    0.340  0.0582         6.2
+    AB_5(VIII)         AB    305     0.060    0.096  0.0958         5.2
+      AA_1a(I)         AA   1731     0.057    0.038  0.1068         5.1
+     Dd_14(IV)         Dd     55     0.067    0.211  0.1261         5.4
+     dD_11(IV)         dD     66     0.060    0.079  0.5121         5.8
+ BcisP_10(VIb)      BcisP     54     0.059    0.078  0.5630         6.7
+      ad_4(I')         ad    299     0.056    0.013  0.8109         5.3
+  cisDA_16(IV)      cisDA     24     0.056    0.009  0.9166         5.9
+      AD_1c(I)         AD    499     0.054   -0.029  0.5106         5.8
+PcisD_12(VIa1)      PcisD     50     0.047   -0.142  0.2814         6.3
+    AB_7(VIII)         AB    278     0.051   -0.082  0.1474         5.3
+ PcisP_15(VIb)      PcisP     18     0.039   -0.295  0.1278         5.7
+    AZ_6(VIII)         AZ    236     0.038   -0.320  0.0000         5.8
+
+
+Motif statistics in the SC clusters within each BB cluster (see menu at
+near left and right-hand map below), with SC clusters ordered by motif
+count. PDB addresses are given for each SC cluster medoid. Motif
+statistics include the motif's most common Ramachandran type, it's count
+and abundance fraction, the SC cluster's dispersion and its avg. depth.
+
+BB cluster: AG_9(VIII)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H2E2/H4E1    3KT7_A_140        AG     85     0.368   0.6         5.0
+2_H3E2/H4E2    1JUH_A_195        AG     68     0.294   0.8         6.0
+3_H2E2/H5E0    4PW0_A_182        AG     53     0.229   0.5         4.9
+4_H2E3/H5E2    1UH4_A_222        AG     24     0.104   0.6         5.4
+
+
+BB cluster: Pa_3(II)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H2E4/H2E3    5F2K_A_140        Pa    233     0.453   0.5         5.5
+2_H1E4/H1E6    1DFM_A_173        Pa    121     0.235   0.5         5.8
+3_H2E2/H2E5    3M1U_A_241        Pa     89     0.173   0.5         6.0
+4_H1E4/H4E2     4Q68_A_42        Pa     68     0.132   0.7         5.8
+
+
+BB cluster: Pd_2(II)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H2E3/H1E6    3VYP_A_217        Pd    284     0.329   0.4         5.6
+2_H2E3/H1E2    2OFZ_A_113        Pd    234     0.271   0.4         4.9
+3_H2E3/H2E2     4PXE_A_87        Pd    219     0.254   0.3         5.1
+4_H1E5/H1E5    3H3L_A_131        Pd    115     0.133   0.7         6.1
+
+
+BB cluster: dN_13(IV)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H1E2/H1E5    5IMU_A_223        dN     47     0.431   0.5         5.7
+2_H1E4/H1E4    2Z98_A_114        dN     32     0.294   0.5         5.5
+3_H0E7/H0E6    4DMI_A_108        dN     23     0.211   0.5         5.3
+4_H3E7/H1E7     2ZPT_X_87        dN      7     0.064   0.7         6.3
+
+
+BB cluster: AD_1b(I)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H1E6/H1E2     2BAY_A_38        AA    280     0.347   0.5         4.7
+2_H2E5/H2E2     5XKX_A_80        AA    219     0.271   0.4         5.0
+3_H2E2/H3E3    5IN4_A_168        AD    200     0.248   0.6         5.5
+4_H1E5/H1E5    1W1H_A_510        AD    105     0.130   0.6         5.6
+
+
+BB cluster: pD_8(II')
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H0E9/H0E9    5A6M_A_369        pD    126     0.508   0.4         5.5
+2_H1E6/H2E5    5AG8_A_679        pD     53     0.214   0.6         5.3
+3_H2E5/H1E5     5H6T_A_64        pD     46     0.185   0.5         5.5
+4_H1E5/H1E5     5A62_A_66        pA     23     0.093   0.8         5.2
+
+
+BB cluster: cisDP_18(IV)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H1E3/H2E3     4D0Q_A_69     cisDP     12     0.400   0.8         4.8
+2_H1E1/H1E4     5COF_A_78     cisAB      8     0.267   0.7         5.0
+3_H0E3/H0E7    5M5Z_A_666     cisAB      6     0.200   0.9         5.9
+4_H3E3/H0E3     4LJR_A_93     cisDG      4     0.133   1.5         5.5
+
+
+BB cluster: pG_17(IV)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H6E2/H5E2    3WV7_A_111        pB     13     0.361   0.8         6.9
+2_H3E4/H0E6    5G5O_A_320        pG      9     0.250   0.7         6.1
+3_H3E3/H3E3    3GRL_A_415        gB      8     0.222   1.2         5.5
+4_H3E2/H0E2    5TQI_A_114        pP      6     0.167   0.6         5.4
+
+
+BB cluster: AB_5(VIII)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H2E4/H1E4    2NXV_A_124        AB     95     0.311   0.7         5.0
+2_H3E3/H6E2    1SG6_A_374        AB     72     0.236   0.5         5.0
+3_H2E3/H3E2    3UMO_A_248        AB     70     0.230   0.7         5.6
+4_H2E3/H3E2    4NHE_A_273        AB     66     0.216   0.6         5.1
+
+
+BB cluster: AA_1a(I)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H1E5/H1E3    4QXB_A_112        AA    800     0.462   0.4         4.7
+2_H2E3/H4E3     3O7B_A_95        AD    421     0.243   0.5         5.6
+3_H3E2/H2E3     5IXH_A_74        AA    270     0.156   0.6         5.5
+4_H4E2/H3E1    4EPS_A_447        AD    225     0.130   0.5         5.3
+
+
+BB cluster: Dd_14(IV)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H1E4/H2E4    2BWR_A_201        Dd     17     0.309   0.6         5.2
+2_H0E8/H0E7    5F30_A_184        Dd     15     0.273   1.1         5.1
+3_H1E7/H1E5    3ZYP_A_147        Dd     11     0.200   0.6         6.1
+4_H1E1/H3E2    1HX6_A_298        Dd     10     0.182   0.8         5.5
+
+
+BB cluster: dD_11(IV)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H1E2/H1E5    3C96_A_201        dD     21     0.318   0.8         6.4
+2_H2E5/H0E3     4Q82_A_73        dD     20     0.303   1.0         5.0
+3_H2E1/H3E3    3QVP_A_273        dD     17     0.258   0.8         5.5
+4_H0E1/H7E1    2POC_A_452        dD      7     0.106   0.4         6.8
+
+
+BB cluster: BcisP_10(VIb)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H0E1/H0E+    3HZ8_A_175     BcisP     23     0.426   0.6         7.5
+2_H3E3/H3E1     5BY7_A_78     BcisP     12     0.222   0.6         6.7
+3_H1E2/H1E7    4F01_A_417     BcisP     10     0.185   0.8         5.8
+4_H1E3/H3E3    1W99_A_412     BcisP      8     0.148   0.5         5.9
+
+
+BB cluster: ad_4(I')
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H1E8/H1E8    4UZ1_A_402        ad    145     0.485   0.5         5.3
+2_H2E4/H1E5    1HYO_A_367        ad     81     0.271   0.6         5.2
+3_H1E7/H1E7    4BPZ_A_187        ad     34     0.114   0.8         5.8
+4_H1E5/H1E6    1XKW_A_115        ad     32     0.107   0.6         5.3
+
+
+BB cluster: cisDA_16(IV)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H1E2/H1E3    3WA1_A_398     cisDA      9     0.375   0.5         5.4
+2_H0E3/H2E3     2QRU_A_67     cisDA      6     0.250   0.6         4.9
+3_H0E4/H0E8     2YLN_A_60     cisDA      5     0.208   0.9         7.4
+4_H0E0/H8E0     5EXE_A_31     cisDA      4     0.167   1.2         6.6
+
+
+BB cluster: AD_1c(I)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H2E4/H2E5     2FRG_P_74        AD    182     0.365   0.8         6.0
+2_H2E4/H2E3    5C55_A_197        AD    153     0.307   0.7         6.0
+3_H3E2/H3E1    4BOQ_A_215        AD     93     0.186   1.1         5.5
+4_H3E3/H1E3    5TIP_A_242        AD     69     0.138   1.0         5.5
+
+
+BB cluster: PcisD_12(VIa1)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H1E2/H4E3     4L4E_A_98     PcisD     18     0.360   0.6         5.4
+2_H1E1/H1E1    4UA6_A_165     BcisD     14     0.280   0.4         6.8
+3_H1E2/H1E2   1UX6_A_1032     BcisA     10     0.200   1.0         5.5
+4_H1E5/H4E1     4OUJ_A_78     PcisD      8     0.160   0.5         8.6
+
+
+BB cluster: AB_7(VIII)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H2E3/H3E1    3SCY_A_275        AB     90     0.324   0.5         5.3
+2_H2E2/H2E3    3GQ8_A_427        AB     83     0.299   0.8         5.4
+3_H3E2/H5E1    3KD3_A_180        AB     59     0.212   0.6         5.2
+4_H3E2/H3E3     1YT3_A_73        AB     42     0.151   0.8         5.2
+
+
+BB cluster: PcisP_15(VIb)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H1E3/H4E1    4TME_A_177     PcisP      7     0.389   1.2         5.1
+2_H3E0/H5E3    5B68_A_227     PcisP      4     0.222   0.6         4.4
+3_H3E3/H0E8     3ZVS_A_62     PcisP      4     0.222   0.7         7.0
+4_H0E0/H3E0    3DK9_A_466     BcisB      3     0.167   0.6         6.9
+
+
+BB cluster: AZ_6(VIII)
+SC Cluster    PDB Address  RamaType  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------  -----  --------  ----  ----------
+1_H2E3/H3E1    5UJ6_A_625        DZ     96     0.407   0.8         5.5
+2_H3E2/H2E3     2YNA_A_98        AZ     58     0.246   0.7         6.0
+3_H3E3/H2E5     5T5I_C_73        AD     50     0.212   0.6         6.0
+4_H3E2/H3E3     3A35_A_67        AD     31     0.131   0.8         6.2
+

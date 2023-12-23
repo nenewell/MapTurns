@@ -1,0 +1,3512 @@
+load XX_XXXT_XX_SC_Tail_8.cml
+rotate MOLECULAR Y 90
+rotate MOLECULAR Z -75
+rotate MOLECULAR X -10
+centerAT absolute 0 0 0
+axes molecular
+axes 3
+axes scale 2.3
+axes LABELS "-Z" "-X" "+Y" "+Z" "+X" "-Y"
+select all
+wireframe 3
+spacefill 4
+set frank off
+select AB_7_i_i_ResN2_N_2000;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResN2_Ca_2001;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResN2_C_2002;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResN2_O_2003;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResN2_N_2000,AB_7_i_i_ResN2_Ca_2001
+wireframe 22
+color bond [255,255,0] translucent 0.56
+select AB_7_i_i_ResN2_Ca_2001,AB_7_i_i_ResN2_C_2002
+wireframe 22
+color bond [255,255,0] translucent 0.56
+select AB_7_i_i_ResN2_Ca_2001;  spacefill 50
+select AB_7_i_i_ResN2_Cb_2004;  spacefill 50
+select AB_7_i_i_ResN2_Ca_2001,AB_7_i_i_ResN2_Cb_2004
+color bond [255,255,0] translucent 0.56
+wireframe 22
+select AB_7_i_i_ResN2_Cb_2004; color atom translucent 0.56
+select AB_7_i_i_ResN2_C_2002,AB_7_i_i_ResN1_N_2000
+color bond [255,255,0] translucent 0.56
+wireframe 22
+select AB_7_i_i_ResN2_N_2000,AB_7_i_i_ResN2_H_2005
+color bond [255,255,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_i_ResN2_H_2005
+color atom translucent 0.56
+select AB_7_i_i_ResN2_C_2002,AB_7_i_i_ResN2_O_2003
+color bond [255,255,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_i_ResN1_N_2000;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResN1_Ca_2001;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResN1_C_2002;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResN1_O_2003;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResN1_N_2000,AB_7_i_i_ResN1_Ca_2001
+wireframe 22
+color bond [255,255,0] translucent 0.56
+select AB_7_i_i_ResN1_Ca_2001,AB_7_i_i_ResN1_C_2002
+wireframe 22
+color bond [255,255,0] translucent 0.56
+select AB_7_i_i_ResN1_Ca_2001;  spacefill 50
+select AB_7_i_i_ResN1_Cb_2004;  spacefill 50
+select AB_7_i_i_ResN1_Ca_2001,AB_7_i_i_ResN1_Cb_2004
+color bond [255,255,0] translucent 0.56
+wireframe 22
+select AB_7_i_i_ResN1_Cb_2004; color atom translucent 0.56
+select AB_7_i_i_ResN1_C_2002,AB_7_i_i_Res1_N_2000
+color bond [255,255,0] translucent 0.56
+wireframe 22
+select AB_7_i_i_ResN1_N_2000,AB_7_i_i_ResN1_H_2005
+color bond [255,255,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_i_ResN1_H_2005
+color atom translucent 0.56
+select AB_7_i_i_ResN1_C_2002,AB_7_i_i_ResN1_O_2003
+color bond [255,255,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_i_Res1_N_2000;  spacefill 50
+select AB_7_i_i_Res1_N_2000; color atom translucent 0.56
+select AB_7_i_Res1_Ca_2001; color atom translucent 0.56
+select AB_7_i_i_Res1_N_2000,AB_7_i_Res1_Ca_2001
+wireframe 22
+bondOrder .5
+color bond [255,255,0] translucent 0.56
+select AB_7_i_i_Res1_N_2000,AB_7_i_i_Res1_H_2005
+color bond [255,255,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_i_Res1_H_2005; color atom translucent 0.56
+select AB_7_i_ii_ResN2_N_4000;  spacefill 48
+color atom translucent 0.56
+select AB_7_i_ii_ResN2_Ca_4001;  spacefill 48
+color atom translucent 0.56
+select AB_7_i_ii_ResN2_C_4002;  spacefill 48
+color atom translucent 0.56
+select AB_7_i_ii_ResN2_O_4003;  spacefill 48
+color atom translucent 0.56
+select AB_7_i_ii_ResN2_N_4000,AB_7_i_ii_ResN2_Ca_4001
+wireframe 21
+color bond [255,127,0] translucent 0.56
+select AB_7_i_ii_ResN2_Ca_4001,AB_7_i_ii_ResN2_C_4002
+wireframe 21
+color bond [255,127,0] translucent 0.56
+select AB_7_i_ii_ResN2_Ca_4001;  spacefill 48
+select AB_7_i_ii_ResN2_Cb_4004;  spacefill 48
+select AB_7_i_ii_ResN2_Ca_4001,AB_7_i_ii_ResN2_Cb_4004
+color bond [255,127,0] translucent 0.56
+wireframe 21
+select AB_7_i_ii_ResN2_Cb_4004; color atom translucent 0.56
+select AB_7_i_ii_ResN2_C_4002,AB_7_i_ii_ResN1_N_4000
+color bond [255,127,0] translucent 0.56
+wireframe 21
+select AB_7_i_ii_ResN2_N_4000,AB_7_i_ii_ResN2_H_4005
+color bond [255,127,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_i_ii_ResN2_H_4005
+color atom translucent 0.56
+select AB_7_i_ii_ResN2_C_4002,AB_7_i_ii_ResN2_O_4003
+color bond [255,127,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_i_ii_ResN1_N_4000;  spacefill 48
+color atom translucent 0.56
+select AB_7_i_ii_ResN1_Ca_4001;  spacefill 48
+color atom translucent 0.56
+select AB_7_i_ii_ResN1_C_4002;  spacefill 48
+color atom translucent 0.56
+select AB_7_i_ii_ResN1_O_4003;  spacefill 48
+color atom translucent 0.56
+select AB_7_i_ii_ResN1_N_4000,AB_7_i_ii_ResN1_Ca_4001
+wireframe 21
+color bond [255,127,0] translucent 0.56
+select AB_7_i_ii_ResN1_Ca_4001,AB_7_i_ii_ResN1_C_4002
+wireframe 21
+color bond [255,127,0] translucent 0.56
+select AB_7_i_ii_ResN1_Ca_4001;  spacefill 48
+select AB_7_i_ii_ResN1_Cb_4004;  spacefill 48
+select AB_7_i_ii_ResN1_Ca_4001,AB_7_i_ii_ResN1_Cb_4004
+color bond [255,127,0] translucent 0.56
+wireframe 21
+select AB_7_i_ii_ResN1_Cb_4004; color atom translucent 0.56
+select AB_7_i_ii_ResN1_C_4002,AB_7_i_ii_Res1_N_4000
+color bond [255,127,0] translucent 0.56
+wireframe 21
+select AB_7_i_ii_ResN1_N_4000,AB_7_i_ii_ResN1_H_4005
+color bond [255,127,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_i_ii_ResN1_H_4005
+color atom translucent 0.56
+select AB_7_i_ii_ResN1_C_4002,AB_7_i_ii_ResN1_O_4003
+color bond [255,127,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_i_ii_Res1_N_4000;  spacefill 48
+select AB_7_i_ii_Res1_N_4000; color atom translucent 0.56
+select AB_7_i_Res1_Ca_2001; color atom translucent 0.56
+select AB_7_i_ii_Res1_N_4000,AB_7_i_Res1_Ca_2001
+wireframe 21
+bondOrder .5
+color bond [255,127,0] translucent 0.56
+select AB_7_i_ii_Res1_N_4000,AB_7_i_ii_Res1_H_4005
+color bond [255,127,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_i_ii_Res1_H_4005; color atom translucent 0.56
+select AB_7_i_iii_ResN2_N_6000;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iii_ResN2_Ca_6001;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iii_ResN2_C_6002;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iii_ResN2_O_6003;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iii_ResN2_N_6000,AB_7_i_iii_ResN2_Ca_6001
+wireframe 17
+color bond [255,0,51] translucent 0.56
+select AB_7_i_iii_ResN2_Ca_6001,AB_7_i_iii_ResN2_C_6002
+wireframe 17
+color bond [255,0,51] translucent 0.56
+select AB_7_i_iii_ResN2_Ca_6001;  spacefill 39
+select AB_7_i_iii_ResN2_Cb_6004;  spacefill 39
+select AB_7_i_iii_ResN2_Ca_6001,AB_7_i_iii_ResN2_Cb_6004
+color bond [255,0,51] translucent 0.56
+wireframe 17
+select AB_7_i_iii_ResN2_Cb_6004; color atom translucent 0.56
+select AB_7_i_iii_ResN2_C_6002,AB_7_i_iii_ResN1_N_6000
+color bond [255,0,51] translucent 0.56
+wireframe 17
+select AB_7_i_iii_ResN2_N_6000
+spacefill 39
+select AB_7_i_iii_ResN2_C_6002,AB_7_i_iii_ResN2_O_6003
+color bond [255,0,51] translucent 0.56
+spacefill 39
+wireframe 17
+select AB_7_i_iii_ResN1_N_6000;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iii_ResN1_Ca_6001;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iii_ResN1_C_6002;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iii_ResN1_O_6003;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iii_ResN1_N_6000,AB_7_i_iii_ResN1_Ca_6001
+wireframe 17
+color bond [255,0,51] translucent 0.56
+select AB_7_i_iii_ResN1_Ca_6001,AB_7_i_iii_ResN1_C_6002
+wireframe 17
+color bond [255,0,51] translucent 0.56
+select AB_7_i_iii_ResN1_Ca_6001;  spacefill 39
+select AB_7_i_iii_ResN1_Cb_6004;  spacefill 39
+select AB_7_i_iii_ResN1_Ca_6001,AB_7_i_iii_ResN1_Cb_6004
+color bond [255,0,51] translucent 0.56
+wireframe 17
+select AB_7_i_iii_ResN1_Cb_6004; color atom translucent 0.56
+select AB_7_i_iii_ResN1_C_6002,AB_7_i_iii_Res1_N_6000
+color bond [255,0,51] translucent 0.56
+wireframe 17
+select AB_7_i_iii_ResN1_N_6000,AB_7_i_iii_ResN1_H_6005
+color bond [255,0,51] translucent 0.56
+spacefill 39
+wireframe 17
+select AB_7_i_iii_ResN1_H_6005
+color atom translucent 0.56
+select AB_7_i_iii_ResN1_C_6002,AB_7_i_iii_ResN1_O_6003
+color bond [255,0,51] translucent 0.56
+spacefill 39
+wireframe 17
+select AB_7_i_iii_Res1_N_6000;  spacefill 39
+select AB_7_i_iii_Res1_N_6000; color atom translucent 0.56
+select AB_7_i_Res1_Ca_2001; color atom translucent 0.56
+select AB_7_i_iii_Res1_N_6000,AB_7_i_Res1_Ca_2001
+wireframe 17
+bondOrder .5
+color bond [255,0,51] translucent 0.56
+select AB_7_i_iii_Res1_N_6000,AB_7_i_iii_Res1_H_6005
+color bond [255,0,51] translucent 0.56
+spacefill 39
+wireframe 17
+select AB_7_i_iii_Res1_H_6005; color atom translucent 0.56
+select AB_7_i_iv_ResN2_N_8000;  spacefill 34
+color atom translucent 0.56
+select AB_7_i_iv_ResN2_Ca_8001;  spacefill 34
+color atom translucent 0.56
+select AB_7_i_iv_ResN2_C_8002;  spacefill 34
+color atom translucent 0.56
+select AB_7_i_iv_ResN2_O_8003;  spacefill 34
+color atom translucent 0.56
+select AB_7_i_iv_ResN2_N_8000,AB_7_i_iv_ResN2_Ca_8001
+wireframe 15
+color bond [255,0,179] translucent 0.56
+select AB_7_i_iv_ResN2_Ca_8001,AB_7_i_iv_ResN2_C_8002
+wireframe 15
+color bond [255,0,179] translucent 0.56
+select AB_7_i_iv_ResN2_Ca_8001;  spacefill 34
+select AB_7_i_iv_ResN2_Cb_8004;  spacefill 34
+select AB_7_i_iv_ResN2_Ca_8001,AB_7_i_iv_ResN2_Cb_8004
+color bond [255,0,179] translucent 0.56
+wireframe 15
+select AB_7_i_iv_ResN2_Cb_8004; color atom translucent 0.56
+select AB_7_i_iv_ResN2_C_8002,AB_7_i_iv_ResN1_N_8000
+color bond [255,0,179] translucent 0.56
+wireframe 15
+select AB_7_i_iv_ResN2_N_8000
+spacefill 34
+select AB_7_i_iv_ResN2_C_8002,AB_7_i_iv_ResN2_O_8003
+color bond [255,0,179] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_i_iv_ResN1_N_8000;  spacefill 34
+color atom translucent 0.56
+select AB_7_i_iv_ResN1_Ca_8001;  spacefill 34
+color atom translucent 0.56
+select AB_7_i_iv_ResN1_C_8002;  spacefill 34
+color atom translucent 0.56
+select AB_7_i_iv_ResN1_O_8003;  spacefill 34
+color atom translucent 0.56
+select AB_7_i_iv_ResN1_N_8000,AB_7_i_iv_ResN1_Ca_8001
+wireframe 15
+color bond [255,0,179] translucent 0.56
+select AB_7_i_iv_ResN1_Ca_8001,AB_7_i_iv_ResN1_C_8002
+wireframe 15
+color bond [255,0,179] translucent 0.56
+select AB_7_i_iv_ResN1_Ca_8001;  spacefill 34
+select AB_7_i_iv_ResN1_Cb_8004;  spacefill 34
+select AB_7_i_iv_ResN1_Ca_8001,AB_7_i_iv_ResN1_Cb_8004
+color bond [255,0,179] translucent 0.56
+wireframe 15
+select AB_7_i_iv_ResN1_Cb_8004; color atom translucent 0.56
+select AB_7_i_iv_ResN1_C_8002,AB_7_i_iv_Res1_N_8000
+color bond [255,0,179] translucent 0.56
+wireframe 15
+select AB_7_i_iv_ResN1_N_8000,AB_7_i_iv_ResN1_H_8005
+color bond [255,0,179] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_i_iv_ResN1_H_8005
+color atom translucent 0.56
+select AB_7_i_iv_ResN1_C_8002,AB_7_i_iv_ResN1_O_8003
+color bond [255,0,179] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_i_iv_Res1_N_8000;  spacefill 34
+select AB_7_i_iv_Res1_N_8000; color atom translucent 0.56
+select AB_7_i_Res1_Ca_2001; color atom translucent 0.56
+select AB_7_i_iv_Res1_N_8000,AB_7_i_Res1_Ca_2001
+wireframe 15
+bondOrder .5
+color bond [255,0,179] translucent 0.56
+select AB_7_i_iv_Res1_N_8000
+spacefill 34
+select AB_7_i_v_ResN2_N_10000;  spacefill 27
+color atom translucent 0.56
+select AB_7_i_v_ResN2_Ca_10001;  spacefill 27
+color atom translucent 0.56
+select AB_7_i_v_ResN2_C_10002;  spacefill 27
+color atom translucent 0.56
+select AB_7_i_v_ResN2_O_10003;  spacefill 27
+color atom translucent 0.56
+select AB_7_i_v_ResN2_N_10000,AB_7_i_v_ResN2_Ca_10001
+wireframe 12
+color bond [230,0,255] translucent 0.56
+select AB_7_i_v_ResN2_Ca_10001,AB_7_i_v_ResN2_C_10002
+wireframe 12
+color bond [230,0,255] translucent 0.56
+select AB_7_i_v_ResN2_Ca_10001;  spacefill 27
+select AB_7_i_v_ResN2_Cb_10004;  spacefill 27
+select AB_7_i_v_ResN2_Ca_10001,AB_7_i_v_ResN2_Cb_10004
+color bond [230,0,255] translucent 0.56
+wireframe 12
+select AB_7_i_v_ResN2_Cb_10004; color atom translucent 0.56
+select AB_7_i_v_ResN2_C_10002,AB_7_i_v_ResN1_N_10000
+color bond [230,0,255] translucent 0.56
+wireframe 12
+select AB_7_i_v_ResN2_N_10000,AB_7_i_v_ResN2_H_10005
+color bond [230,0,255] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_i_v_ResN2_H_10005
+color atom translucent 0.56
+select AB_7_i_v_ResN2_C_10002,AB_7_i_v_ResN2_O_10003
+color bond [230,0,255] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_i_v_ResN1_N_10000;  spacefill 27
+color atom translucent 0.56
+select AB_7_i_v_ResN1_Ca_10001;  spacefill 27
+color atom translucent 0.56
+select AB_7_i_v_ResN1_C_10002;  spacefill 27
+color atom translucent 0.56
+select AB_7_i_v_ResN1_O_10003;  spacefill 27
+color atom translucent 0.56
+select AB_7_i_v_ResN1_N_10000,AB_7_i_v_ResN1_Ca_10001
+wireframe 12
+color bond [230,0,255] translucent 0.56
+select AB_7_i_v_ResN1_Ca_10001,AB_7_i_v_ResN1_C_10002
+wireframe 12
+color bond [230,0,255] translucent 0.56
+select AB_7_i_v_ResN1_Ca_10001;  spacefill 27
+select AB_7_i_v_ResN1_Cb_10004;  spacefill 27
+select AB_7_i_v_ResN1_Ca_10001,AB_7_i_v_ResN1_Cb_10004
+color bond [230,0,255] translucent 0.56
+wireframe 12
+select AB_7_i_v_ResN1_Cb_10004; color atom translucent 0.56
+select AB_7_i_v_ResN1_C_10002,AB_7_i_v_Res1_N_10000
+color bond [230,0,255] translucent 0.56
+wireframe 12
+select AB_7_i_v_ResN1_N_10000,AB_7_i_v_ResN1_H_10005
+color bond [230,0,255] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_i_v_ResN1_H_10005
+color atom translucent 0.56
+select AB_7_i_v_ResN1_C_10002,AB_7_i_v_ResN1_O_10003
+color bond [230,0,255] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_i_v_Res1_N_10000;  spacefill 27
+select AB_7_i_v_Res1_N_10000; color atom translucent 0.56
+select AB_7_i_Res1_Ca_2001; color atom translucent 0.56
+select AB_7_i_v_Res1_N_10000,AB_7_i_Res1_Ca_2001
+wireframe 12
+bondOrder .5
+color bond [230,0,255] translucent 0.56
+select AB_7_i_v_Res1_N_10000,AB_7_i_v_Res1_H_10005
+color bond [230,0,255] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_i_v_Res1_H_10005; color atom translucent 0.56
+select AB_7_ii_i_ResN2_N_2000;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResN2_Ca_2001;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResN2_C_2002;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResN2_O_2003;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResN2_N_2000,AB_7_ii_i_ResN2_Ca_2001
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_i_ResN2_Ca_2001,AB_7_ii_i_ResN2_C_2002
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_i_ResN2_Ca_2001;  spacefill 48
+select AB_7_ii_i_ResN2_Cb_2004;  spacefill 48
+select AB_7_ii_i_ResN2_Ca_2001,AB_7_ii_i_ResN2_Cb_2004
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_i_ResN2_Cb_2004; color atom translucent 0.56
+select AB_7_ii_i_ResN2_C_2002,AB_7_ii_i_ResN1_N_2000
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_i_ResN2_N_2000,AB_7_ii_i_ResN2_H_2005
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_i_ResN2_H_2005
+color atom translucent 0.56
+select AB_7_ii_i_ResN2_C_2002,AB_7_ii_i_ResN2_O_2003
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_i_ResN1_N_2000;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResN1_Ca_2001;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResN1_C_2002;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResN1_O_2003;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResN1_N_2000,AB_7_ii_i_ResN1_Ca_2001
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_i_ResN1_Ca_2001,AB_7_ii_i_ResN1_C_2002
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_i_ResN1_Ca_2001;  spacefill 48
+select AB_7_ii_i_ResN1_Cb_2004;  spacefill 48
+select AB_7_ii_i_ResN1_Ca_2001,AB_7_ii_i_ResN1_Cb_2004
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_i_ResN1_Cb_2004; color atom translucent 0.56
+select AB_7_ii_i_ResN1_C_2002,AB_7_ii_i_Res1_N_2000
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_i_ResN1_N_2000,AB_7_ii_i_ResN1_H_2005
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_i_ResN1_H_2005
+color atom translucent 0.56
+select AB_7_ii_i_ResN1_C_2002,AB_7_ii_i_ResN1_O_2003
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_i_Res1_N_2000;  spacefill 48
+select AB_7_ii_i_Res1_N_2000; color atom translucent 0.56
+select AB_7_ii_Res1_Ca_4001; color atom translucent 0.56
+select AB_7_ii_i_Res1_N_2000,AB_7_ii_Res1_Ca_4001
+wireframe 21
+bondOrder .5
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_i_Res1_N_2000,AB_7_ii_i_Res1_H_2005
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_i_Res1_H_2005; color atom translucent 0.56
+select AB_7_ii_ii_ResN2_N_4000;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResN2_Ca_4001;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResN2_C_4002;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResN2_O_4003;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResN2_N_4000,AB_7_ii_ii_ResN2_Ca_4001
+wireframe 21
+color bond [255,132,0] translucent 0.56
+select AB_7_ii_ii_ResN2_Ca_4001,AB_7_ii_ii_ResN2_C_4002
+wireframe 21
+color bond [255,132,0] translucent 0.56
+select AB_7_ii_ii_ResN2_Ca_4001;  spacefill 48
+select AB_7_ii_ii_ResN2_Cb_4004;  spacefill 48
+select AB_7_ii_ii_ResN2_Ca_4001,AB_7_ii_ii_ResN2_Cb_4004
+color bond [255,132,0] translucent 0.56
+wireframe 21
+select AB_7_ii_ii_ResN2_Cb_4004; color atom translucent 0.56
+select AB_7_ii_ii_ResN2_C_4002,AB_7_ii_ii_ResN1_N_4000
+color bond [255,132,0] translucent 0.56
+wireframe 21
+select AB_7_ii_ii_ResN2_N_4000,AB_7_ii_ii_ResN2_H_4005
+color bond [255,132,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_ii_ResN2_H_4005
+color atom translucent 0.56
+select AB_7_ii_ii_ResN2_C_4002,AB_7_ii_ii_ResN2_O_4003
+color bond [255,132,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_ii_ResN1_N_4000;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResN1_Ca_4001;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResN1_C_4002;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResN1_O_4003;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResN1_N_4000,AB_7_ii_ii_ResN1_Ca_4001
+wireframe 21
+color bond [255,132,0] translucent 0.56
+select AB_7_ii_ii_ResN1_Ca_4001,AB_7_ii_ii_ResN1_C_4002
+wireframe 21
+color bond [255,132,0] translucent 0.56
+select AB_7_ii_ii_ResN1_Ca_4001;  spacefill 48
+select AB_7_ii_ii_ResN1_Cb_4004;  spacefill 48
+select AB_7_ii_ii_ResN1_Ca_4001,AB_7_ii_ii_ResN1_Cb_4004
+color bond [255,132,0] translucent 0.56
+wireframe 21
+select AB_7_ii_ii_ResN1_Cb_4004; color atom translucent 0.56
+select AB_7_ii_ii_ResN1_C_4002,AB_7_ii_ii_Res1_N_4000
+color bond [255,132,0] translucent 0.56
+wireframe 21
+select AB_7_ii_ii_ResN1_N_4000,AB_7_ii_ii_ResN1_H_4005
+color bond [255,132,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_ii_ResN1_H_4005
+color atom translucent 0.56
+select AB_7_ii_ii_ResN1_C_4002,AB_7_ii_ii_ResN1_O_4003
+color bond [255,132,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_ii_Res1_N_4000;  spacefill 48
+select AB_7_ii_ii_Res1_N_4000; color atom translucent 0.56
+select AB_7_ii_Res1_Ca_4001; color atom translucent 0.56
+select AB_7_ii_ii_Res1_N_4000,AB_7_ii_Res1_Ca_4001
+wireframe 21
+bondOrder .5
+color bond [255,132,0] translucent 0.56
+select AB_7_ii_ii_Res1_N_4000,AB_7_ii_ii_Res1_H_4005
+color bond [255,132,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_ii_Res1_H_4005; color atom translucent 0.56
+select AB_7_ii_iii_ResN2_N_6000;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResN2_Ca_6001;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResN2_C_6002;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResN2_O_6003;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResN2_N_6000,AB_7_ii_iii_ResN2_Ca_6001
+wireframe 19
+color bond [255,72,0] translucent 0.56
+select AB_7_ii_iii_ResN2_Ca_6001,AB_7_ii_iii_ResN2_C_6002
+wireframe 19
+color bond [255,72,0] translucent 0.56
+select AB_7_ii_iii_ResN2_Ca_6001;  spacefill 43
+select AB_7_ii_iii_ResN2_Cb_6004;  spacefill 43
+select AB_7_ii_iii_ResN2_Ca_6001,AB_7_ii_iii_ResN2_Cb_6004
+color bond [255,72,0] translucent 0.56
+wireframe 19
+select AB_7_ii_iii_ResN2_Cb_6004; color atom translucent 0.56
+select AB_7_ii_iii_ResN2_C_6002,AB_7_ii_iii_ResN1_N_6000
+color bond [255,72,0] translucent 0.56
+wireframe 19
+select AB_7_ii_iii_ResN2_N_6000,AB_7_ii_iii_ResN2_H_6005
+color bond [255,72,0] translucent 0.56
+spacefill 43
+wireframe 19
+select AB_7_ii_iii_ResN2_H_6005
+color atom translucent 0.56
+select AB_7_ii_iii_ResN2_C_6002,AB_7_ii_iii_ResN2_O_6003
+color bond [255,72,0] translucent 0.56
+spacefill 43
+wireframe 19
+select AB_7_ii_iii_ResN1_N_6000;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResN1_Ca_6001;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResN1_C_6002;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResN1_O_6003;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResN1_N_6000,AB_7_ii_iii_ResN1_Ca_6001
+wireframe 19
+color bond [255,72,0] translucent 0.56
+select AB_7_ii_iii_ResN1_Ca_6001,AB_7_ii_iii_ResN1_C_6002
+wireframe 19
+color bond [255,72,0] translucent 0.56
+select AB_7_ii_iii_ResN1_Ca_6001;  spacefill 43
+select AB_7_ii_iii_ResN1_Cb_6004;  spacefill 43
+select AB_7_ii_iii_ResN1_Ca_6001,AB_7_ii_iii_ResN1_Cb_6004
+color bond [255,72,0] translucent 0.56
+wireframe 19
+select AB_7_ii_iii_ResN1_Cb_6004; color atom translucent 0.56
+select AB_7_ii_iii_ResN1_C_6002,AB_7_ii_iii_Res1_N_6000
+color bond [255,72,0] translucent 0.56
+wireframe 19
+select AB_7_ii_iii_ResN1_N_6000,AB_7_ii_iii_ResN1_H_6005
+color bond [255,72,0] translucent 0.56
+spacefill 43
+wireframe 19
+select AB_7_ii_iii_ResN1_H_6005
+color atom translucent 0.56
+select AB_7_ii_iii_ResN1_C_6002,AB_7_ii_iii_ResN1_O_6003
+color bond [255,72,0] translucent 0.56
+spacefill 43
+wireframe 19
+select AB_7_ii_iii_Res1_N_6000;  spacefill 43
+select AB_7_ii_iii_Res1_N_6000; color atom translucent 0.56
+select AB_7_ii_Res1_Ca_4001; color atom translucent 0.56
+select AB_7_ii_iii_Res1_N_6000,AB_7_ii_Res1_Ca_4001
+wireframe 19
+bondOrder .5
+color bond [255,72,0] translucent 0.56
+select AB_7_ii_iii_Res1_N_6000,AB_7_ii_iii_Res1_H_6005
+color bond [255,72,0] translucent 0.56
+spacefill 43
+wireframe 19
+select AB_7_ii_iii_Res1_H_6005; color atom translucent 0.56
+select AB_7_ii_iv_ResN2_N_8000;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_iv_ResN2_Ca_8001;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_iv_ResN2_C_8002;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_iv_ResN2_O_8003;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_iv_ResN2_N_8000,AB_7_ii_iv_ResN2_Ca_8001
+wireframe 16
+color bond [255,0,115] translucent 0.56
+select AB_7_ii_iv_ResN2_Ca_8001,AB_7_ii_iv_ResN2_C_8002
+wireframe 16
+color bond [255,0,115] translucent 0.56
+select AB_7_ii_iv_ResN2_Ca_8001;  spacefill 36
+select AB_7_ii_iv_ResN2_Cb_8004;  spacefill 36
+select AB_7_ii_iv_ResN2_Ca_8001,AB_7_ii_iv_ResN2_Cb_8004
+color bond [255,0,115] translucent 0.56
+wireframe 16
+select AB_7_ii_iv_ResN2_Cb_8004; color atom translucent 0.56
+select AB_7_ii_iv_ResN2_C_8002,AB_7_ii_iv_ResN1_N_8000
+color bond [255,0,115] translucent 0.56
+wireframe 16
+select AB_7_ii_iv_ResN2_N_8000,AB_7_ii_iv_ResN2_H_8005
+color bond [255,0,115] translucent 0.56
+spacefill 36
+wireframe 16
+select AB_7_ii_iv_ResN2_H_8005
+color atom translucent 0.56
+select AB_7_ii_iv_ResN2_C_8002,AB_7_ii_iv_ResN2_O_8003
+color bond [255,0,115] translucent 0.56
+spacefill 36
+wireframe 16
+select AB_7_ii_iv_ResN1_N_8000;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_iv_ResN1_Ca_8001;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_iv_ResN1_C_8002;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_iv_ResN1_O_8003;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_iv_ResN1_N_8000,AB_7_ii_iv_ResN1_Ca_8001
+wireframe 16
+color bond [255,0,115] translucent 0.56
+select AB_7_ii_iv_ResN1_Ca_8001,AB_7_ii_iv_ResN1_C_8002
+wireframe 16
+color bond [255,0,115] translucent 0.56
+select AB_7_ii_iv_ResN1_Ca_8001;  spacefill 36
+select AB_7_ii_iv_ResN1_Cb_8004;  spacefill 36
+select AB_7_ii_iv_ResN1_Ca_8001,AB_7_ii_iv_ResN1_Cb_8004
+color bond [255,0,115] translucent 0.56
+wireframe 16
+select AB_7_ii_iv_ResN1_Cb_8004; color atom translucent 0.56
+select AB_7_ii_iv_ResN1_C_8002,AB_7_ii_iv_Res1_N_8000
+color bond [255,0,115] translucent 0.56
+wireframe 16
+select AB_7_ii_iv_ResN1_N_8000,AB_7_ii_iv_ResN1_H_8005
+color bond [255,0,115] translucent 0.56
+spacefill 36
+wireframe 16
+select AB_7_ii_iv_ResN1_H_8005
+color atom translucent 0.56
+select AB_7_ii_iv_ResN1_C_8002,AB_7_ii_iv_ResN1_O_8003
+color bond [255,0,115] translucent 0.56
+spacefill 36
+wireframe 16
+select AB_7_ii_iv_Res1_N_8000;  spacefill 36
+select AB_7_ii_iv_Res1_N_8000; color atom translucent 0.56
+select AB_7_ii_Res1_Ca_4001; color atom translucent 0.56
+select AB_7_ii_iv_Res1_N_8000,AB_7_ii_Res1_Ca_4001
+wireframe 16
+bondOrder .5
+color bond [255,0,115] translucent 0.56
+select AB_7_ii_iv_Res1_N_8000,AB_7_ii_iv_Res1_H_8005
+color bond [255,0,115] translucent 0.56
+spacefill 36
+wireframe 16
+select AB_7_ii_iv_Res1_H_8005; color atom translucent 0.56
+select AB_7_ii_v_ResN2_N_10000;  spacefill 34
+color atom translucent 0.56
+select AB_7_ii_v_ResN2_Ca_10001;  spacefill 34
+color atom translucent 0.56
+select AB_7_ii_v_ResN2_C_10002;  spacefill 34
+color atom translucent 0.56
+select AB_7_ii_v_ResN2_O_10003;  spacefill 34
+color atom translucent 0.56
+select AB_7_ii_v_ResN2_N_10000,AB_7_ii_v_ResN2_Ca_10001
+wireframe 15
+color bond [255,0,145] translucent 0.56
+select AB_7_ii_v_ResN2_Ca_10001,AB_7_ii_v_ResN2_C_10002
+wireframe 15
+color bond [255,0,145] translucent 0.56
+select AB_7_ii_v_ResN2_Ca_10001;  spacefill 34
+select AB_7_ii_v_ResN2_Cb_10004;  spacefill 34
+select AB_7_ii_v_ResN2_Ca_10001,AB_7_ii_v_ResN2_Cb_10004
+color bond [255,0,145] translucent 0.56
+wireframe 15
+select AB_7_ii_v_ResN2_Cb_10004; color atom translucent 0.56
+select AB_7_ii_v_ResN2_C_10002,AB_7_ii_v_ResN1_N_10000
+color bond [255,0,145] translucent 0.56
+wireframe 15
+select AB_7_ii_v_ResN2_N_10000,AB_7_ii_v_ResN2_H_10005
+color bond [255,0,145] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_ii_v_ResN2_H_10005
+color atom translucent 0.56
+select AB_7_ii_v_ResN2_C_10002,AB_7_ii_v_ResN2_O_10003
+color bond [255,0,145] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_ii_v_ResN1_N_10000;  spacefill 34
+color atom translucent 0.56
+select AB_7_ii_v_ResN1_Ca_10001;  spacefill 34
+color atom translucent 0.56
+select AB_7_ii_v_ResN1_C_10002;  spacefill 34
+color atom translucent 0.56
+select AB_7_ii_v_ResN1_O_10003;  spacefill 34
+color atom translucent 0.56
+select AB_7_ii_v_ResN1_N_10000,AB_7_ii_v_ResN1_Ca_10001
+wireframe 15
+color bond [255,0,145] translucent 0.56
+select AB_7_ii_v_ResN1_Ca_10001,AB_7_ii_v_ResN1_C_10002
+wireframe 15
+color bond [255,0,145] translucent 0.56
+select AB_7_ii_v_ResN1_Ca_10001;  spacefill 34
+select AB_7_ii_v_ResN1_Cb_10004;  spacefill 34
+select AB_7_ii_v_ResN1_Ca_10001,AB_7_ii_v_ResN1_Cb_10004
+color bond [255,0,145] translucent 0.56
+wireframe 15
+select AB_7_ii_v_ResN1_Cb_10004; color atom translucent 0.56
+select AB_7_ii_v_ResN1_C_10002,AB_7_ii_v_Res1_N_10000
+color bond [255,0,145] translucent 0.56
+wireframe 15
+select AB_7_ii_v_ResN1_N_10000,AB_7_ii_v_ResN1_H_10005
+color bond [255,0,145] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_ii_v_ResN1_H_10005
+color atom translucent 0.56
+select AB_7_ii_v_ResN1_C_10002,AB_7_ii_v_ResN1_O_10003
+color bond [255,0,145] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_ii_v_Res1_N_10000;  spacefill 34
+select AB_7_ii_v_Res1_N_10000; color atom translucent 0.56
+select AB_7_ii_Res1_Ca_4001; color atom translucent 0.56
+select AB_7_ii_v_Res1_N_10000,AB_7_ii_Res1_Ca_4001
+wireframe 15
+bondOrder .5
+color bond [255,0,145] translucent 0.56
+select AB_7_ii_v_Res1_N_10000,AB_7_ii_v_Res1_H_10005
+color bond [255,0,145] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_ii_v_Res1_H_10005; color atom translucent 0.56
+select AB_7_iii_i_ResN2_N_2000;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResN2_Ca_2001;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResN2_C_2002;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResN2_O_2003;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResN2_N_2000,AB_7_iii_i_ResN2_Ca_2001
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_i_ResN2_Ca_2001,AB_7_iii_i_ResN2_C_2002
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_i_ResN2_Ca_2001;  spacefill 34
+select AB_7_iii_i_ResN2_Cb_2004;  spacefill 34
+select AB_7_iii_i_ResN2_Ca_2001,AB_7_iii_i_ResN2_Cb_2004
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_i_ResN2_Cb_2004; color atom translucent 0.56
+select AB_7_iii_i_ResN2_C_2002,AB_7_iii_i_ResN1_N_2000
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_i_ResN2_N_2000
+spacefill 34
+select AB_7_iii_i_ResN2_C_2002,AB_7_iii_i_ResN2_O_2003
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_i_ResN1_N_2000;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResN1_Ca_2001;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResN1_C_2002;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResN1_O_2003;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResN1_N_2000,AB_7_iii_i_ResN1_Ca_2001
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_i_ResN1_Ca_2001,AB_7_iii_i_ResN1_C_2002
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_i_ResN1_Ca_2001;  spacefill 34
+select AB_7_iii_i_ResN1_Cb_2004;  spacefill 34
+select AB_7_iii_i_ResN1_Ca_2001,AB_7_iii_i_ResN1_Cb_2004
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_i_ResN1_Cb_2004; color atom translucent 0.56
+select AB_7_iii_i_ResN1_C_2002,AB_7_iii_i_Res1_N_2000
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_i_ResN1_N_2000,AB_7_iii_i_ResN1_H_2005
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_i_ResN1_H_2005
+color atom translucent 0.56
+select AB_7_iii_i_ResN1_C_2002,AB_7_iii_i_ResN1_O_2003
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_i_Res1_N_2000;  spacefill 34
+select AB_7_iii_i_Res1_N_2000; color atom translucent 0.56
+select AB_7_iii_Res1_Ca_6001; color atom translucent 0.56
+select AB_7_iii_i_Res1_N_2000,AB_7_iii_Res1_Ca_6001
+wireframe 15
+bondOrder .5
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_i_Res1_N_2000,AB_7_iii_i_Res1_H_2005
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_i_Res1_H_2005; color atom translucent 0.56
+select AB_7_iii_ii_ResN2_N_4000;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_ii_ResN2_Ca_4001;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_ii_ResN2_C_4002;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_ii_ResN2_O_4003;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_ii_ResN2_N_4000,AB_7_iii_ii_ResN2_Ca_4001
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_ii_ResN2_Ca_4001,AB_7_iii_ii_ResN2_C_4002
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_ii_ResN2_Ca_4001;  spacefill 34
+select AB_7_iii_ii_ResN2_Cb_4004;  spacefill 34
+select AB_7_iii_ii_ResN2_Ca_4001,AB_7_iii_ii_ResN2_Cb_4004
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_ii_ResN2_Cb_4004; color atom translucent 0.56
+select AB_7_iii_ii_ResN2_C_4002,AB_7_iii_ii_ResN1_N_4000
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_ii_ResN2_N_4000,AB_7_iii_ii_ResN2_H_4005
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_ii_ResN2_H_4005
+color atom translucent 0.56
+select AB_7_iii_ii_ResN2_C_4002,AB_7_iii_ii_ResN2_O_4003
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_ii_ResN1_N_4000;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_ii_ResN1_Ca_4001;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_ii_ResN1_C_4002;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_ii_ResN1_O_4003;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_ii_ResN1_N_4000,AB_7_iii_ii_ResN1_Ca_4001
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_ii_ResN1_Ca_4001,AB_7_iii_ii_ResN1_C_4002
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_ii_ResN1_Ca_4001;  spacefill 34
+select AB_7_iii_ii_ResN1_Cb_4004;  spacefill 34
+select AB_7_iii_ii_ResN1_Ca_4001,AB_7_iii_ii_ResN1_Cb_4004
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_ii_ResN1_Cb_4004; color atom translucent 0.56
+select AB_7_iii_ii_ResN1_C_4002,AB_7_iii_ii_Res1_N_4000
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_ii_ResN1_N_4000,AB_7_iii_ii_ResN1_H_4005
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_ii_ResN1_H_4005
+color atom translucent 0.56
+select AB_7_iii_ii_ResN1_C_4002,AB_7_iii_ii_ResN1_O_4003
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_ii_Res1_N_4000;  spacefill 34
+select AB_7_iii_ii_Res1_N_4000; color atom translucent 0.56
+select AB_7_iii_Res1_Ca_6001; color atom translucent 0.56
+select AB_7_iii_ii_Res1_N_4000,AB_7_iii_Res1_Ca_6001
+wireframe 15
+bondOrder .5
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_ii_Res1_N_4000,AB_7_iii_ii_Res1_H_4005
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_ii_Res1_H_4005; color atom translucent 0.56
+select AB_7_iii_iii_ResN2_N_6000;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iii_ResN2_Ca_6001;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iii_ResN2_C_6002;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iii_ResN2_O_6003;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iii_ResN2_N_6000,AB_7_iii_iii_ResN2_Ca_6001
+wireframe 14
+color bond [255,0,72] translucent 0.56
+select AB_7_iii_iii_ResN2_Ca_6001,AB_7_iii_iii_ResN2_C_6002
+wireframe 14
+color bond [255,0,72] translucent 0.56
+select AB_7_iii_iii_ResN2_Ca_6001;  spacefill 32
+select AB_7_iii_iii_ResN2_Cb_6004;  spacefill 32
+select AB_7_iii_iii_ResN2_Ca_6001,AB_7_iii_iii_ResN2_Cb_6004
+color bond [255,0,72] translucent 0.56
+wireframe 14
+select AB_7_iii_iii_ResN2_Cb_6004; color atom translucent 0.56
+select AB_7_iii_iii_ResN2_C_6002,AB_7_iii_iii_ResN1_N_6000
+color bond [255,0,72] translucent 0.56
+wireframe 14
+select AB_7_iii_iii_ResN2_N_6000,AB_7_iii_iii_ResN2_H_6005
+color bond [255,0,72] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iii_ResN2_H_6005
+color atom translucent 0.56
+select AB_7_iii_iii_ResN2_C_6002,AB_7_iii_iii_ResN2_O_6003
+color bond [255,0,72] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iii_ResN1_N_6000;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iii_ResN1_Ca_6001;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iii_ResN1_C_6002;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iii_ResN1_O_6003;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iii_ResN1_N_6000,AB_7_iii_iii_ResN1_Ca_6001
+wireframe 14
+color bond [255,0,72] translucent 0.56
+select AB_7_iii_iii_ResN1_Ca_6001,AB_7_iii_iii_ResN1_C_6002
+wireframe 14
+color bond [255,0,72] translucent 0.56
+select AB_7_iii_iii_ResN1_Ca_6001;  spacefill 32
+select AB_7_iii_iii_ResN1_Cb_6004;  spacefill 32
+select AB_7_iii_iii_ResN1_Ca_6001,AB_7_iii_iii_ResN1_Cb_6004
+color bond [255,0,72] translucent 0.56
+wireframe 14
+select AB_7_iii_iii_ResN1_Cb_6004; color atom translucent 0.56
+select AB_7_iii_iii_ResN1_C_6002,AB_7_iii_iii_Res1_N_6000
+color bond [255,0,72] translucent 0.56
+wireframe 14
+select AB_7_iii_iii_ResN1_N_6000,AB_7_iii_iii_ResN1_H_6005
+color bond [255,0,72] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iii_ResN1_H_6005
+color atom translucent 0.56
+select AB_7_iii_iii_ResN1_C_6002,AB_7_iii_iii_ResN1_O_6003
+color bond [255,0,72] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iii_Res1_N_6000;  spacefill 32
+select AB_7_iii_iii_Res1_N_6000; color atom translucent 0.56
+select AB_7_iii_Res1_Ca_6001; color atom translucent 0.56
+select AB_7_iii_iii_Res1_N_6000,AB_7_iii_Res1_Ca_6001
+wireframe 14
+bondOrder .5
+color bond [255,0,72] translucent 0.56
+select AB_7_iii_iii_Res1_N_6000,AB_7_iii_iii_Res1_H_6005
+color bond [255,0,72] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iii_Res1_H_6005; color atom translucent 0.56
+select AB_7_iii_iv_ResN2_N_8000;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iv_ResN2_Ca_8001;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iv_ResN2_C_8002;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iv_ResN2_O_8003;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iv_ResN2_N_8000,AB_7_iii_iv_ResN2_Ca_8001
+wireframe 14
+color bond [255,0,106] translucent 0.56
+select AB_7_iii_iv_ResN2_Ca_8001,AB_7_iii_iv_ResN2_C_8002
+wireframe 14
+color bond [255,0,106] translucent 0.56
+select AB_7_iii_iv_ResN2_Ca_8001;  spacefill 32
+select AB_7_iii_iv_ResN2_Cb_8004;  spacefill 32
+select AB_7_iii_iv_ResN2_Ca_8001,AB_7_iii_iv_ResN2_Cb_8004
+color bond [255,0,106] translucent 0.56
+wireframe 14
+select AB_7_iii_iv_ResN2_Cb_8004; color atom translucent 0.56
+select AB_7_iii_iv_ResN2_C_8002,AB_7_iii_iv_ResN1_N_8000
+color bond [255,0,106] translucent 0.56
+wireframe 14
+select AB_7_iii_iv_ResN2_N_8000,AB_7_iii_iv_ResN2_H_8005
+color bond [255,0,106] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iv_ResN2_H_8005
+color atom translucent 0.56
+select AB_7_iii_iv_ResN2_C_8002,AB_7_iii_iv_ResN2_O_8003
+color bond [255,0,106] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iv_ResN1_N_8000;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iv_ResN1_Ca_8001;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iv_ResN1_C_8002;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iv_ResN1_O_8003;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_iv_ResN1_N_8000,AB_7_iii_iv_ResN1_Ca_8001
+wireframe 14
+color bond [255,0,106] translucent 0.56
+select AB_7_iii_iv_ResN1_Ca_8001,AB_7_iii_iv_ResN1_C_8002
+wireframe 14
+color bond [255,0,106] translucent 0.56
+select AB_7_iii_iv_ResN1_Ca_8001;  spacefill 32
+select AB_7_iii_iv_ResN1_Cb_8004;  spacefill 32
+select AB_7_iii_iv_ResN1_Ca_8001,AB_7_iii_iv_ResN1_Cb_8004
+color bond [255,0,106] translucent 0.56
+wireframe 14
+select AB_7_iii_iv_ResN1_Cb_8004; color atom translucent 0.56
+select AB_7_iii_iv_ResN1_C_8002,AB_7_iii_iv_Res1_N_8000
+color bond [255,0,106] translucent 0.56
+wireframe 14
+select AB_7_iii_iv_ResN1_N_8000,AB_7_iii_iv_ResN1_H_8005
+color bond [255,0,106] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iv_ResN1_H_8005
+color atom translucent 0.56
+select AB_7_iii_iv_ResN1_C_8002,AB_7_iii_iv_ResN1_O_8003
+color bond [255,0,106] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iv_Res1_N_8000;  spacefill 32
+select AB_7_iii_iv_Res1_N_8000; color atom translucent 0.56
+select AB_7_iii_Res1_Ca_6001; color atom translucent 0.56
+select AB_7_iii_iv_Res1_N_8000,AB_7_iii_Res1_Ca_6001
+wireframe 14
+bondOrder .5
+color bond [255,0,106] translucent 0.56
+select AB_7_iii_iv_Res1_N_8000,AB_7_iii_iv_Res1_H_8005
+color bond [255,0,106] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iv_Res1_H_8005; color atom translucent 0.56
+select AB_7_iii_v_ResN2_N_10000;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_v_ResN2_Ca_10001;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_v_ResN2_C_10002;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_v_ResN2_O_10003;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_v_ResN2_N_10000,AB_7_iii_v_ResN2_Ca_10001
+wireframe 12
+color bond [255,0,209] translucent 0.56
+select AB_7_iii_v_ResN2_Ca_10001,AB_7_iii_v_ResN2_C_10002
+wireframe 12
+color bond [255,0,209] translucent 0.56
+select AB_7_iii_v_ResN2_Ca_10001;  spacefill 27
+select AB_7_iii_v_ResN2_Cb_10004;  spacefill 27
+select AB_7_iii_v_ResN2_Ca_10001,AB_7_iii_v_ResN2_Cb_10004
+color bond [255,0,209] translucent 0.56
+wireframe 12
+select AB_7_iii_v_ResN2_Cb_10004; color atom translucent 0.56
+select AB_7_iii_v_ResN2_C_10002,AB_7_iii_v_ResN1_N_10000
+color bond [255,0,209] translucent 0.56
+wireframe 12
+select AB_7_iii_v_ResN2_N_10000,AB_7_iii_v_ResN2_H_10005
+color bond [255,0,209] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_iii_v_ResN2_H_10005
+color atom translucent 0.56
+select AB_7_iii_v_ResN2_C_10002,AB_7_iii_v_ResN2_O_10003
+color bond [255,0,209] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_iii_v_ResN1_N_10000;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_v_ResN1_Ca_10001;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_v_ResN1_C_10002;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_v_ResN1_O_10003;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_v_ResN1_N_10000,AB_7_iii_v_ResN1_Ca_10001
+wireframe 12
+color bond [255,0,209] translucent 0.56
+select AB_7_iii_v_ResN1_Ca_10001,AB_7_iii_v_ResN1_C_10002
+wireframe 12
+color bond [255,0,209] translucent 0.56
+select AB_7_iii_v_ResN1_Ca_10001;  spacefill 27
+select AB_7_iii_v_ResN1_Cb_10004;  spacefill 27
+select AB_7_iii_v_ResN1_Ca_10001,AB_7_iii_v_ResN1_Cb_10004
+color bond [255,0,209] translucent 0.56
+wireframe 12
+select AB_7_iii_v_ResN1_Cb_10004; color atom translucent 0.56
+select AB_7_iii_v_ResN1_C_10002,AB_7_iii_v_Res1_N_10000
+color bond [255,0,209] translucent 0.56
+wireframe 12
+select AB_7_iii_v_ResN1_N_10000,AB_7_iii_v_ResN1_H_10005
+color bond [255,0,209] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_iii_v_ResN1_H_10005
+color atom translucent 0.56
+select AB_7_iii_v_ResN1_C_10002,AB_7_iii_v_ResN1_O_10003
+color bond [255,0,209] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_iii_v_Res1_N_10000;  spacefill 27
+select AB_7_iii_v_Res1_N_10000; color atom translucent 0.56
+select AB_7_iii_Res1_Ca_6001; color atom translucent 0.56
+select AB_7_iii_v_Res1_N_10000,AB_7_iii_Res1_Ca_6001
+wireframe 12
+bondOrder .5
+color bond [255,0,209] translucent 0.56
+select AB_7_iii_v_Res1_N_10000,AB_7_iii_v_Res1_H_10005
+color bond [255,0,209] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_iii_v_Res1_H_10005; color atom translucent 0.56
+select AB_7_iv_i_ResN2_N_2000;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResN2_Ca_2001;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResN2_C_2002;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResN2_O_2003;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResN2_N_2000,AB_7_iv_i_ResN2_Ca_2001
+wireframe 11
+color bond [255,0,140] translucent 0.56
+select AB_7_iv_i_ResN2_Ca_2001,AB_7_iv_i_ResN2_C_2002
+wireframe 11
+color bond [255,0,140] translucent 0.56
+select AB_7_iv_i_ResN2_Ca_2001;  spacefill 25
+select AB_7_iv_i_ResN2_Cb_2004;  spacefill 25
+select AB_7_iv_i_ResN2_Ca_2001,AB_7_iv_i_ResN2_Cb_2004
+color bond [255,0,140] translucent 0.56
+wireframe 11
+select AB_7_iv_i_ResN2_Cb_2004; color atom translucent 0.56
+select AB_7_iv_i_ResN2_C_2002,AB_7_iv_i_ResN1_N_2000
+color bond [255,0,140] translucent 0.56
+wireframe 11
+select AB_7_iv_i_ResN2_N_2000,AB_7_iv_i_ResN2_H_2005
+color bond [255,0,140] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iv_i_ResN2_H_2005
+color atom translucent 0.56
+select AB_7_iv_i_ResN2_C_2002,AB_7_iv_i_ResN2_O_2003
+color bond [255,0,140] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iv_i_ResN1_N_2000;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResN1_Ca_2001;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResN1_C_2002;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResN1_O_2003;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResN1_N_2000,AB_7_iv_i_ResN1_Ca_2001
+wireframe 11
+color bond [255,0,140] translucent 0.56
+select AB_7_iv_i_ResN1_Ca_2001,AB_7_iv_i_ResN1_C_2002
+wireframe 11
+color bond [255,0,140] translucent 0.56
+select AB_7_iv_i_ResN1_Ca_2001;  spacefill 25
+select AB_7_iv_i_ResN1_C_2002,AB_7_iv_i_Res1_N_2000
+color bond [255,0,140] translucent 0.56
+wireframe 11
+select AB_7_iv_i_ResN1_N_2000,AB_7_iv_i_ResN1_H_2005
+color bond [255,0,140] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iv_i_ResN1_H_2005
+color atom translucent 0.56
+select AB_7_iv_i_ResN1_C_2002,AB_7_iv_i_ResN1_O_2003
+color bond [255,0,140] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iv_i_Res1_N_2000;  spacefill 25
+select AB_7_iv_i_Res1_N_2000; color atom translucent 0.56
+select AB_7_iv_Res1_Ca_8001; color atom translucent 0.56
+select AB_7_iv_i_Res1_N_2000,AB_7_iv_Res1_Ca_8001
+wireframe 11
+bondOrder .5
+color bond [255,0,140] translucent 0.56
+select AB_7_iv_i_Res1_N_2000,AB_7_iv_i_Res1_H_2005
+color bond [255,0,140] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iv_i_Res1_H_2005; color atom translucent 0.56
+select AB_7_iv_ii_ResN2_N_4000;  spacefill 23
+color atom translucent 0.56
+select AB_7_iv_ii_ResN2_Ca_4001;  spacefill 23
+color atom translucent 0.56
+select AB_7_iv_ii_ResN2_C_4002;  spacefill 23
+color atom translucent 0.56
+select AB_7_iv_ii_ResN2_O_4003;  spacefill 23
+color atom translucent 0.56
+select AB_7_iv_ii_ResN2_N_4000,AB_7_iv_ii_ResN2_Ca_4001
+wireframe 10
+color bond [255,0,221] translucent 0.56
+select AB_7_iv_ii_ResN2_Ca_4001,AB_7_iv_ii_ResN2_C_4002
+wireframe 10
+color bond [255,0,221] translucent 0.56
+select AB_7_iv_ii_ResN2_Ca_4001;  spacefill 23
+select AB_7_iv_ii_ResN2_Cb_4004;  spacefill 23
+select AB_7_iv_ii_ResN2_Ca_4001,AB_7_iv_ii_ResN2_Cb_4004
+color bond [255,0,221] translucent 0.56
+wireframe 10
+select AB_7_iv_ii_ResN2_Cb_4004; color atom translucent 0.56
+select AB_7_iv_ii_ResN2_C_4002,AB_7_iv_ii_ResN1_N_4000
+color bond [255,0,221] translucent 0.56
+wireframe 10
+select AB_7_iv_ii_ResN2_N_4000,AB_7_iv_ii_ResN2_H_4005
+color bond [255,0,221] translucent 0.56
+spacefill 23
+wireframe 10
+select AB_7_iv_ii_ResN2_H_4005
+color atom translucent 0.56
+select AB_7_iv_ii_ResN2_C_4002,AB_7_iv_ii_ResN2_O_4003
+color bond [255,0,221] translucent 0.56
+spacefill 23
+wireframe 10
+select AB_7_iv_ii_ResN1_N_4000;  spacefill 23
+color atom translucent 0.56
+select AB_7_iv_ii_ResN1_Ca_4001;  spacefill 23
+color atom translucent 0.56
+select AB_7_iv_ii_ResN1_C_4002;  spacefill 23
+color atom translucent 0.56
+select AB_7_iv_ii_ResN1_O_4003;  spacefill 23
+color atom translucent 0.56
+select AB_7_iv_ii_ResN1_N_4000,AB_7_iv_ii_ResN1_Ca_4001
+wireframe 10
+color bond [255,0,221] translucent 0.56
+select AB_7_iv_ii_ResN1_Ca_4001,AB_7_iv_ii_ResN1_C_4002
+wireframe 10
+color bond [255,0,221] translucent 0.56
+select AB_7_iv_ii_ResN1_Ca_4001;  spacefill 23
+select AB_7_iv_ii_ResN1_Cb_4004;  spacefill 23
+select AB_7_iv_ii_ResN1_Ca_4001,AB_7_iv_ii_ResN1_Cb_4004
+color bond [255,0,221] translucent 0.56
+wireframe 10
+select AB_7_iv_ii_ResN1_Cb_4004; color atom translucent 0.56
+select AB_7_iv_ii_ResN1_C_4002,AB_7_iv_ii_Res1_N_4000
+color bond [255,0,221] translucent 0.56
+wireframe 10
+select AB_7_iv_ii_ResN1_N_4000,AB_7_iv_ii_ResN1_H_4005
+color bond [255,0,221] translucent 0.56
+spacefill 23
+wireframe 10
+select AB_7_iv_ii_ResN1_H_4005
+color atom translucent 0.56
+select AB_7_iv_ii_ResN1_C_4002,AB_7_iv_ii_ResN1_O_4003
+color bond [255,0,221] translucent 0.56
+spacefill 23
+wireframe 10
+select AB_7_iv_ii_Res1_N_4000;  spacefill 23
+select AB_7_iv_ii_Res1_N_4000; color atom translucent 0.56
+select AB_7_iv_Res1_Ca_8001; color atom translucent 0.56
+select AB_7_iv_ii_Res1_N_4000,AB_7_iv_Res1_Ca_8001
+wireframe 10
+bondOrder .5
+color bond [255,0,221] translucent 0.56
+select AB_7_iv_ii_Res1_N_4000
+spacefill 23
+select AB_7_iv_iii_ResN2_N_6000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResN2_Ca_6001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResN2_C_6002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResN2_O_6003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResN2_N_6000,AB_7_iv_iii_ResN2_Ca_6001
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iii_ResN2_Ca_6001,AB_7_iv_iii_ResN2_C_6002
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iii_ResN2_Ca_6001;  spacefill 20
+select AB_7_iv_iii_ResN2_Cb_6004;  spacefill 20
+select AB_7_iv_iii_ResN2_Ca_6001,AB_7_iv_iii_ResN2_Cb_6004
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iii_ResN2_Cb_6004; color atom translucent 0.56
+select AB_7_iv_iii_ResN2_C_6002,AB_7_iv_iii_ResN1_N_6000
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iii_ResN2_N_6000,AB_7_iv_iii_ResN2_H_6005
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iii_ResN2_H_6005
+color atom translucent 0.56
+select AB_7_iv_iii_ResN2_C_6002,AB_7_iv_iii_ResN2_O_6003
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iii_ResN1_N_6000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResN1_Ca_6001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResN1_C_6002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResN1_O_6003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResN1_N_6000,AB_7_iv_iii_ResN1_Ca_6001
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iii_ResN1_Ca_6001,AB_7_iv_iii_ResN1_C_6002
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iii_ResN1_Ca_6001;  spacefill 20
+select AB_7_iv_iii_ResN1_C_6002,AB_7_iv_iii_Res1_N_6000
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iii_ResN1_N_6000,AB_7_iv_iii_ResN1_H_6005
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iii_ResN1_H_6005
+color atom translucent 0.56
+select AB_7_iv_iii_ResN1_C_6002,AB_7_iv_iii_ResN1_O_6003
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iii_Res1_N_6000;  spacefill 20
+select AB_7_iv_iii_Res1_N_6000; color atom translucent 0.56
+select AB_7_iv_Res1_Ca_8001; color atom translucent 0.56
+select AB_7_iv_iii_Res1_N_6000,AB_7_iv_Res1_Ca_8001
+wireframe 9
+bondOrder .5
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iii_Res1_N_6000,AB_7_iv_iii_Res1_H_6005
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iii_Res1_H_6005; color atom translucent 0.56
+select AB_7_iv_iv_ResN2_N_8000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResN2_Ca_8001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResN2_C_8002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResN2_O_8003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResN2_N_8000,AB_7_iv_iv_ResN2_Ca_8001
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iv_ResN2_Ca_8001,AB_7_iv_iv_ResN2_C_8002
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iv_ResN2_Ca_8001;  spacefill 20
+select AB_7_iv_iv_ResN2_Cb_8004;  spacefill 20
+select AB_7_iv_iv_ResN2_Ca_8001,AB_7_iv_iv_ResN2_Cb_8004
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iv_ResN2_Cb_8004; color atom translucent 0.56
+select AB_7_iv_iv_ResN2_C_8002,AB_7_iv_iv_ResN1_N_8000
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iv_ResN2_N_8000,AB_7_iv_iv_ResN2_H_8005
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iv_ResN2_H_8005
+color atom translucent 0.56
+select AB_7_iv_iv_ResN2_C_8002,AB_7_iv_iv_ResN2_O_8003
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iv_ResN1_N_8000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResN1_Ca_8001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResN1_C_8002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResN1_O_8003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResN1_N_8000,AB_7_iv_iv_ResN1_Ca_8001
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iv_ResN1_Ca_8001,AB_7_iv_iv_ResN1_C_8002
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iv_ResN1_Ca_8001;  spacefill 20
+select AB_7_iv_iv_ResN1_Cb_8004;  spacefill 20
+select AB_7_iv_iv_ResN1_Ca_8001,AB_7_iv_iv_ResN1_Cb_8004
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iv_ResN1_Cb_8004; color atom translucent 0.56
+select AB_7_iv_iv_ResN1_C_8002,AB_7_iv_iv_Res1_N_8000
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iv_ResN1_N_8000,AB_7_iv_iv_ResN1_H_8005
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iv_ResN1_H_8005
+color atom translucent 0.56
+select AB_7_iv_iv_ResN1_C_8002,AB_7_iv_iv_ResN1_O_8003
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iv_Res1_N_8000;  spacefill 20
+select AB_7_iv_iv_Res1_N_8000; color atom translucent 0.56
+select AB_7_iv_Res1_Ca_8001; color atom translucent 0.56
+select AB_7_iv_iv_Res1_N_8000,AB_7_iv_Res1_Ca_8001
+wireframe 9
+bondOrder .5
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iv_Res1_N_8000,AB_7_iv_iv_Res1_H_8005
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iv_Res1_H_8005; color atom translucent 0.56
+select AB_7_iv_v_ResN2_N_10000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResN2_Ca_10001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResN2_C_10002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResN2_O_10003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResN2_N_10000,AB_7_iv_v_ResN2_Ca_10001
+wireframe 9
+color bond [157,0,255] translucent 0.56
+select AB_7_iv_v_ResN2_Ca_10001,AB_7_iv_v_ResN2_C_10002
+wireframe 9
+color bond [157,0,255] translucent 0.56
+select AB_7_iv_v_ResN2_Ca_10001;  spacefill 20
+select AB_7_iv_v_ResN2_Cb_10004;  spacefill 20
+select AB_7_iv_v_ResN2_Ca_10001,AB_7_iv_v_ResN2_Cb_10004
+color bond [157,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_v_ResN2_Cb_10004; color atom translucent 0.56
+select AB_7_iv_v_ResN2_C_10002,AB_7_iv_v_ResN1_N_10000
+color bond [157,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_v_ResN2_N_10000,AB_7_iv_v_ResN2_H_10005
+color bond [157,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_v_ResN2_H_10005
+color atom translucent 0.56
+select AB_7_iv_v_ResN2_C_10002,AB_7_iv_v_ResN2_O_10003
+color bond [157,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_v_ResN1_N_10000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResN1_Ca_10001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResN1_C_10002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResN1_O_10003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResN1_N_10000,AB_7_iv_v_ResN1_Ca_10001
+wireframe 9
+color bond [157,0,255] translucent 0.56
+select AB_7_iv_v_ResN1_Ca_10001,AB_7_iv_v_ResN1_C_10002
+wireframe 9
+color bond [157,0,255] translucent 0.56
+select AB_7_iv_v_ResN1_Ca_10001;  spacefill 20
+select AB_7_iv_v_ResN1_C_10002,AB_7_iv_v_Res1_N_10000
+color bond [157,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_v_ResN1_N_10000,AB_7_iv_v_ResN1_H_10005
+color bond [157,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_v_ResN1_H_10005
+color atom translucent 0.56
+select AB_7_iv_v_ResN1_C_10002,AB_7_iv_v_ResN1_O_10003
+color bond [157,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_v_Res1_N_10000;  spacefill 20
+select AB_7_iv_v_Res1_N_10000; color atom translucent 0.56
+select AB_7_iv_Res1_Ca_8001; color atom translucent 0.56
+select AB_7_iv_v_Res1_N_10000,AB_7_iv_Res1_Ca_8001
+wireframe 9
+bondOrder .5
+color bond [157,0,255] translucent 0.56
+select AB_7_iv_v_Res1_N_10000,AB_7_iv_v_Res1_H_10005
+color bond [157,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_v_Res1_H_10005; color atom translucent 0.56
+select AB_7_i_Res1_Ca_2001;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res1_C_2002;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res1_O_2003;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res1_Ca_2001,AB_7_i_Res1_C_2002
+wireframe 22
+color bond [255,255,0] translucent 0.0
+select AB_7_i_Res1_Ca_2001;  spacefill 50
+select AB_7_i_Res1_Cb_2004;  spacefill 50
+select AB_7_i_Res1_Ca_2001,AB_7_i_Res1_Cb_2004
+color bond [255,255,0] translucent 0.0
+wireframe 22
+select AB_7_i_Res1_C_2002,AB_7_i_Res2_N_2000
+color bond [255,255,0] translucent 0.0
+wireframe 22
+select AB_7_i_Res1_C_2002,AB_7_i_Res1_O_2003
+color bond [255,255,0] translucent 0.0
+spacefill 50
+wireframe 22
+select AB_7_i_Res2_N_2000;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res2_Ca_2001;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res2_C_2002;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res2_O_2003;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res2_N_2000,AB_7_i_Res2_Ca_2001
+wireframe 22
+color bond [255,255,0] translucent 0.0
+select AB_7_i_Res2_Ca_2001,AB_7_i_Res2_C_2002
+wireframe 22
+color bond [255,255,0] translucent 0.0
+select AB_7_i_Res2_Ca_2001;  spacefill 50
+select AB_7_i_Res2_Cb_2004;  spacefill 50
+select AB_7_i_Res2_Ca_2001,AB_7_i_Res2_Cb_2004
+color bond [255,255,0] translucent 0.0
+wireframe 22
+select AB_7_i_Res2_Cb_2004; color atom translucent 0.0
+select AB_7_i_Res2_C_2002,AB_7_i_Res3_N_2000
+color bond [255,255,0] translucent 0.0
+wireframe 22
+select AB_7_i_Res2_N_2000,AB_7_i_Res2_H_2005
+color bond [255,255,0] translucent 0.0
+spacefill 50
+wireframe 22
+select AB_7_i_Res2_H_2005
+color atom translucent 0.0
+select AB_7_i_Res2_C_2002,AB_7_i_Res2_O_2003
+color bond [255,255,0] translucent 0.0
+spacefill 50
+wireframe 22
+select AB_7_i_Res3_N_2000;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res3_Ca_2001;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res3_C_2002;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res3_O_2003;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res3_N_2000,AB_7_i_Res3_Ca_2001
+wireframe 22
+color bond [255,255,0] translucent 0.0
+select AB_7_i_Res3_Ca_2001,AB_7_i_Res3_C_2002
+wireframe 22
+color bond [255,255,0] translucent 0.0
+select AB_7_i_Res3_Ca_2001;  spacefill 50
+select AB_7_i_Res3_Cb_2004;  spacefill 50
+select AB_7_i_Res3_Ca_2001,AB_7_i_Res3_Cb_2004
+color bond [255,255,0] translucent 0.0
+wireframe 22
+select AB_7_i_Res3_Cb_2004; color atom translucent 0.0
+select AB_7_i_Res3_C_2002,AB_7_i_Res4_N_2000
+color bond [255,255,0] translucent 0.0
+wireframe 22
+select AB_7_i_Res3_N_2000,AB_7_i_Res3_H_2005
+color bond [255,255,0] translucent 0.0
+spacefill 50
+wireframe 22
+select AB_7_i_Res3_H_2005
+color atom translucent 0.0
+select AB_7_i_Res3_C_2002,AB_7_i_Res3_O_2003
+color bond [255,255,0] translucent 0.0
+spacefill 50
+wireframe 22
+select AB_7_i_Res4_N_2000;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res4_Ca_2001;  spacefill 50
+color atom translucent 0.0
+select AB_7_i_Res4_N_2000,AB_7_i_Res4_Ca_2001
+wireframe 22
+color bond [255,255,0] translucent 0.0
+select AB_7_i_Res4_N_2000,AB_7_i_Res4_H_2005
+color bond [255,255,0] translucent 0.0
+spacefill 50
+wireframe 22
+color atom translucent 0.0
+select AB_7_i_Res4_Ca_2001,AB_7_i_Res4_Cb_140
+color bond [255,255,0] translucent 0.0
+wireframe 22
+select AB_7_i_Res4_Cb_140;  spacefill 50
+select AB_7_i_Res4_O_100;  spacefill 50
+select AB_7_i_Res4_C_101;  spacefill 50
+select AB_7_i_Res4_H_102;  spacefill 50
+select AB_7_i_Res4_Cb_140,AB_7_i_Res4_O_100
+color atom translucent 0.0
+color bond [255,255,0] translucent 0.0
+wireframe 22
+select AB_7_i_Res4_Cb_140,AB_7_i_Res4_C_101
+color atom translucent 0.0
+color bond [255,255,0] translucent 0.0
+wireframe 22
+select AB_7_i_Res4_O_100,AB_7_i_Res4_H_102
+color atom translucent 0.0
+color bond [255,255,0] translucent 0.0
+wireframe 22
+select AB_7_i_Res1_Ca_2001, AB_7_i_Res4_Ca_2001;connect (selected); wireframe .01; color bond [255,255,255] translucent 0.0
+select AB_7_ii_Res1_Ca_4001;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res1_C_4002;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res1_O_4003;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res1_Ca_4001,AB_7_ii_Res1_C_4002
+wireframe 21
+color bond [255,196,0] translucent 0.0
+select AB_7_ii_Res1_Ca_4001;  spacefill 48
+select AB_7_ii_Res1_Cb_4004;  spacefill 48
+select AB_7_ii_Res1_Ca_4001,AB_7_ii_Res1_Cb_4004
+color bond [255,196,0] translucent 0.0
+wireframe 21
+select AB_7_ii_Res1_C_4002,AB_7_ii_Res2_N_4000
+color bond [255,196,0] translucent 0.0
+wireframe 21
+select AB_7_ii_Res1_C_4002,AB_7_ii_Res1_O_4003
+color bond [255,196,0] translucent 0.0
+spacefill 48
+wireframe 21
+select AB_7_ii_Res2_N_4000;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res2_Ca_4001;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res2_C_4002;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res2_O_4003;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res2_N_4000,AB_7_ii_Res2_Ca_4001
+wireframe 21
+color bond [255,196,0] translucent 0.0
+select AB_7_ii_Res2_Ca_4001,AB_7_ii_Res2_C_4002
+wireframe 21
+color bond [255,196,0] translucent 0.0
+select AB_7_ii_Res2_Ca_4001;  spacefill 48
+select AB_7_ii_Res2_Cb_4004;  spacefill 48
+select AB_7_ii_Res2_Ca_4001,AB_7_ii_Res2_Cb_4004
+color bond [255,196,0] translucent 0.0
+wireframe 21
+select AB_7_ii_Res2_Cb_4004; color atom translucent 0.0
+select AB_7_ii_Res2_C_4002,AB_7_ii_Res3_N_4000
+color bond [255,196,0] translucent 0.0
+wireframe 21
+select AB_7_ii_Res2_N_4000,AB_7_ii_Res2_H_4005
+color bond [255,196,0] translucent 0.0
+spacefill 48
+wireframe 21
+select AB_7_ii_Res2_H_4005
+color atom translucent 0.0
+select AB_7_ii_Res2_C_4002,AB_7_ii_Res2_O_4003
+color bond [255,196,0] translucent 0.0
+spacefill 48
+wireframe 21
+select AB_7_ii_Res3_N_4000;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res3_Ca_4001;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res3_C_4002;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res3_O_4003;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res3_N_4000,AB_7_ii_Res3_Ca_4001
+wireframe 21
+color bond [255,196,0] translucent 0.0
+select AB_7_ii_Res3_Ca_4001,AB_7_ii_Res3_C_4002
+wireframe 21
+color bond [255,196,0] translucent 0.0
+select AB_7_ii_Res3_Ca_4001;  spacefill 48
+select AB_7_ii_Res3_Cb_4004;  spacefill 48
+select AB_7_ii_Res3_Ca_4001,AB_7_ii_Res3_Cb_4004
+color bond [255,196,0] translucent 0.0
+wireframe 21
+select AB_7_ii_Res3_Cb_4004; color atom translucent 0.0
+select AB_7_ii_Res3_C_4002,AB_7_ii_Res4_N_4000
+color bond [255,196,0] translucent 0.0
+wireframe 21
+select AB_7_ii_Res3_N_4000,AB_7_ii_Res3_H_4005
+color bond [255,196,0] translucent 0.0
+spacefill 48
+wireframe 21
+select AB_7_ii_Res3_H_4005
+color atom translucent 0.0
+select AB_7_ii_Res3_C_4002,AB_7_ii_Res3_O_4003
+color bond [255,196,0] translucent 0.0
+spacefill 48
+wireframe 21
+select AB_7_ii_Res4_N_4000;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res4_Ca_4001;  spacefill 48
+color atom translucent 0.0
+select AB_7_ii_Res4_N_4000,AB_7_ii_Res4_Ca_4001
+wireframe 21
+color bond [255,196,0] translucent 0.0
+select AB_7_ii_Res4_N_4000,AB_7_ii_Res4_H_4005
+color bond [255,196,0] translucent 0.0
+spacefill 48
+wireframe 21
+color atom translucent 0.0
+select AB_7_ii_Res4_Ca_4001,AB_7_ii_Res4_Cb_240
+color bond [255,196,0] translucent 0.0
+wireframe 21
+select AB_7_ii_Res4_Cb_240;  spacefill 48
+select AB_7_ii_Res4_O_200;  spacefill 48
+select AB_7_ii_Res4_C_201;  spacefill 48
+select AB_7_ii_Res4_H_202;  spacefill 48
+select AB_7_ii_Res4_Cb_240,AB_7_ii_Res4_O_200
+color atom translucent 0.0
+color bond [255,196,0] translucent 0.0
+wireframe 21
+select AB_7_ii_Res4_Cb_240,AB_7_ii_Res4_C_201
+color atom translucent 0.0
+color bond [255,196,0] translucent 0.0
+wireframe 21
+select AB_7_ii_Res4_O_200,AB_7_ii_Res4_H_202
+color atom translucent 0.0
+color bond [255,196,0] translucent 0.0
+wireframe 21
+select AB_7_ii_Res1_Ca_4001, AB_7_ii_Res4_Ca_4001;connect (selected); wireframe .01; color bond [255,255,255] translucent 0.0
+select AB_7_iii_Res1_Ca_6001;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res1_C_6002;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res1_O_6003;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res1_Ca_6001,AB_7_iii_Res1_C_6002
+wireframe 15
+color bond [255,0,0] translucent 0.0
+select AB_7_iii_Res1_Ca_6001;  spacefill 34
+select AB_7_iii_Res1_C_6002,AB_7_iii_Res2_N_6000
+color bond [255,0,0] translucent 0.0
+wireframe 15
+select AB_7_iii_Res1_C_6002,AB_7_iii_Res1_O_6003
+color bond [255,0,0] translucent 0.0
+spacefill 34
+wireframe 15
+select AB_7_iii_Res2_N_6000;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res2_Ca_6001;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res2_C_6002;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res2_O_6003;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res2_N_6000,AB_7_iii_Res2_Ca_6001
+wireframe 15
+color bond [255,0,0] translucent 0.0
+select AB_7_iii_Res2_Ca_6001,AB_7_iii_Res2_C_6002
+wireframe 15
+color bond [255,0,0] translucent 0.0
+select AB_7_iii_Res2_Ca_6001;  spacefill 34
+select AB_7_iii_Res2_Cb_6004;  spacefill 34
+select AB_7_iii_Res2_Ca_6001,AB_7_iii_Res2_Cb_6004
+color bond [255,0,0] translucent 0.0
+wireframe 15
+select AB_7_iii_Res2_Cb_6004; color atom translucent 0.0
+select AB_7_iii_Res2_C_6002,AB_7_iii_Res3_N_6000
+color bond [255,0,0] translucent 0.0
+wireframe 15
+select AB_7_iii_Res2_N_6000,AB_7_iii_Res2_H_6005
+color bond [255,0,0] translucent 0.0
+spacefill 34
+wireframe 15
+select AB_7_iii_Res2_H_6005
+color atom translucent 0.0
+select AB_7_iii_Res2_C_6002,AB_7_iii_Res2_O_6003
+color bond [255,0,0] translucent 0.0
+spacefill 34
+wireframe 15
+select AB_7_iii_Res3_N_6000;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res3_Ca_6001;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res3_C_6002;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res3_O_6003;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res3_N_6000,AB_7_iii_Res3_Ca_6001
+wireframe 15
+color bond [255,0,0] translucent 0.0
+select AB_7_iii_Res3_Ca_6001,AB_7_iii_Res3_C_6002
+wireframe 15
+color bond [255,0,0] translucent 0.0
+select AB_7_iii_Res3_Ca_6001;  spacefill 34
+select AB_7_iii_Res3_Cb_6004;  spacefill 34
+select AB_7_iii_Res3_Ca_6001,AB_7_iii_Res3_Cb_6004
+color bond [255,0,0] translucent 0.0
+wireframe 15
+select AB_7_iii_Res3_Cb_6004; color atom translucent 0.0
+select AB_7_iii_Res3_C_6002,AB_7_iii_Res4_N_6000
+color bond [255,0,0] translucent 0.0
+wireframe 15
+select AB_7_iii_Res3_N_6000,AB_7_iii_Res3_H_6005
+color bond [255,0,0] translucent 0.0
+spacefill 34
+wireframe 15
+select AB_7_iii_Res3_H_6005
+color atom translucent 0.0
+select AB_7_iii_Res3_C_6002,AB_7_iii_Res3_O_6003
+color bond [255,0,0] translucent 0.0
+spacefill 34
+wireframe 15
+select AB_7_iii_Res4_N_6000;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res4_Ca_6001;  spacefill 34
+color atom translucent 0.0
+select AB_7_iii_Res4_N_6000,AB_7_iii_Res4_Ca_6001
+wireframe 15
+color bond [255,0,0] translucent 0.0
+select AB_7_iii_Res4_N_6000,AB_7_iii_Res4_H_6005
+color bond [255,0,0] translucent 0.0
+spacefill 34
+wireframe 15
+color atom translucent 0.0
+select AB_7_iii_Res4_Ca_6001,AB_7_iii_Res4_Cb_340
+color bond [255,0,0] translucent 0.0
+wireframe 15
+select AB_7_iii_Res4_Cb_340;  spacefill 34
+select AB_7_iii_Res4_O_300;  spacefill 34
+select AB_7_iii_Res4_C_301;  spacefill 34
+select AB_7_iii_Res4_H_302;  spacefill 34
+select AB_7_iii_Res4_Cb_340,AB_7_iii_Res4_O_300
+color atom translucent 0.0
+color bond [255,0,0] translucent 0.0
+wireframe 15
+select AB_7_iii_Res4_Cb_340,AB_7_iii_Res4_C_301
+color atom translucent 0.0
+color bond [255,0,0] translucent 0.0
+wireframe 15
+select AB_7_iii_Res4_O_300,AB_7_iii_Res4_H_302
+color atom translucent 0.0
+color bond [255,0,0] translucent 0.0
+wireframe 15
+select AB_7_iii_Res1_Ca_6001, AB_7_iii_Res4_Ca_6001;connect (selected); wireframe .01; color bond [255,255,255] translucent 0.0
+select AB_7_iv_Res1_Ca_8001;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res1_C_8002;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res1_O_8003;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res1_Ca_8001,AB_7_iv_Res1_C_8002
+wireframe 11
+color bond [255,0,140] translucent 0.0
+select AB_7_iv_Res1_Ca_8001;  spacefill 25
+select AB_7_iv_Res1_Cb_8004;  spacefill 25
+select AB_7_iv_Res1_Ca_8001,AB_7_iv_Res1_Cb_8004
+color bond [255,0,140] translucent 0.0
+wireframe 11
+select AB_7_iv_Res1_C_8002,AB_7_iv_Res2_N_8000
+color bond [255,0,140] translucent 0.0
+wireframe 11
+select AB_7_iv_Res1_C_8002,AB_7_iv_Res1_O_8003
+color bond [255,0,140] translucent 0.0
+spacefill 25
+wireframe 11
+select AB_7_iv_Res2_N_8000;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res2_Ca_8001;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res2_C_8002;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res2_O_8003;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res2_N_8000,AB_7_iv_Res2_Ca_8001
+wireframe 11
+color bond [255,0,140] translucent 0.0
+select AB_7_iv_Res2_Ca_8001,AB_7_iv_Res2_C_8002
+wireframe 11
+color bond [255,0,140] translucent 0.0
+select AB_7_iv_Res2_Ca_8001;  spacefill 25
+select AB_7_iv_Res2_Cb_8004;  spacefill 25
+select AB_7_iv_Res2_Ca_8001,AB_7_iv_Res2_Cb_8004
+color bond [255,0,140] translucent 0.0
+wireframe 11
+select AB_7_iv_Res2_Cb_8004; color atom translucent 0.0
+select AB_7_iv_Res2_C_8002,AB_7_iv_Res3_N_8000
+color bond [255,0,140] translucent 0.0
+wireframe 11
+select AB_7_iv_Res2_N_8000,AB_7_iv_Res2_H_8005
+color bond [255,0,140] translucent 0.0
+spacefill 25
+wireframe 11
+select AB_7_iv_Res2_H_8005
+color atom translucent 0.0
+select AB_7_iv_Res2_C_8002,AB_7_iv_Res2_O_8003
+color bond [255,0,140] translucent 0.0
+spacefill 25
+wireframe 11
+select AB_7_iv_Res3_N_8000;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res3_Ca_8001;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res3_C_8002;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res3_O_8003;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res3_N_8000,AB_7_iv_Res3_Ca_8001
+wireframe 11
+color bond [255,0,140] translucent 0.0
+select AB_7_iv_Res3_Ca_8001,AB_7_iv_Res3_C_8002
+wireframe 11
+color bond [255,0,140] translucent 0.0
+select AB_7_iv_Res3_Ca_8001;  spacefill 25
+select AB_7_iv_Res3_Cb_8004;  spacefill 25
+select AB_7_iv_Res3_Ca_8001,AB_7_iv_Res3_Cb_8004
+color bond [255,0,140] translucent 0.0
+wireframe 11
+select AB_7_iv_Res3_Cb_8004; color atom translucent 0.0
+select AB_7_iv_Res3_C_8002,AB_7_iv_Res4_N_8000
+color bond [255,0,140] translucent 0.0
+wireframe 11
+select AB_7_iv_Res3_N_8000,AB_7_iv_Res3_H_8005
+color bond [255,0,140] translucent 0.0
+spacefill 25
+wireframe 11
+select AB_7_iv_Res3_H_8005
+color atom translucent 0.0
+select AB_7_iv_Res3_C_8002,AB_7_iv_Res3_O_8003
+color bond [255,0,140] translucent 0.0
+spacefill 25
+wireframe 11
+select AB_7_iv_Res4_N_8000;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res4_Ca_8001;  spacefill 25
+color atom translucent 0.0
+select AB_7_iv_Res4_N_8000,AB_7_iv_Res4_Ca_8001
+wireframe 11
+color bond [255,0,140] translucent 0.0
+select AB_7_iv_Res4_N_8000,AB_7_iv_Res4_H_8005
+color bond [255,0,140] translucent 0.0
+spacefill 25
+wireframe 11
+color atom translucent 0.0
+select AB_7_iv_Res4_Ca_8001,AB_7_iv_Res4_Cb_440
+color bond [255,0,140] translucent 0.0
+wireframe 11
+select AB_7_iv_Res4_Cb_440;  spacefill 25
+select AB_7_iv_Res4_O_400;  spacefill 25
+select AB_7_iv_Res4_C_401;  spacefill 25
+select AB_7_iv_Res4_H_402;  spacefill 25
+select AB_7_iv_Res4_Cb_440,AB_7_iv_Res4_O_400
+color atom translucent 0.0
+color bond [255,0,140] translucent 0.0
+wireframe 11
+select AB_7_iv_Res4_Cb_440,AB_7_iv_Res4_C_401
+color atom translucent 0.0
+color bond [255,0,140] translucent 0.0
+wireframe 11
+select AB_7_iv_Res4_O_400,AB_7_iv_Res4_H_402
+color atom translucent 0.0
+color bond [255,0,140] translucent 0.0
+wireframe 11
+select AB_7_iv_Res1_Ca_8001, AB_7_iv_Res4_Ca_8001;connect (selected); wireframe .01; color bond [255,255,255] translucent 0.0
+select AB_7_i_i_Res4_C_2002;  spacefill 50; color atom translucent 0.56
+select AB_7_i_i_Res4_O_2003;  spacefill 50; color atom translucent 0.56
+select AB_7_i_Res4_Ca_2001,AB_7_i_i_Res4_C_2002
+wireframe 22
+bondOrder .5
+color bond [255,255,0] translucent 0.56
+select AB_7_i_i_Res4_C_2002,AB_7_i_i_ResC1_N_2000
+color bond [255,255,0] translucent 0.56
+wireframe 22
+select AB_7_i_i_Res4_C_2002,AB_7_i_i_Res4_O_2003
+color bond [255,255,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_i_ResC1_N_2000;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResC1_Ca_2001;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResC1_C_2002;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResC1_O_2003;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResC1_N_2000,AB_7_i_i_ResC1_Ca_2001
+wireframe 22
+color bond [255,255,0] translucent 0.56
+select AB_7_i_i_ResC1_Ca_2001,AB_7_i_i_ResC1_C_2002
+wireframe 22
+color bond [255,255,0] translucent 0.56
+select AB_7_i_i_ResC1_Ca_2001;  spacefill 50
+select AB_7_i_i_ResC1_Cb_2004;  spacefill 50
+select AB_7_i_i_ResC1_Ca_2001,AB_7_i_i_ResC1_Cb_2004
+color bond [255,255,0] translucent 0.56
+wireframe 22
+select AB_7_i_i_ResC1_Cb_2004; color atom translucent 0.56
+select AB_7_i_i_ResC1_C_2002,AB_7_i_i_ResC2_N_2000
+color bond [255,255,0] translucent 0.56
+wireframe 22
+select AB_7_i_i_ResC1_N_2000,AB_7_i_i_ResC1_H_2005
+color bond [255,255,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_i_ResC1_H_2005
+color atom translucent 0.56
+select AB_7_i_i_ResC1_C_2002,AB_7_i_i_ResC1_O_2003
+color bond [255,255,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_i_ResC2_N_2000;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResC2_Ca_2001;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResC2_C_2002;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResC2_O_2003;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_i_ResC2_N_2000,AB_7_i_i_ResC2_Ca_2001
+wireframe 22
+color bond [255,255,0] translucent 0.56
+select AB_7_i_i_ResC2_Ca_2001,AB_7_i_i_ResC2_C_2002
+wireframe 22
+color bond [255,255,0] translucent 0.56
+select AB_7_i_i_ResC2_Ca_2001;  spacefill 50
+select AB_7_i_i_ResC2_Cb_2004;  spacefill 50
+select AB_7_i_i_ResC2_Ca_2001,AB_7_i_i_ResC2_Cb_2004
+color bond [255,255,0] translucent 0.56
+wireframe 22
+select AB_7_i_i_ResC2_Cb_2004; color atom translucent 0.56
+select AB_7_i_i_ResC2_N_2000,AB_7_i_i_ResC2_H_2005
+color bond [255,255,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_i_ResC2_H_2005
+color atom translucent 0.56
+select AB_7_i_i_ResC2_C_2002,AB_7_i_i_ResC2_O_2003
+color bond [255,255,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_ii_Res4_C_4002;  spacefill 50; color atom translucent 0.56
+select AB_7_i_ii_Res4_O_4003;  spacefill 50; color atom translucent 0.56
+select AB_7_i_Res4_Ca_2001,AB_7_i_ii_Res4_C_4002
+wireframe 22
+bondOrder .5
+color bond [255,196,0] translucent 0.56
+select AB_7_i_ii_Res4_C_4002,AB_7_i_ii_ResC1_N_4000
+color bond [255,196,0] translucent 0.56
+wireframe 22
+select AB_7_i_ii_Res4_C_4002,AB_7_i_ii_Res4_O_4003
+color bond [255,196,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_ii_ResC1_N_4000;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_ii_ResC1_Ca_4001;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_ii_ResC1_C_4002;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_ii_ResC1_O_4003;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_ii_ResC1_N_4000,AB_7_i_ii_ResC1_Ca_4001
+wireframe 22
+color bond [255,196,0] translucent 0.56
+select AB_7_i_ii_ResC1_Ca_4001,AB_7_i_ii_ResC1_C_4002
+wireframe 22
+color bond [255,196,0] translucent 0.56
+select AB_7_i_ii_ResC1_Ca_4001;  spacefill 50
+select AB_7_i_ii_ResC1_Cb_4004;  spacefill 50
+select AB_7_i_ii_ResC1_Ca_4001,AB_7_i_ii_ResC1_Cb_4004
+color bond [255,196,0] translucent 0.56
+wireframe 22
+select AB_7_i_ii_ResC1_Cb_4004; color atom translucent 0.56
+select AB_7_i_ii_ResC1_C_4002,AB_7_i_ii_ResC2_N_4000
+color bond [255,196,0] translucent 0.56
+wireframe 22
+select AB_7_i_ii_ResC1_N_4000,AB_7_i_ii_ResC1_H_4005
+color bond [255,196,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_ii_ResC1_H_4005
+color atom translucent 0.56
+select AB_7_i_ii_ResC1_C_4002,AB_7_i_ii_ResC1_O_4003
+color bond [255,196,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_ii_ResC2_N_4000;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_ii_ResC2_Ca_4001;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_ii_ResC2_C_4002;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_ii_ResC2_O_4003;  spacefill 50
+color atom translucent 0.56
+select AB_7_i_ii_ResC2_N_4000,AB_7_i_ii_ResC2_Ca_4001
+wireframe 22
+color bond [255,196,0] translucent 0.56
+select AB_7_i_ii_ResC2_Ca_4001,AB_7_i_ii_ResC2_C_4002
+wireframe 22
+color bond [255,196,0] translucent 0.56
+select AB_7_i_ii_ResC2_Ca_4001;  spacefill 50
+select AB_7_i_ii_ResC2_Cb_4004;  spacefill 50
+select AB_7_i_ii_ResC2_Ca_4001,AB_7_i_ii_ResC2_Cb_4004
+color bond [255,196,0] translucent 0.56
+wireframe 22
+select AB_7_i_ii_ResC2_Cb_4004; color atom translucent 0.56
+select AB_7_i_ii_ResC2_N_4000,AB_7_i_ii_ResC2_H_4005
+color bond [255,196,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_ii_ResC2_H_4005
+color atom translucent 0.56
+select AB_7_i_ii_ResC2_C_4002,AB_7_i_ii_ResC2_O_4003
+color bond [255,196,0] translucent 0.56
+spacefill 50
+wireframe 22
+select AB_7_i_iii_Res4_C_6002;  spacefill 41; color atom translucent 0.56
+select AB_7_i_iii_Res4_O_6003;  spacefill 41; color atom translucent 0.56
+select AB_7_i_Res4_Ca_2001,AB_7_i_iii_Res4_C_6002
+wireframe 18
+bondOrder .5
+color bond [255,0,29] translucent 0.56
+select AB_7_i_iii_Res4_C_6002,AB_7_i_iii_ResC1_N_6000
+color bond [255,0,29] translucent 0.56
+wireframe 18
+select AB_7_i_iii_Res4_C_6002,AB_7_i_iii_Res4_O_6003
+color bond [255,0,29] translucent 0.56
+spacefill 41
+wireframe 18
+select AB_7_i_iii_ResC1_N_6000;  spacefill 41
+color atom translucent 0.56
+select AB_7_i_iii_ResC1_Ca_6001;  spacefill 41
+color atom translucent 0.56
+select AB_7_i_iii_ResC1_C_6002;  spacefill 41
+color atom translucent 0.56
+select AB_7_i_iii_ResC1_O_6003;  spacefill 41
+color atom translucent 0.56
+select AB_7_i_iii_ResC1_N_6000,AB_7_i_iii_ResC1_Ca_6001
+wireframe 18
+color bond [255,0,29] translucent 0.56
+select AB_7_i_iii_ResC1_Ca_6001,AB_7_i_iii_ResC1_C_6002
+wireframe 18
+color bond [255,0,29] translucent 0.56
+select AB_7_i_iii_ResC1_Ca_6001;  spacefill 41
+select AB_7_i_iii_ResC1_Cb_6004;  spacefill 41
+select AB_7_i_iii_ResC1_Ca_6001,AB_7_i_iii_ResC1_Cb_6004
+color bond [255,0,29] translucent 0.56
+wireframe 18
+select AB_7_i_iii_ResC1_Cb_6004; color atom translucent 0.56
+select AB_7_i_iii_ResC1_C_6002,AB_7_i_iii_ResC2_N_6000
+color bond [255,0,29] translucent 0.56
+wireframe 18
+select AB_7_i_iii_ResC1_N_6000,AB_7_i_iii_ResC1_H_6005
+color bond [255,0,29] translucent 0.56
+spacefill 41
+wireframe 18
+select AB_7_i_iii_ResC1_H_6005
+color atom translucent 0.56
+select AB_7_i_iii_ResC1_C_6002,AB_7_i_iii_ResC1_O_6003
+color bond [255,0,29] translucent 0.56
+spacefill 41
+wireframe 18
+select AB_7_i_iii_ResC2_N_6000;  spacefill 41
+color atom translucent 0.56
+select AB_7_i_iii_ResC2_Ca_6001;  spacefill 41
+color atom translucent 0.56
+select AB_7_i_iii_ResC2_C_6002;  spacefill 41
+color atom translucent 0.56
+select AB_7_i_iii_ResC2_O_6003;  spacefill 41
+color atom translucent 0.56
+select AB_7_i_iii_ResC2_N_6000,AB_7_i_iii_ResC2_Ca_6001
+wireframe 18
+color bond [255,0,29] translucent 0.56
+select AB_7_i_iii_ResC2_Ca_6001,AB_7_i_iii_ResC2_C_6002
+wireframe 18
+color bond [255,0,29] translucent 0.56
+select AB_7_i_iii_ResC2_Ca_6001;  spacefill 41
+select AB_7_i_iii_ResC2_Cb_6004;  spacefill 41
+select AB_7_i_iii_ResC2_Ca_6001,AB_7_i_iii_ResC2_Cb_6004
+color bond [255,0,29] translucent 0.56
+wireframe 18
+select AB_7_i_iii_ResC2_Cb_6004; color atom translucent 0.56
+select AB_7_i_iii_ResC2_N_6000,AB_7_i_iii_ResC2_H_6005
+color bond [255,0,29] translucent 0.56
+spacefill 41
+wireframe 18
+select AB_7_i_iii_ResC2_H_6005
+color atom translucent 0.56
+select AB_7_i_iii_ResC2_C_6002,AB_7_i_iii_ResC2_O_6003
+color bond [255,0,29] translucent 0.56
+spacefill 41
+wireframe 18
+select AB_7_i_iv_Res4_C_8002;  spacefill 39; color atom translucent 0.56
+select AB_7_i_iv_Res4_O_8003;  spacefill 39; color atom translucent 0.56
+select AB_7_i_Res4_Ca_2001,AB_7_i_iv_Res4_C_8002
+wireframe 17
+bondOrder .5
+color bond [255,0,89] translucent 0.56
+select AB_7_i_iv_Res4_C_8002,AB_7_i_iv_ResC1_N_8000
+color bond [255,0,89] translucent 0.56
+wireframe 17
+select AB_7_i_iv_Res4_C_8002,AB_7_i_iv_Res4_O_8003
+color bond [255,0,89] translucent 0.56
+spacefill 39
+wireframe 17
+select AB_7_i_iv_ResC1_N_8000;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iv_ResC1_Ca_8001;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iv_ResC1_C_8002;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iv_ResC1_O_8003;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iv_ResC1_N_8000,AB_7_i_iv_ResC1_Ca_8001
+wireframe 17
+color bond [255,0,89] translucent 0.56
+select AB_7_i_iv_ResC1_Ca_8001,AB_7_i_iv_ResC1_C_8002
+wireframe 17
+color bond [255,0,89] translucent 0.56
+select AB_7_i_iv_ResC1_Ca_8001;  spacefill 39
+select AB_7_i_iv_ResC1_C_8002,AB_7_i_iv_ResC2_N_8000
+color bond [255,0,89] translucent 0.56
+wireframe 17
+select AB_7_i_iv_ResC1_N_8000,AB_7_i_iv_ResC1_H_8005
+color bond [255,0,89] translucent 0.56
+spacefill 39
+wireframe 17
+select AB_7_i_iv_ResC1_H_8005
+color atom translucent 0.56
+select AB_7_i_iv_ResC1_C_8002,AB_7_i_iv_ResC1_O_8003
+color bond [255,0,89] translucent 0.56
+spacefill 39
+wireframe 17
+select AB_7_i_iv_ResC2_N_8000;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iv_ResC2_Ca_8001;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iv_ResC2_C_8002;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iv_ResC2_O_8003;  spacefill 39
+color atom translucent 0.56
+select AB_7_i_iv_ResC2_N_8000,AB_7_i_iv_ResC2_Ca_8001
+wireframe 17
+color bond [255,0,89] translucent 0.56
+select AB_7_i_iv_ResC2_Ca_8001,AB_7_i_iv_ResC2_C_8002
+wireframe 17
+color bond [255,0,89] translucent 0.56
+select AB_7_i_iv_ResC2_Ca_8001;  spacefill 39
+select AB_7_i_iv_ResC2_Cb_8004;  spacefill 39
+select AB_7_i_iv_ResC2_Ca_8001,AB_7_i_iv_ResC2_Cb_8004
+color bond [255,0,89] translucent 0.56
+wireframe 17
+select AB_7_i_iv_ResC2_Cb_8004; color atom translucent 0.56
+select AB_7_i_iv_ResC2_N_8000,AB_7_i_iv_ResC2_H_8005
+color bond [255,0,89] translucent 0.56
+spacefill 39
+wireframe 17
+select AB_7_i_iv_ResC2_H_8005
+color atom translucent 0.56
+select AB_7_i_iv_ResC2_C_8002,AB_7_i_iv_ResC2_O_8003
+color bond [255,0,89] translucent 0.56
+spacefill 39
+wireframe 17
+select AB_7_i_v_Res4_C_10002;  spacefill 32; color atom translucent 0.56
+select AB_7_i_v_Res4_O_10003;  spacefill 32; color atom translucent 0.56
+select AB_7_i_Res4_Ca_2001,AB_7_i_v_Res4_C_10002
+wireframe 14
+bondOrder .5
+color bond [255,0,204] translucent 0.56
+select AB_7_i_v_Res4_C_10002,AB_7_i_v_ResC1_N_10000
+color bond [255,0,204] translucent 0.56
+wireframe 14
+select AB_7_i_v_Res4_C_10002,AB_7_i_v_Res4_O_10003
+color bond [255,0,204] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_i_v_ResC1_N_10000;  spacefill 32
+color atom translucent 0.56
+select AB_7_i_v_ResC1_Ca_10001;  spacefill 32
+color atom translucent 0.56
+select AB_7_i_v_ResC1_C_10002;  spacefill 32
+color atom translucent 0.56
+select AB_7_i_v_ResC1_O_10003;  spacefill 32
+color atom translucent 0.56
+select AB_7_i_v_ResC1_N_10000,AB_7_i_v_ResC1_Ca_10001
+wireframe 14
+color bond [255,0,204] translucent 0.56
+select AB_7_i_v_ResC1_Ca_10001,AB_7_i_v_ResC1_C_10002
+wireframe 14
+color bond [255,0,204] translucent 0.56
+select AB_7_i_v_ResC1_Ca_10001;  spacefill 32
+select AB_7_i_v_ResC1_Cb_10004;  spacefill 32
+select AB_7_i_v_ResC1_Ca_10001,AB_7_i_v_ResC1_Cb_10004
+color bond [255,0,204] translucent 0.56
+wireframe 14
+select AB_7_i_v_ResC1_Cb_10004; color atom translucent 0.56
+select AB_7_i_v_ResC1_C_10002,AB_7_i_v_ResC2_N_10000
+color bond [255,0,204] translucent 0.56
+wireframe 14
+select AB_7_i_v_ResC1_N_10000,AB_7_i_v_ResC1_H_10005
+color bond [255,0,204] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_i_v_ResC1_H_10005
+color atom translucent 0.56
+select AB_7_i_v_ResC1_C_10002,AB_7_i_v_ResC1_O_10003
+color bond [255,0,204] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_i_v_ResC2_N_10000;  spacefill 32
+color atom translucent 0.56
+select AB_7_i_v_ResC2_Ca_10001;  spacefill 32
+color atom translucent 0.56
+select AB_7_i_v_ResC2_C_10002;  spacefill 32
+color atom translucent 0.56
+select AB_7_i_v_ResC2_O_10003;  spacefill 32
+color atom translucent 0.56
+select AB_7_i_v_ResC2_N_10000,AB_7_i_v_ResC2_Ca_10001
+wireframe 14
+color bond [255,0,204] translucent 0.56
+select AB_7_i_v_ResC2_Ca_10001,AB_7_i_v_ResC2_C_10002
+wireframe 14
+color bond [255,0,204] translucent 0.56
+select AB_7_i_v_ResC2_Ca_10001;  spacefill 32
+select AB_7_i_v_ResC2_Cb_10004;  spacefill 32
+select AB_7_i_v_ResC2_Ca_10001,AB_7_i_v_ResC2_Cb_10004
+color bond [255,0,204] translucent 0.56
+wireframe 14
+select AB_7_i_v_ResC2_Cb_10004; color atom translucent 0.56
+select AB_7_i_v_ResC2_N_10000,AB_7_i_v_ResC2_H_10005
+color bond [255,0,204] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_i_v_ResC2_H_10005
+color atom translucent 0.56
+select AB_7_i_v_ResC2_C_10002,AB_7_i_v_ResC2_O_10003
+color bond [255,0,204] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_ii_i_Res4_C_2002;  spacefill 48; color atom translucent 0.56
+select AB_7_ii_i_Res4_O_2003;  spacefill 48; color atom translucent 0.56
+select AB_7_ii_Res4_Ca_4001,AB_7_ii_i_Res4_C_2002
+wireframe 21
+bondOrder .5
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_i_Res4_C_2002,AB_7_ii_i_ResC1_N_2000
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_i_Res4_C_2002,AB_7_ii_i_Res4_O_2003
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_i_ResC1_N_2000;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResC1_Ca_2001;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResC1_C_2002;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResC1_O_2003;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResC1_N_2000,AB_7_ii_i_ResC1_Ca_2001
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_i_ResC1_Ca_2001,AB_7_ii_i_ResC1_C_2002
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_i_ResC1_Ca_2001;  spacefill 48
+select AB_7_ii_i_ResC1_Cb_2004;  spacefill 48
+select AB_7_ii_i_ResC1_Ca_2001,AB_7_ii_i_ResC1_Cb_2004
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_i_ResC1_Cb_2004; color atom translucent 0.56
+select AB_7_ii_i_ResC1_C_2002,AB_7_ii_i_ResC2_N_2000
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_i_ResC1_N_2000,AB_7_ii_i_ResC1_H_2005
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_i_ResC1_H_2005
+color atom translucent 0.56
+select AB_7_ii_i_ResC1_C_2002,AB_7_ii_i_ResC1_O_2003
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_i_ResC2_N_2000;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResC2_Ca_2001;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResC2_C_2002;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResC2_O_2003;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_i_ResC2_N_2000,AB_7_ii_i_ResC2_Ca_2001
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_i_ResC2_Ca_2001,AB_7_ii_i_ResC2_C_2002
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_i_ResC2_Ca_2001;  spacefill 48
+select AB_7_ii_i_ResC2_Cb_2004;  spacefill 48
+select AB_7_ii_i_ResC2_Ca_2001,AB_7_ii_i_ResC2_Cb_2004
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_i_ResC2_Cb_2004; color atom translucent 0.56
+select AB_7_ii_i_ResC2_N_2000,AB_7_ii_i_ResC2_H_2005
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_i_ResC2_H_2005
+color atom translucent 0.56
+select AB_7_ii_i_ResC2_C_2002,AB_7_ii_i_ResC2_O_2003
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_ii_Res4_C_4002;  spacefill 48; color atom translucent 0.56
+select AB_7_ii_ii_Res4_O_4003;  spacefill 48; color atom translucent 0.56
+select AB_7_ii_Res4_Ca_4001,AB_7_ii_ii_Res4_C_4002
+wireframe 21
+bondOrder .5
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_ii_Res4_C_4002,AB_7_ii_ii_ResC1_N_4000
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_ii_Res4_C_4002,AB_7_ii_ii_Res4_O_4003
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_ii_ResC1_N_4000;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResC1_Ca_4001;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResC1_C_4002;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResC1_O_4003;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResC1_N_4000,AB_7_ii_ii_ResC1_Ca_4001
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_ii_ResC1_Ca_4001,AB_7_ii_ii_ResC1_C_4002
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_ii_ResC1_Ca_4001;  spacefill 48
+select AB_7_ii_ii_ResC1_Cb_4004;  spacefill 48
+select AB_7_ii_ii_ResC1_Ca_4001,AB_7_ii_ii_ResC1_Cb_4004
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_ii_ResC1_Cb_4004; color atom translucent 0.56
+select AB_7_ii_ii_ResC1_C_4002,AB_7_ii_ii_ResC2_N_4000
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_ii_ResC1_N_4000,AB_7_ii_ii_ResC1_H_4005
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_ii_ResC1_H_4005
+color atom translucent 0.56
+select AB_7_ii_ii_ResC1_C_4002,AB_7_ii_ii_ResC1_O_4003
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_ii_ResC2_N_4000;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResC2_Ca_4001;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResC2_C_4002;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResC2_O_4003;  spacefill 48
+color atom translucent 0.56
+select AB_7_ii_ii_ResC2_N_4000,AB_7_ii_ii_ResC2_Ca_4001
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_ii_ResC2_Ca_4001,AB_7_ii_ii_ResC2_C_4002
+wireframe 21
+color bond [255,196,0] translucent 0.56
+select AB_7_ii_ii_ResC2_Ca_4001;  spacefill 48
+select AB_7_ii_ii_ResC2_Cb_4004;  spacefill 48
+select AB_7_ii_ii_ResC2_Ca_4001,AB_7_ii_ii_ResC2_Cb_4004
+color bond [255,196,0] translucent 0.56
+wireframe 21
+select AB_7_ii_ii_ResC2_Cb_4004; color atom translucent 0.56
+select AB_7_ii_ii_ResC2_N_4000,AB_7_ii_ii_ResC2_H_4005
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_ii_ResC2_H_4005
+color atom translucent 0.56
+select AB_7_ii_ii_ResC2_C_4002,AB_7_ii_ii_ResC2_O_4003
+color bond [255,196,0] translucent 0.56
+spacefill 48
+wireframe 21
+select AB_7_ii_iii_Res4_C_6002;  spacefill 43; color atom translucent 0.56
+select AB_7_ii_iii_Res4_O_6003;  spacefill 43; color atom translucent 0.56
+select AB_7_ii_Res4_Ca_4001,AB_7_ii_iii_Res4_C_6002
+wireframe 19
+bondOrder .5
+color bond [255,34,0] translucent 0.56
+select AB_7_ii_iii_Res4_C_6002,AB_7_ii_iii_ResC1_N_6000
+color bond [255,34,0] translucent 0.56
+wireframe 19
+select AB_7_ii_iii_Res4_C_6002,AB_7_ii_iii_Res4_O_6003
+color bond [255,34,0] translucent 0.56
+spacefill 43
+wireframe 19
+select AB_7_ii_iii_ResC1_N_6000;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResC1_Ca_6001;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResC1_C_6002;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResC1_O_6003;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResC1_N_6000,AB_7_ii_iii_ResC1_Ca_6001
+wireframe 19
+color bond [255,34,0] translucent 0.56
+select AB_7_ii_iii_ResC1_Ca_6001,AB_7_ii_iii_ResC1_C_6002
+wireframe 19
+color bond [255,34,0] translucent 0.56
+select AB_7_ii_iii_ResC1_Ca_6001;  spacefill 43
+select AB_7_ii_iii_ResC1_Cb_6004;  spacefill 43
+select AB_7_ii_iii_ResC1_Ca_6001,AB_7_ii_iii_ResC1_Cb_6004
+color bond [255,34,0] translucent 0.56
+wireframe 19
+select AB_7_ii_iii_ResC1_Cb_6004; color atom translucent 0.56
+select AB_7_ii_iii_ResC1_C_6002,AB_7_ii_iii_ResC2_N_6000
+color bond [255,34,0] translucent 0.56
+wireframe 19
+select AB_7_ii_iii_ResC1_N_6000
+spacefill 43
+select AB_7_ii_iii_ResC1_C_6002,AB_7_ii_iii_ResC1_O_6003
+color bond [255,34,0] translucent 0.56
+spacefill 43
+wireframe 19
+select AB_7_ii_iii_ResC2_N_6000;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResC2_Ca_6001;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResC2_C_6002;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResC2_O_6003;  spacefill 43
+color atom translucent 0.56
+select AB_7_ii_iii_ResC2_N_6000,AB_7_ii_iii_ResC2_Ca_6001
+wireframe 19
+color bond [255,34,0] translucent 0.56
+select AB_7_ii_iii_ResC2_Ca_6001,AB_7_ii_iii_ResC2_C_6002
+wireframe 19
+color bond [255,34,0] translucent 0.56
+select AB_7_ii_iii_ResC2_Ca_6001;  spacefill 43
+select AB_7_ii_iii_ResC2_Cb_6004;  spacefill 43
+select AB_7_ii_iii_ResC2_Ca_6001,AB_7_ii_iii_ResC2_Cb_6004
+color bond [255,34,0] translucent 0.56
+wireframe 19
+select AB_7_ii_iii_ResC2_Cb_6004; color atom translucent 0.56
+select AB_7_ii_iii_ResC2_N_6000,AB_7_ii_iii_ResC2_H_6005
+color bond [255,34,0] translucent 0.56
+spacefill 43
+wireframe 19
+select AB_7_ii_iii_ResC2_H_6005
+color atom translucent 0.56
+select AB_7_ii_iii_ResC2_C_6002,AB_7_ii_iii_ResC2_O_6003
+color bond [255,34,0] translucent 0.56
+spacefill 43
+wireframe 19
+select AB_7_ii_iv_Res4_C_8002;  spacefill 41; color atom translucent 0.56
+select AB_7_ii_iv_Res4_O_8003;  spacefill 41; color atom translucent 0.56
+select AB_7_ii_Res4_Ca_4001,AB_7_ii_iv_Res4_C_8002
+wireframe 18
+bondOrder .5
+color bond [255,0,34] translucent 0.56
+select AB_7_ii_iv_Res4_C_8002,AB_7_ii_iv_ResC1_N_8000
+color bond [255,0,34] translucent 0.56
+wireframe 18
+select AB_7_ii_iv_Res4_C_8002,AB_7_ii_iv_Res4_O_8003
+color bond [255,0,34] translucent 0.56
+spacefill 41
+wireframe 18
+select AB_7_ii_iv_ResC1_N_8000;  spacefill 41
+color atom translucent 0.56
+select AB_7_ii_iv_ResC1_Ca_8001;  spacefill 41
+color atom translucent 0.56
+select AB_7_ii_iv_ResC1_C_8002;  spacefill 41
+color atom translucent 0.56
+select AB_7_ii_iv_ResC1_O_8003;  spacefill 41
+color atom translucent 0.56
+select AB_7_ii_iv_ResC1_N_8000,AB_7_ii_iv_ResC1_Ca_8001
+wireframe 18
+color bond [255,0,34] translucent 0.56
+select AB_7_ii_iv_ResC1_Ca_8001,AB_7_ii_iv_ResC1_C_8002
+wireframe 18
+color bond [255,0,34] translucent 0.56
+select AB_7_ii_iv_ResC1_Ca_8001;  spacefill 41
+select AB_7_ii_iv_ResC1_Cb_8004;  spacefill 41
+select AB_7_ii_iv_ResC1_Ca_8001,AB_7_ii_iv_ResC1_Cb_8004
+color bond [255,0,34] translucent 0.56
+wireframe 18
+select AB_7_ii_iv_ResC1_Cb_8004; color atom translucent 0.56
+select AB_7_ii_iv_ResC1_C_8002,AB_7_ii_iv_ResC2_N_8000
+color bond [255,0,34] translucent 0.56
+wireframe 18
+select AB_7_ii_iv_ResC1_N_8000,AB_7_ii_iv_ResC1_H_8005
+color bond [255,0,34] translucent 0.56
+spacefill 41
+wireframe 18
+select AB_7_ii_iv_ResC1_H_8005
+color atom translucent 0.56
+select AB_7_ii_iv_ResC1_C_8002,AB_7_ii_iv_ResC1_O_8003
+color bond [255,0,34] translucent 0.56
+spacefill 41
+wireframe 18
+select AB_7_ii_iv_ResC2_N_8000;  spacefill 41
+color atom translucent 0.56
+select AB_7_ii_iv_ResC2_Ca_8001;  spacefill 41
+color atom translucent 0.56
+select AB_7_ii_iv_ResC2_C_8002;  spacefill 41
+color atom translucent 0.56
+select AB_7_ii_iv_ResC2_O_8003;  spacefill 41
+color atom translucent 0.56
+select AB_7_ii_iv_ResC2_N_8000,AB_7_ii_iv_ResC2_Ca_8001
+wireframe 18
+color bond [255,0,34] translucent 0.56
+select AB_7_ii_iv_ResC2_Ca_8001,AB_7_ii_iv_ResC2_C_8002
+wireframe 18
+color bond [255,0,34] translucent 0.56
+select AB_7_ii_iv_ResC2_Ca_8001;  spacefill 41
+select AB_7_ii_iv_ResC2_Cb_8004;  spacefill 41
+select AB_7_ii_iv_ResC2_Ca_8001,AB_7_ii_iv_ResC2_Cb_8004
+color bond [255,0,34] translucent 0.56
+wireframe 18
+select AB_7_ii_iv_ResC2_Cb_8004; color atom translucent 0.56
+select AB_7_ii_iv_ResC2_N_8000,AB_7_ii_iv_ResC2_H_8005
+color bond [255,0,34] translucent 0.56
+spacefill 41
+wireframe 18
+select AB_7_ii_iv_ResC2_H_8005
+color atom translucent 0.56
+select AB_7_ii_iv_ResC2_C_8002,AB_7_ii_iv_ResC2_O_8003
+color bond [255,0,34] translucent 0.56
+spacefill 41
+wireframe 18
+select AB_7_ii_v_Res4_C_10002;  spacefill 36; color atom translucent 0.56
+select AB_7_ii_v_Res4_O_10003;  spacefill 36; color atom translucent 0.56
+select AB_7_ii_Res4_Ca_4001,AB_7_ii_v_Res4_C_10002
+wireframe 16
+bondOrder .5
+color bond [255,0,127] translucent 0.56
+select AB_7_ii_v_Res4_C_10002,AB_7_ii_v_ResC1_N_10000
+color bond [255,0,127] translucent 0.56
+wireframe 16
+select AB_7_ii_v_Res4_C_10002,AB_7_ii_v_Res4_O_10003
+color bond [255,0,127] translucent 0.56
+spacefill 36
+wireframe 16
+select AB_7_ii_v_ResC1_N_10000;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_v_ResC1_Ca_10001;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_v_ResC1_C_10002;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_v_ResC1_O_10003;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_v_ResC1_N_10000,AB_7_ii_v_ResC1_Ca_10001
+wireframe 16
+color bond [255,0,127] translucent 0.56
+select AB_7_ii_v_ResC1_Ca_10001,AB_7_ii_v_ResC1_C_10002
+wireframe 16
+color bond [255,0,127] translucent 0.56
+select AB_7_ii_v_ResC1_Ca_10001;  spacefill 36
+select AB_7_ii_v_ResC1_Cb_10004;  spacefill 36
+select AB_7_ii_v_ResC1_Ca_10001,AB_7_ii_v_ResC1_Cb_10004
+color bond [255,0,127] translucent 0.56
+wireframe 16
+select AB_7_ii_v_ResC1_Cb_10004; color atom translucent 0.56
+select AB_7_ii_v_ResC1_C_10002,AB_7_ii_v_ResC2_N_10000
+color bond [255,0,127] translucent 0.56
+wireframe 16
+select AB_7_ii_v_ResC1_N_10000,AB_7_ii_v_ResC1_H_10005
+color bond [255,0,127] translucent 0.56
+spacefill 36
+wireframe 16
+select AB_7_ii_v_ResC1_H_10005
+color atom translucent 0.56
+select AB_7_ii_v_ResC1_C_10002,AB_7_ii_v_ResC1_O_10003
+color bond [255,0,127] translucent 0.56
+spacefill 36
+wireframe 16
+select AB_7_ii_v_ResC2_N_10000;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_v_ResC2_Ca_10001;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_v_ResC2_C_10002;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_v_ResC2_O_10003;  spacefill 36
+color atom translucent 0.56
+select AB_7_ii_v_ResC2_N_10000,AB_7_ii_v_ResC2_Ca_10001
+wireframe 16
+color bond [255,0,127] translucent 0.56
+select AB_7_ii_v_ResC2_Ca_10001,AB_7_ii_v_ResC2_C_10002
+wireframe 16
+color bond [255,0,127] translucent 0.56
+select AB_7_ii_v_ResC2_Ca_10001;  spacefill 36
+select AB_7_ii_v_ResC2_N_10000,AB_7_ii_v_ResC2_H_10005
+color bond [255,0,127] translucent 0.56
+spacefill 36
+wireframe 16
+select AB_7_ii_v_ResC2_H_10005
+color atom translucent 0.56
+select AB_7_ii_v_ResC2_C_10002,AB_7_ii_v_ResC2_O_10003
+color bond [255,0,127] translucent 0.56
+spacefill 36
+wireframe 16
+select AB_7_iii_i_Res4_C_2002;  spacefill 34; color atom translucent 0.56
+select AB_7_iii_i_Res4_O_2003;  spacefill 34; color atom translucent 0.56
+select AB_7_iii_Res4_Ca_6001,AB_7_iii_i_Res4_C_2002
+wireframe 15
+bondOrder .5
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_i_Res4_C_2002,AB_7_iii_i_ResC1_N_2000
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_i_Res4_C_2002,AB_7_iii_i_Res4_O_2003
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_i_ResC1_N_2000;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResC1_Ca_2001;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResC1_C_2002;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResC1_O_2003;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResC1_N_2000,AB_7_iii_i_ResC1_Ca_2001
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_i_ResC1_Ca_2001,AB_7_iii_i_ResC1_C_2002
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_i_ResC1_Ca_2001;  spacefill 34
+select AB_7_iii_i_ResC1_Cb_2004;  spacefill 34
+select AB_7_iii_i_ResC1_Ca_2001,AB_7_iii_i_ResC1_Cb_2004
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_i_ResC1_Cb_2004; color atom translucent 0.56
+select AB_7_iii_i_ResC1_C_2002,AB_7_iii_i_ResC2_N_2000
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_i_ResC1_N_2000,AB_7_iii_i_ResC1_H_2005
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_i_ResC1_H_2005
+color atom translucent 0.56
+select AB_7_iii_i_ResC1_C_2002,AB_7_iii_i_ResC1_O_2003
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_i_ResC2_N_2000;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResC2_Ca_2001;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResC2_C_2002;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResC2_O_2003;  spacefill 34
+color atom translucent 0.56
+select AB_7_iii_i_ResC2_N_2000,AB_7_iii_i_ResC2_Ca_2001
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_i_ResC2_Ca_2001,AB_7_iii_i_ResC2_C_2002
+wireframe 15
+color bond [255,0,0] translucent 0.56
+select AB_7_iii_i_ResC2_Ca_2001;  spacefill 34
+select AB_7_iii_i_ResC2_Cb_2004;  spacefill 34
+select AB_7_iii_i_ResC2_Ca_2001,AB_7_iii_i_ResC2_Cb_2004
+color bond [255,0,0] translucent 0.56
+wireframe 15
+select AB_7_iii_i_ResC2_Cb_2004; color atom translucent 0.56
+select AB_7_iii_i_ResC2_N_2000,AB_7_iii_i_ResC2_H_2005
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_i_ResC2_H_2005
+color atom translucent 0.56
+select AB_7_iii_i_ResC2_C_2002,AB_7_iii_i_ResC2_O_2003
+color bond [255,0,0] translucent 0.56
+spacefill 34
+wireframe 15
+select AB_7_iii_ii_Res4_C_4002;  spacefill 32; color atom translucent 0.56
+select AB_7_iii_ii_Res4_O_4003;  spacefill 32; color atom translucent 0.56
+select AB_7_iii_Res4_Ca_6001,AB_7_iii_ii_Res4_C_4002
+wireframe 14
+bondOrder .5
+color bond [255,0,98] translucent 0.56
+select AB_7_iii_ii_Res4_C_4002,AB_7_iii_ii_ResC1_N_4000
+color bond [255,0,98] translucent 0.56
+wireframe 14
+select AB_7_iii_ii_Res4_C_4002,AB_7_iii_ii_Res4_O_4003
+color bond [255,0,98] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_ii_ResC1_N_4000;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_ii_ResC1_Ca_4001;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_ii_ResC1_C_4002;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_ii_ResC1_O_4003;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_ii_ResC1_N_4000,AB_7_iii_ii_ResC1_Ca_4001
+wireframe 14
+color bond [255,0,98] translucent 0.56
+select AB_7_iii_ii_ResC1_Ca_4001,AB_7_iii_ii_ResC1_C_4002
+wireframe 14
+color bond [255,0,98] translucent 0.56
+select AB_7_iii_ii_ResC1_Ca_4001;  spacefill 32
+select AB_7_iii_ii_ResC1_C_4002,AB_7_iii_ii_ResC2_N_4000
+color bond [255,0,98] translucent 0.56
+wireframe 14
+select AB_7_iii_ii_ResC1_N_4000,AB_7_iii_ii_ResC1_H_4005
+color bond [255,0,98] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_ii_ResC1_H_4005
+color atom translucent 0.56
+select AB_7_iii_ii_ResC1_C_4002,AB_7_iii_ii_ResC1_O_4003
+color bond [255,0,98] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_ii_ResC2_N_4000;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_ii_ResC2_Ca_4001;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_ii_ResC2_C_4002;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_ii_ResC2_O_4003;  spacefill 32
+color atom translucent 0.56
+select AB_7_iii_ii_ResC2_N_4000,AB_7_iii_ii_ResC2_Ca_4001
+wireframe 14
+color bond [255,0,98] translucent 0.56
+select AB_7_iii_ii_ResC2_Ca_4001,AB_7_iii_ii_ResC2_C_4002
+wireframe 14
+color bond [255,0,98] translucent 0.56
+select AB_7_iii_ii_ResC2_Ca_4001;  spacefill 32
+select AB_7_iii_ii_ResC2_Cb_4004;  spacefill 32
+select AB_7_iii_ii_ResC2_Ca_4001,AB_7_iii_ii_ResC2_Cb_4004
+color bond [255,0,98] translucent 0.56
+wireframe 14
+select AB_7_iii_ii_ResC2_Cb_4004; color atom translucent 0.56
+select AB_7_iii_ii_ResC2_N_4000,AB_7_iii_ii_ResC2_H_4005
+color bond [255,0,98] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_ii_ResC2_H_4005
+color atom translucent 0.56
+select AB_7_iii_ii_ResC2_C_4002,AB_7_iii_ii_ResC2_O_4003
+color bond [255,0,98] translucent 0.56
+spacefill 32
+wireframe 14
+select AB_7_iii_iii_Res4_C_6002;  spacefill 27; color atom translucent 0.56
+select AB_7_iii_iii_Res4_O_6003;  spacefill 27; color atom translucent 0.56
+select AB_7_iii_Res4_Ca_6001,AB_7_iii_iii_Res4_C_6002
+wireframe 12
+bondOrder .5
+color bond [255,0,221] translucent 0.56
+select AB_7_iii_iii_Res4_C_6002,AB_7_iii_iii_ResC1_N_6000
+color bond [255,0,221] translucent 0.56
+wireframe 12
+select AB_7_iii_iii_Res4_C_6002,AB_7_iii_iii_Res4_O_6003
+color bond [255,0,221] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_iii_iii_ResC1_N_6000;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_iii_ResC1_Ca_6001;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_iii_ResC1_C_6002;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_iii_ResC1_O_6003;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_iii_ResC1_N_6000,AB_7_iii_iii_ResC1_Ca_6001
+wireframe 12
+color bond [255,0,221] translucent 0.56
+select AB_7_iii_iii_ResC1_Ca_6001,AB_7_iii_iii_ResC1_C_6002
+wireframe 12
+color bond [255,0,221] translucent 0.56
+select AB_7_iii_iii_ResC1_Ca_6001;  spacefill 27
+select AB_7_iii_iii_ResC1_Cb_6004;  spacefill 27
+select AB_7_iii_iii_ResC1_Ca_6001,AB_7_iii_iii_ResC1_Cb_6004
+color bond [255,0,221] translucent 0.56
+wireframe 12
+select AB_7_iii_iii_ResC1_Cb_6004; color atom translucent 0.56
+select AB_7_iii_iii_ResC1_C_6002,AB_7_iii_iii_ResC2_N_6000
+color bond [255,0,221] translucent 0.56
+wireframe 12
+select AB_7_iii_iii_ResC1_N_6000,AB_7_iii_iii_ResC1_H_6005
+color bond [255,0,221] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_iii_iii_ResC1_H_6005
+color atom translucent 0.56
+select AB_7_iii_iii_ResC1_C_6002,AB_7_iii_iii_ResC1_O_6003
+color bond [255,0,221] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_iii_iii_ResC2_N_6000;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_iii_ResC2_Ca_6001;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_iii_ResC2_C_6002;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_iii_ResC2_O_6003;  spacefill 27
+color atom translucent 0.56
+select AB_7_iii_iii_ResC2_N_6000,AB_7_iii_iii_ResC2_Ca_6001
+wireframe 12
+color bond [255,0,221] translucent 0.56
+select AB_7_iii_iii_ResC2_Ca_6001,AB_7_iii_iii_ResC2_C_6002
+wireframe 12
+color bond [255,0,221] translucent 0.56
+select AB_7_iii_iii_ResC2_Ca_6001;  spacefill 27
+select AB_7_iii_iii_ResC2_Cb_6004;  spacefill 27
+select AB_7_iii_iii_ResC2_Ca_6001,AB_7_iii_iii_ResC2_Cb_6004
+color bond [255,0,221] translucent 0.56
+wireframe 12
+select AB_7_iii_iii_ResC2_Cb_6004; color atom translucent 0.56
+select AB_7_iii_iii_ResC2_N_6000,AB_7_iii_iii_ResC2_H_6005
+color bond [255,0,221] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_iii_iii_ResC2_H_6005
+color atom translucent 0.56
+select AB_7_iii_iii_ResC2_C_6002,AB_7_iii_iii_ResC2_O_6003
+color bond [255,0,221] translucent 0.56
+spacefill 27
+wireframe 12
+select AB_7_iii_iv_Res4_C_8002;  spacefill 25; color atom translucent 0.56
+select AB_7_iii_iv_Res4_O_8003;  spacefill 25; color atom translucent 0.56
+select AB_7_iii_Res4_Ca_6001,AB_7_iii_iv_Res4_C_8002
+wireframe 11
+bondOrder .5
+color bond [243,0,255] translucent 0.56
+select AB_7_iii_iv_Res4_C_8002,AB_7_iii_iv_ResC1_N_8000
+color bond [243,0,255] translucent 0.56
+wireframe 11
+select AB_7_iii_iv_Res4_C_8002,AB_7_iii_iv_Res4_O_8003
+color bond [243,0,255] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iii_iv_ResC1_N_8000;  spacefill 25
+color atom translucent 0.56
+select AB_7_iii_iv_ResC1_Ca_8001;  spacefill 25
+color atom translucent 0.56
+select AB_7_iii_iv_ResC1_C_8002;  spacefill 25
+color atom translucent 0.56
+select AB_7_iii_iv_ResC1_O_8003;  spacefill 25
+color atom translucent 0.56
+select AB_7_iii_iv_ResC1_N_8000,AB_7_iii_iv_ResC1_Ca_8001
+wireframe 11
+color bond [243,0,255] translucent 0.56
+select AB_7_iii_iv_ResC1_Ca_8001,AB_7_iii_iv_ResC1_C_8002
+wireframe 11
+color bond [243,0,255] translucent 0.56
+select AB_7_iii_iv_ResC1_Ca_8001;  spacefill 25
+select AB_7_iii_iv_ResC1_Cb_8004;  spacefill 25
+select AB_7_iii_iv_ResC1_Ca_8001,AB_7_iii_iv_ResC1_Cb_8004
+color bond [243,0,255] translucent 0.56
+wireframe 11
+select AB_7_iii_iv_ResC1_Cb_8004; color atom translucent 0.56
+select AB_7_iii_iv_ResC1_C_8002,AB_7_iii_iv_ResC2_N_8000
+color bond [243,0,255] translucent 0.56
+wireframe 11
+select AB_7_iii_iv_ResC1_N_8000,AB_7_iii_iv_ResC1_H_8005
+color bond [243,0,255] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iii_iv_ResC1_H_8005
+color atom translucent 0.56
+select AB_7_iii_iv_ResC1_C_8002,AB_7_iii_iv_ResC1_O_8003
+color bond [243,0,255] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iii_iv_ResC2_N_8000;  spacefill 25
+color atom translucent 0.56
+select AB_7_iii_iv_ResC2_Ca_8001;  spacefill 25
+color atom translucent 0.56
+select AB_7_iii_iv_ResC2_C_8002;  spacefill 25
+color atom translucent 0.56
+select AB_7_iii_iv_ResC2_O_8003;  spacefill 25
+color atom translucent 0.56
+select AB_7_iii_iv_ResC2_N_8000,AB_7_iii_iv_ResC2_Ca_8001
+wireframe 11
+color bond [243,0,255] translucent 0.56
+select AB_7_iii_iv_ResC2_Ca_8001,AB_7_iii_iv_ResC2_C_8002
+wireframe 11
+color bond [243,0,255] translucent 0.56
+select AB_7_iii_iv_ResC2_Ca_8001;  spacefill 25
+select AB_7_iii_iv_ResC2_Cb_8004;  spacefill 25
+select AB_7_iii_iv_ResC2_Ca_8001,AB_7_iii_iv_ResC2_Cb_8004
+color bond [243,0,255] translucent 0.56
+wireframe 11
+select AB_7_iii_iv_ResC2_Cb_8004; color atom translucent 0.56
+select AB_7_iii_iv_ResC2_N_8000,AB_7_iii_iv_ResC2_H_8005
+color bond [243,0,255] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iii_iv_ResC2_H_8005
+color atom translucent 0.56
+select AB_7_iii_iv_ResC2_C_8002,AB_7_iii_iv_ResC2_O_8003
+color bond [243,0,255] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iii_v_Res4_C_10002;  spacefill 20; color atom translucent 0.56
+select AB_7_iii_v_Res4_O_10003;  spacefill 20; color atom translucent 0.56
+select AB_7_iii_Res4_Ca_6001,AB_7_iii_v_Res4_C_10002
+wireframe 9
+bondOrder .5
+color bond [98,0,255] translucent 0.56
+select AB_7_iii_v_Res4_C_10002,AB_7_iii_v_ResC1_N_10000
+color bond [98,0,255] translucent 0.56
+wireframe 9
+select AB_7_iii_v_Res4_C_10002,AB_7_iii_v_Res4_O_10003
+color bond [98,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iii_v_ResC1_N_10000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iii_v_ResC1_Ca_10001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iii_v_ResC1_C_10002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iii_v_ResC1_O_10003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iii_v_ResC1_N_10000,AB_7_iii_v_ResC1_Ca_10001
+wireframe 9
+color bond [98,0,255] translucent 0.56
+select AB_7_iii_v_ResC1_Ca_10001,AB_7_iii_v_ResC1_C_10002
+wireframe 9
+color bond [98,0,255] translucent 0.56
+select AB_7_iii_v_ResC1_Ca_10001;  spacefill 20
+select AB_7_iii_v_ResC1_Cb_10004;  spacefill 20
+select AB_7_iii_v_ResC1_Ca_10001,AB_7_iii_v_ResC1_Cb_10004
+color bond [98,0,255] translucent 0.56
+wireframe 9
+select AB_7_iii_v_ResC1_Cb_10004; color atom translucent 0.56
+select AB_7_iii_v_ResC1_C_10002,AB_7_iii_v_ResC2_N_10000
+color bond [98,0,255] translucent 0.56
+wireframe 9
+select AB_7_iii_v_ResC1_N_10000,AB_7_iii_v_ResC1_H_10005
+color bond [98,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iii_v_ResC1_H_10005
+color atom translucent 0.56
+select AB_7_iii_v_ResC1_C_10002,AB_7_iii_v_ResC1_O_10003
+color bond [98,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iii_v_ResC2_N_10000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iii_v_ResC2_Ca_10001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iii_v_ResC2_C_10002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iii_v_ResC2_O_10003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iii_v_ResC2_N_10000,AB_7_iii_v_ResC2_Ca_10001
+wireframe 9
+color bond [98,0,255] translucent 0.56
+select AB_7_iii_v_ResC2_Ca_10001,AB_7_iii_v_ResC2_C_10002
+wireframe 9
+color bond [98,0,255] translucent 0.56
+select AB_7_iii_v_ResC2_Ca_10001;  spacefill 20
+select AB_7_iii_v_ResC2_Cb_10004;  spacefill 20
+select AB_7_iii_v_ResC2_Ca_10001,AB_7_iii_v_ResC2_Cb_10004
+color bond [98,0,255] translucent 0.56
+wireframe 9
+select AB_7_iii_v_ResC2_Cb_10004; color atom translucent 0.56
+select AB_7_iii_v_ResC2_N_10000,AB_7_iii_v_ResC2_H_10005
+color bond [98,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iii_v_ResC2_H_10005
+color atom translucent 0.56
+select AB_7_iii_v_ResC2_C_10002,AB_7_iii_v_ResC2_O_10003
+color bond [98,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_i_Res4_C_2002;  spacefill 25; color atom translucent 0.56
+select AB_7_iv_i_Res4_O_2003;  spacefill 25; color atom translucent 0.56
+select AB_7_iv_Res4_Ca_8001,AB_7_iv_i_Res4_C_2002
+wireframe 11
+bondOrder .5
+color bond [255,0,140] translucent 0.56
+select AB_7_iv_i_Res4_C_2002,AB_7_iv_i_ResC1_N_2000
+color bond [255,0,140] translucent 0.56
+wireframe 11
+select AB_7_iv_i_Res4_C_2002,AB_7_iv_i_Res4_O_2003
+color bond [255,0,140] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iv_i_ResC1_N_2000;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResC1_Ca_2001;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResC1_C_2002;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResC1_O_2003;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResC1_N_2000,AB_7_iv_i_ResC1_Ca_2001
+wireframe 11
+color bond [255,0,140] translucent 0.56
+select AB_7_iv_i_ResC1_Ca_2001,AB_7_iv_i_ResC1_C_2002
+wireframe 11
+color bond [255,0,140] translucent 0.56
+select AB_7_iv_i_ResC1_Ca_2001;  spacefill 25
+select AB_7_iv_i_ResC1_Cb_2004;  spacefill 25
+select AB_7_iv_i_ResC1_Ca_2001,AB_7_iv_i_ResC1_Cb_2004
+color bond [255,0,140] translucent 0.56
+wireframe 11
+select AB_7_iv_i_ResC1_Cb_2004; color atom translucent 0.56
+select AB_7_iv_i_ResC1_C_2002,AB_7_iv_i_ResC2_N_2000
+color bond [255,0,140] translucent 0.56
+wireframe 11
+select AB_7_iv_i_ResC1_N_2000
+spacefill 25
+select AB_7_iv_i_ResC1_C_2002,AB_7_iv_i_ResC1_O_2003
+color bond [255,0,140] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iv_i_ResC2_N_2000;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResC2_Ca_2001;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResC2_C_2002;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResC2_O_2003;  spacefill 25
+color atom translucent 0.56
+select AB_7_iv_i_ResC2_N_2000,AB_7_iv_i_ResC2_Ca_2001
+wireframe 11
+color bond [255,0,140] translucent 0.56
+select AB_7_iv_i_ResC2_Ca_2001,AB_7_iv_i_ResC2_C_2002
+wireframe 11
+color bond [255,0,140] translucent 0.56
+select AB_7_iv_i_ResC2_Ca_2001;  spacefill 25
+select AB_7_iv_i_ResC2_Cb_2004;  spacefill 25
+select AB_7_iv_i_ResC2_Ca_2001,AB_7_iv_i_ResC2_Cb_2004
+color bond [255,0,140] translucent 0.56
+wireframe 11
+select AB_7_iv_i_ResC2_Cb_2004; color atom translucent 0.56
+select AB_7_iv_i_ResC2_N_2000,AB_7_iv_i_ResC2_H_2005
+color bond [255,0,140] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iv_i_ResC2_H_2005
+color atom translucent 0.56
+select AB_7_iv_i_ResC2_C_2002,AB_7_iv_i_ResC2_O_2003
+color bond [255,0,140] translucent 0.56
+spacefill 25
+wireframe 11
+select AB_7_iv_ii_Res4_C_4002;  spacefill 20; color atom translucent 0.56
+select AB_7_iv_ii_Res4_O_4003;  spacefill 20; color atom translucent 0.56
+select AB_7_iv_Res4_Ca_8001,AB_7_iv_ii_Res4_C_4002
+wireframe 9
+bondOrder .5
+color bond [255,0,255] translucent 0.56
+select AB_7_iv_ii_Res4_C_4002,AB_7_iv_ii_ResC1_N_4000
+color bond [255,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_ii_Res4_C_4002,AB_7_iv_ii_Res4_O_4003
+color bond [255,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_ii_ResC1_N_4000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_ii_ResC1_Ca_4001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_ii_ResC1_C_4002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_ii_ResC1_O_4003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_ii_ResC1_N_4000,AB_7_iv_ii_ResC1_Ca_4001
+wireframe 9
+color bond [255,0,255] translucent 0.56
+select AB_7_iv_ii_ResC1_Ca_4001,AB_7_iv_ii_ResC1_C_4002
+wireframe 9
+color bond [255,0,255] translucent 0.56
+select AB_7_iv_ii_ResC1_Ca_4001;  spacefill 20
+select AB_7_iv_ii_ResC1_Cb_4004;  spacefill 20
+select AB_7_iv_ii_ResC1_Ca_4001,AB_7_iv_ii_ResC1_Cb_4004
+color bond [255,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_ii_ResC1_Cb_4004; color atom translucent 0.56
+select AB_7_iv_ii_ResC1_C_4002,AB_7_iv_ii_ResC2_N_4000
+color bond [255,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_ii_ResC1_N_4000,AB_7_iv_ii_ResC1_H_4005
+color bond [255,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_ii_ResC1_H_4005
+color atom translucent 0.56
+select AB_7_iv_ii_ResC1_C_4002,AB_7_iv_ii_ResC1_O_4003
+color bond [255,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_ii_ResC2_N_4000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_ii_ResC2_Ca_4001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_ii_ResC2_C_4002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_ii_ResC2_O_4003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_ii_ResC2_N_4000,AB_7_iv_ii_ResC2_Ca_4001
+wireframe 9
+color bond [255,0,255] translucent 0.56
+select AB_7_iv_ii_ResC2_Ca_4001,AB_7_iv_ii_ResC2_C_4002
+wireframe 9
+color bond [255,0,255] translucent 0.56
+select AB_7_iv_ii_ResC2_Ca_4001;  spacefill 20
+select AB_7_iv_ii_ResC2_Cb_4004;  spacefill 20
+select AB_7_iv_ii_ResC2_Ca_4001,AB_7_iv_ii_ResC2_Cb_4004
+color bond [255,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_ii_ResC2_Cb_4004; color atom translucent 0.56
+select AB_7_iv_ii_ResC2_N_4000,AB_7_iv_ii_ResC2_H_4005
+color bond [255,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_ii_ResC2_H_4005
+color atom translucent 0.56
+select AB_7_iv_ii_ResC2_C_4002,AB_7_iv_ii_ResC2_O_4003
+color bond [255,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iii_Res4_C_6002;  spacefill 20; color atom translucent 0.56
+select AB_7_iv_iii_Res4_O_6003;  spacefill 20; color atom translucent 0.56
+select AB_7_iv_Res4_Ca_8001,AB_7_iv_iii_Res4_C_6002
+wireframe 9
+bondOrder .5
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iii_Res4_C_6002,AB_7_iv_iii_ResC1_N_6000
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iii_Res4_C_6002,AB_7_iv_iii_Res4_O_6003
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iii_ResC1_N_6000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResC1_Ca_6001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResC1_C_6002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResC1_O_6003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResC1_N_6000,AB_7_iv_iii_ResC1_Ca_6001
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iii_ResC1_Ca_6001,AB_7_iv_iii_ResC1_C_6002
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iii_ResC1_Ca_6001;  spacefill 20
+select AB_7_iv_iii_ResC1_Cb_6004;  spacefill 20
+select AB_7_iv_iii_ResC1_Ca_6001,AB_7_iv_iii_ResC1_Cb_6004
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iii_ResC1_Cb_6004; color atom translucent 0.56
+select AB_7_iv_iii_ResC1_C_6002,AB_7_iv_iii_ResC2_N_6000
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iii_ResC1_N_6000,AB_7_iv_iii_ResC1_H_6005
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iii_ResC1_H_6005
+color atom translucent 0.56
+select AB_7_iv_iii_ResC1_C_6002,AB_7_iv_iii_ResC1_O_6003
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iii_ResC2_N_6000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResC2_Ca_6001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResC2_C_6002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResC2_O_6003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iii_ResC2_N_6000,AB_7_iv_iii_ResC2_Ca_6001
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iii_ResC2_Ca_6001,AB_7_iv_iii_ResC2_C_6002
+wireframe 9
+color bond [209,0,255] translucent 0.56
+select AB_7_iv_iii_ResC2_Ca_6001;  spacefill 20
+select AB_7_iv_iii_ResC2_Cb_6004;  spacefill 20
+select AB_7_iv_iii_ResC2_Ca_6001,AB_7_iv_iii_ResC2_Cb_6004
+color bond [209,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iii_ResC2_Cb_6004; color atom translucent 0.56
+select AB_7_iv_iii_ResC2_N_6000,AB_7_iv_iii_ResC2_H_6005
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iii_ResC2_H_6005
+color atom translucent 0.56
+select AB_7_iv_iii_ResC2_C_6002,AB_7_iv_iii_ResC2_O_6003
+color bond [209,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iv_Res4_C_8002;  spacefill 20; color atom translucent 0.56
+select AB_7_iv_iv_Res4_O_8003;  spacefill 20; color atom translucent 0.56
+select AB_7_iv_Res4_Ca_8001,AB_7_iv_iv_Res4_C_8002
+wireframe 9
+bondOrder .5
+color bond [162,0,255] translucent 0.56
+select AB_7_iv_iv_Res4_C_8002,AB_7_iv_iv_ResC1_N_8000
+color bond [162,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iv_Res4_C_8002,AB_7_iv_iv_Res4_O_8003
+color bond [162,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iv_ResC1_N_8000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResC1_Ca_8001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResC1_C_8002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResC1_O_8003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResC1_N_8000,AB_7_iv_iv_ResC1_Ca_8001
+wireframe 9
+color bond [162,0,255] translucent 0.56
+select AB_7_iv_iv_ResC1_Ca_8001,AB_7_iv_iv_ResC1_C_8002
+wireframe 9
+color bond [162,0,255] translucent 0.56
+select AB_7_iv_iv_ResC1_Ca_8001;  spacefill 20
+select AB_7_iv_iv_ResC1_Cb_8004;  spacefill 20
+select AB_7_iv_iv_ResC1_Ca_8001,AB_7_iv_iv_ResC1_Cb_8004
+color bond [162,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iv_ResC1_Cb_8004; color atom translucent 0.56
+select AB_7_iv_iv_ResC1_C_8002,AB_7_iv_iv_ResC2_N_8000
+color bond [162,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iv_ResC1_N_8000,AB_7_iv_iv_ResC1_H_8005
+color bond [162,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iv_ResC1_H_8005
+color atom translucent 0.56
+select AB_7_iv_iv_ResC1_C_8002,AB_7_iv_iv_ResC1_O_8003
+color bond [162,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iv_ResC2_N_8000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResC2_Ca_8001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResC2_C_8002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResC2_O_8003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_iv_ResC2_N_8000,AB_7_iv_iv_ResC2_Ca_8001
+wireframe 9
+color bond [162,0,255] translucent 0.56
+select AB_7_iv_iv_ResC2_Ca_8001,AB_7_iv_iv_ResC2_C_8002
+wireframe 9
+color bond [162,0,255] translucent 0.56
+select AB_7_iv_iv_ResC2_Ca_8001;  spacefill 20
+select AB_7_iv_iv_ResC2_Cb_8004;  spacefill 20
+select AB_7_iv_iv_ResC2_Ca_8001,AB_7_iv_iv_ResC2_Cb_8004
+color bond [162,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_iv_ResC2_Cb_8004; color atom translucent 0.56
+select AB_7_iv_iv_ResC2_N_8000,AB_7_iv_iv_ResC2_H_8005
+color bond [162,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_iv_ResC2_H_8005
+color atom translucent 0.56
+select AB_7_iv_iv_ResC2_C_8002,AB_7_iv_iv_ResC2_O_8003
+color bond [162,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_v_Res4_C_10002;  spacefill 20; color atom translucent 0.56
+select AB_7_iv_v_Res4_O_10003;  spacefill 20; color atom translucent 0.56
+select AB_7_iv_Res4_Ca_8001,AB_7_iv_v_Res4_C_10002
+wireframe 9
+bondOrder .5
+color bond [93,0,255] translucent 0.56
+select AB_7_iv_v_Res4_C_10002,AB_7_iv_v_ResC1_N_10000
+color bond [93,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_v_Res4_C_10002,AB_7_iv_v_Res4_O_10003
+color bond [93,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_v_ResC1_N_10000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResC1_Ca_10001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResC1_C_10002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResC1_O_10003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResC1_N_10000,AB_7_iv_v_ResC1_Ca_10001
+wireframe 9
+color bond [93,0,255] translucent 0.56
+select AB_7_iv_v_ResC1_Ca_10001,AB_7_iv_v_ResC1_C_10002
+wireframe 9
+color bond [93,0,255] translucent 0.56
+select AB_7_iv_v_ResC1_Ca_10001;  spacefill 20
+select AB_7_iv_v_ResC1_Cb_10004;  spacefill 20
+select AB_7_iv_v_ResC1_Ca_10001,AB_7_iv_v_ResC1_Cb_10004
+color bond [93,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_v_ResC1_Cb_10004; color atom translucent 0.56
+select AB_7_iv_v_ResC1_C_10002,AB_7_iv_v_ResC2_N_10000
+color bond [93,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_v_ResC1_N_10000,AB_7_iv_v_ResC1_H_10005
+color bond [93,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_v_ResC1_H_10005
+color atom translucent 0.56
+select AB_7_iv_v_ResC1_C_10002,AB_7_iv_v_ResC1_O_10003
+color bond [93,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_v_ResC2_N_10000;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResC2_Ca_10001;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResC2_C_10002;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResC2_O_10003;  spacefill 20
+color atom translucent 0.56
+select AB_7_iv_v_ResC2_N_10000,AB_7_iv_v_ResC2_Ca_10001
+wireframe 9
+color bond [93,0,255] translucent 0.56
+select AB_7_iv_v_ResC2_Ca_10001,AB_7_iv_v_ResC2_C_10002
+wireframe 9
+color bond [93,0,255] translucent 0.56
+select AB_7_iv_v_ResC2_Ca_10001;  spacefill 20
+select AB_7_iv_v_ResC2_Cb_10004;  spacefill 20
+select AB_7_iv_v_ResC2_Ca_10001,AB_7_iv_v_ResC2_Cb_10004
+color bond [93,0,255] translucent 0.56
+wireframe 9
+select AB_7_iv_v_ResC2_Cb_10004; color atom translucent 0.56
+select AB_7_iv_v_ResC2_N_10000,AB_7_iv_v_ResC2_H_10005
+color bond [93,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select AB_7_iv_v_ResC2_H_10005
+color atom translucent 0.56
+select AB_7_iv_v_ResC2_C_10002,AB_7_iv_v_ResC2_O_10003
+color bond [93,0,255] translucent 0.56
+spacefill 20
+wireframe 9
+select all; hbonds 4
+zoom 125
+translate X -3
