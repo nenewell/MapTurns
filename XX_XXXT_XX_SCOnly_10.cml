@@ -1,0 +1,222 @@
+<molecule>
+<atomArray>
+<atom id="AG_9_i_Res1_N_2000" elementType="N" x3="-1.312651" y3="-2.366497" z3="-3.855361"/>
+<atom id="AG_9_i_Res1_H_2005" elementType="H" x3="-1.318989" y3="-1.759112" z3="-4.649425"/>
+<atom id="AG_9_i_Res1_Ca_2001" elementType="C" x3="-0.000000" y3="-2.937258" z3="-3.553326"/>
+<atom id="AG_9_i_Res1_C_2002" elementType="C" x3="0.760130" y3="-2.188819" z3="-2.470079"/>
+<atom id="AG_9_i_Res1_O_2003" elementType="O" x3="1.561320" y3="-2.782850" z3="-1.747478"/>
+<atom id="AG_9_i_Res2_N_2000" elementType="N" x3="0.522760" y3="-0.882215" z3="-2.353536"/>
+<atom id="AG_9_i_Res2_Ca_2001" elementType="C" x3="1.294714" y3="-0.061615" z3="-1.414230"/>
+<atom id="AG_9_i_Res2_C_2002" elementType="C" x3="0.663520" y3="0.042741" z3="-0.035963"/>
+<atom id="AG_9_i_Res2_O_2003" elementType="O" x3="1.377094" y3="0.226292" z3="0.952524"/>
+<atom id="AG_9_i_Res2_Cb_2004" elementType="C" x3="1.392135" y3="0.502631" z3="-1.636030"/>
+<atom id="AG_9_i_Res2_H_2005" elementType="H" x3="-0.169490" y3="-0.384813" z3="-2.875818"/>
+<atom id="AG_9_i_Res3_N_2000" elementType="N" x3="-0.663520" y3="-0.042741" z3="0.035963"/>
+<atom id="AG_9_i_Res3_Ca_2001" elementType="C" x3="-1.337846" y3="0.079588" z3="1.327896"/>
+<atom id="AG_9_i_Res3_C_2002" elementType="C" x3="-1.348584" y3="-1.274921" z3="2.020517"/>
+<atom id="AG_9_i_Res3_O_2003" elementType="O" x3="-2.377096" y3="-1.948217" z3="2.095173"/>
+<atom id="AG_9_i_Res3_Cb_2004" elementType="C" x3="-1.901321" y3="0.314224" z3="1.274248"/>
+<atom id="AG_9_i_Res3_H_2005" elementType="H" x3="-1.268035" y3="-0.189174" z3="-0.747134"/>
+<atom id="AG_9_i_Res4_N_2000" elementType="N" x3="-0.171094" y3="-1.670300" z3="2.495601"/>
+<atom id="AG_9_i_Res4_Ca_2001" elementType="C" x3="0.000000" y3="-2.937258" z3="3.196815"/>
+<atom id="AG_9_i_Res4_H_2005" elementType="H" x3="0.669330" y3="-1.135676" z3="2.407824"/>
+<atom id="AG_9_i_Res4_C_2002" elementType="C" x3="-0.534691" y3="-2.779603" z3="4.617830"/>
+<atom id="AG_9_i_Res4_O_2003" elementType="O" x3="-0.391092" y3="-1.710514" z3="5.235774"/>
+<atom id="AG_9_i_Res4_Cb_140" elementType="C" x3="1.473989" y3="-3.395538" z3="3.182820"/>
+<atom id="AG_9_i_Res4_O_100" elementType="O" x3="2.296625" y3="-2.427242" z3="3.849598"/>
+<atom id="AG_9_i_Res4_C_101" elementType="C" x3="1.963466" y3="-3.553622" z3="1.741668"/>
+<atom id="AG_9_i_Res4_H_102" elementType="H" x3="2.577373" y3="-2.784299" z3="4.739817"/>
+<atom id="AG_9_ii_Res1_N_4000" elementType="N" x3="0.095585" y3="-4.524331" z3="-2.860597"/>
+<atom id="AG_9_ii_Res1_Ca_4001" elementType="C" x3="0.000000" y3="-3.096437" z3="-3.184515"/>
+<atom id="AG_9_ii_Res1_C_4002" elementType="C" x3="0.603093" y3="-2.222310" z3="-2.085999"/>
+<atom id="AG_9_ii_Res1_O_4003" elementType="O" x3="0.995706" y3="-2.717475" z3="-1.019906"/>
+<atom id="AG_9_ii_Res1_Cb_4004" elementType="C" x3="-0.601702" y3="-3.016538" z3="-3.264046"/>
+<atom id="AG_9_ii_Res2_N_4000" elementType="N" x3="0.673115" y3="-0.917830" z3="-2.340916"/>
+<atom id="AG_9_ii_Res2_Ca_4001" elementType="C" x3="1.295453" y3="0.013507" z3="-1.401553"/>
+<atom id="AG_9_ii_Res2_C_4002" elementType="C" x3="0.648360" y3="0.132054" z3="-0.039673"/>
+<atom id="AG_9_ii_Res2_O_4003" elementType="O" x3="1.323632" y3="0.451162" z3="0.934609"/>
+<atom id="AG_9_ii_Res2_Cb_4004" elementType="C" x3="1.336000" y3="0.571328" z3="-1.657487"/>
+<atom id="AG_9_ii_Res2_H_4005" elementType="H" x3="0.315053" y3="-0.491150" z3="-3.171262"/>
+<atom id="AG_9_ii_Res3_N_4000" elementType="N" x3="-0.648360" y3="-0.132054" z3="0.039673"/>
+<atom id="AG_9_ii_Res3_Ca_4001" elementType="C" x3="-1.367518" y3="-0.011570" z3="1.295158"/>
+<atom id="AG_9_ii_Res3_C_4002" elementType="C" x3="-1.323566" y3="-1.276088" z3="2.167001"/>
+<atom id="AG_9_ii_Res3_O_4003" elementType="O" x3="-2.338490" y3="-1.699557" z3="2.723370"/>
+<atom id="AG_9_ii_Res3_Cb_4004" elementType="C" x3="-1.950287" y3="0.136382" z3="1.176910"/>
+<atom id="AG_9_ii_Res3_H_4005" elementType="H" x3="-1.209241" y3="-0.424649" z3="-0.734555"/>
+<atom id="AG_9_ii_Res4_N_4000" elementType="N" x3="-0.152294" y3="-1.881663" z3="2.278946"/>
+<atom id="AG_9_ii_Res4_Ca_4001" elementType="C" x3="-0.000000" y3="-3.096437" z3="3.078048"/>
+<atom id="AG_9_ii_Res4_H_4005" elementType="H" x3="0.687931" y3="-1.564077" z3="1.839561"/>
+<atom id="AG_9_ii_Res4_C_4002" elementType="C" x3="1.071909" y3="-2.846320" z3="4.120640"/>
+<atom id="AG_9_ii_Res4_O_4003" elementType="O" x3="1.802852" y3="-1.857426" z3="4.040745"/>
+<atom id="AG_9_ii_Res4_Cb_240" elementType="C" x3="0.426035" y3="-4.277072" z3="2.183041"/>
+<atom id="AG_9_ii_Res4_O_200" elementType="O" x3="1.554700" y3="-3.878513" z3="1.401436"/>
+<atom id="AG_9_ii_Res4_C_201" elementType="C" x3="-0.732532" y3="-4.701247" z3="1.258854"/>
+<atom id="AG_9_ii_Res4_H_202" elementType="H" x3="1.240753" y3="-3.486090" z3="0.537099"/>
+<atom id="AG_9_iii_Res1_N_6000" elementType="N" x3="-0.679381" y3="-1.965126" z3="-4.401188"/>
+<atom id="AG_9_iii_Res1_H_6005" elementType="H" x3="-0.105191" y3="-1.735175" z3="-5.186978"/>
+<atom id="AG_9_iii_Res1_Ca_6001" elementType="C" x3="0.000000" y3="-2.834133" z3="-3.410762"/>
+<atom id="AG_9_iii_Res1_C_6002" elementType="C" x3="0.549902" y3="-2.066947" z3="-2.200168"/>
+<atom id="AG_9_iii_Res1_O_6003" elementType="O" x3="0.927559" y3="-2.689733" z3="-1.164974"/>
+<atom id="AG_9_iii_Res1_Cb_6004" elementType="C" x3="0.430532" y3="-3.158257" z3="-3.682742"/>
+<atom id="AG_9_iii_Res2_N_6000" elementType="N" x3="0.668470" y3="-0.774761" z3="-2.348162"/>
+<atom id="AG_9_iii_Res2_Ca_6001" elementType="C" x3="1.340192" y3="0.060022" z3="-1.378671"/>
+<atom id="AG_9_iii_Res2_C_6002" elementType="C" x3="0.667906" y3="0.056165" z3="-0.017949"/>
+<atom id="AG_9_iii_Res2_O_6003" elementType="O" x3="1.399808" y3="0.123653" z3="0.997323"/>
+<atom id="AG_9_iii_Res2_Cb_6004" elementType="C" x3="1.403692" y3="0.635597" z3="-1.572561"/>
+<atom id="AG_9_iii_Res2_H_6005" elementType="H" x3="0.306778" y3="-0.274510" z3="-3.134640"/>
+<atom id="AG_9_iii_Res3_N_6000" elementType="N" x3="-0.667906" y3="-0.056165" z3="0.017949"/>
+<atom id="AG_9_iii_Res3_Ca_6001" elementType="C" x3="-1.384104" y3="-0.116390" z3="1.288668"/>
+<atom id="AG_9_iii_Res3_C_6002" elementType="C" x3="-1.152993" y3="-1.484112" z3="1.829973"/>
+<atom id="AG_9_iii_Res3_O_6003" elementType="O" x3="-1.743455" y3="-2.487338" z3="1.353521"/>
+<atom id="AG_9_iii_Res3_Cb_6004" elementType="C" x3="-1.987290" y3="0.001923" z3="1.214799"/>
+<atom id="AG_9_iii_Res3_H_6005" elementType="H" x3="-1.250669" y3="-0.105522" z3="-0.792839"/>
+<atom id="AG_9_iii_Res4_N_6000" elementType="N" x3="-0.360592" y3="-1.535046" z3="2.906361"/>
+<atom id="AG_9_iii_Res4_Ca_6001" elementType="C" x3="-0.000000" y3="-2.834133" z3="3.500568"/>
+<atom id="AG_9_iii_Res4_H_6005" elementType="H" x3="0.027385" y3="-0.735959" z3="3.365841"/>
+<atom id="AG_9_iii_Res4_C_6002" elementType="C" x3="-0.850791" y3="-3.231141" z3="4.700413"/>
+<atom id="AG_9_iii_Res4_O_6003" elementType="O" x3="-1.061334" y3="-4.399936" z3="5.007263"/>
+<atom id="AG_9_iii_Res4_Cb_340" elementType="C" x3="1.443795" y3="-2.816191" z3="3.984689"/>
+<atom id="AG_9_iii_Res4_O_300" elementType="O" x3="1.626959" y3="-1.786928" z3="4.971858"/>
+<atom id="AG_9_iii_Res4_C_301" elementType="C" x3="2.376639" y3="-2.575773" z3="2.831973"/>
+<atom id="AG_9_iii_Res4_H_302" elementType="H" x3="1.169612" y3="-2.053323" z3="5.819863"/>
+<atom id="AG_9_iv_Res1_N_8000" elementType="N" x3="-0.303771" y3="-2.597045" z3="-4.183097"/>
+<atom id="AG_9_iv_Res1_H_8005" elementType="H" x3="-1.281154" y3="-2.457208" z3="-4.342823"/>
+<atom id="AG_9_iv_Res1_Ca_8001" elementType="C" x3="0.000000" y3="-3.042805" z3="-2.826430"/>
+<atom id="AG_9_iv_Res1_C_8002" elementType="C" x3="0.864991" y3="-2.161477" z3="-1.926622"/>
+<atom id="AG_9_iv_Res1_O_8003" elementType="O" x3="1.621729" y3="-2.660682" z3="-1.086770"/>
+<atom id="AG_9_iv_Res1_Cb_8004" elementType="C" x3="0.223626" y3="-3.615408" z3="-2.850381"/>
+<atom id="AG_9_iv_Res2_N_8000" elementType="N" x3="0.746165" y3="-0.847949" z3="-2.090637"/>
+<atom id="AG_9_iv_Res2_Ca_8001" elementType="C" x3="1.470751" y3="0.070158" z3="-1.224974"/>
+<atom id="AG_9_iv_Res2_C_8002" elementType="C" x3="0.598350" y3="0.292770" z3="0.009037"/>
+<atom id="AG_9_iv_Res2_O_8003" elementType="O" x3="0.993174" y3="0.976814" z3="0.948847"/>
+<atom id="AG_9_iv_Res2_Cb_8004" elementType="C" x3="1.583510" y3="0.602452" z3="-1.506470"/>
+<atom id="AG_9_iv_Res2_H_8005" elementType="H" x3="0.177324" y3="-0.411435" z3="-2.787667"/>
+<atom id="AG_9_iv_Res3_N_8000" elementType="N" x3="-0.598350" y3="-0.292770" z3="-0.009037"/>
+<atom id="AG_9_iv_Res3_Ca_8001" elementType="C" x3="-1.523081" y3="-0.193962" z3="1.115027"/>
+<atom id="AG_9_iv_Res3_C_8002" elementType="C" x3="-1.469792" y3="-1.526977" z3="1.870914"/>
+<atom id="AG_9_iv_Res3_O_8003" elementType="O" x3="-2.448163" y3="-2.267949" z3="1.951097"/>
+<atom id="AG_9_iv_Res3_Cb_8004" elementType="C" x3="-2.092263" y3="-0.064857" z3="0.914287"/>
+<atom id="AG_9_iv_Res3_H_8005" elementType="H" x3="-0.942822" y3="-0.831379" z3="-0.778121"/>
+<atom id="AG_9_iv_Res4_N_8000" elementType="N" x3="-0.293375" y3="-1.806155" z3="2.427248"/>
+<atom id="AG_9_iv_Res4_Ca_8001" elementType="C" x3="0.000000" y3="-3.042805" z3="3.155748"/>
+<atom id="AG_9_iv_Res4_H_8005" elementType="H" x3="0.485236" y3="-1.179684" z3="2.385492"/>
+<atom id="AG_9_iv_Res4_C_8002" elementType="C" x3="-1.003783" y3="-3.508057" z3="4.211511"/>
+<atom id="AG_9_iv_Res4_O_8003" elementType="O" x3="-1.431740" y3="-2.733542" z3="5.069773"/>
+<atom id="AG_9_iv_Res4_Cb_440" elementType="C" x3="1.382990" y3="-2.949278" z3="3.848438"/>
+<atom id="AG_9_iv_Res4_O_400" elementType="O" x3="2.357348" y3="-2.472154" z3="2.913224"/>
+<atom id="AG_9_iv_Res4_C_401" elementType="C" x3="1.815684" y3="-4.318503" z3="4.366215"/>
+<atom id="AG_9_iv_Res4_H_402" elementType="H" x3="2.946757" y3="-3.228543" z3="2.630108"/>
+</atomArray>
+<bondArray>
+<bond atomRefs2="AG_9_i_Res1_N_2000 AG_9_i_Res1_Ca_2001" order="1"/>
+<bond atomRefs2="AG_9_i_Res1_N_2000 AG_9_i_Res1_H_2005" order="1"/>
+<bond atomRefs2="AG_9_i_Res1_Ca_2001 AG_9_i_Res1_C_2002" order="1"/>
+<bond atomRefs2="AG_9_i_Res1_C_2002 AG_9_i_Res1_O_2003" order="1"/>
+<bond atomRefs2="AG_9_i_Res1_C_2002 AG_9_i_Res2_N_2000" order="1"/>
+<bond atomRefs2="AG_9_i_Res2_N_2000 AG_9_i_Res2_Ca_2001" order="1"/>
+<bond atomRefs2="AG_9_i_Res2_Ca_2001 AG_9_i_Res2_Cb_2004" order="1"/>
+<bond atomRefs2="AG_9_i_Res2_Ca_2001 AG_9_i_Res2_C_2002" order="1"/>
+<bond atomRefs2="AG_9_i_Res2_C_2002 AG_9_i_Res2_O_2003" order="1"/>
+<bond atomRefs2="AG_9_i_Res2_C_2002 AG_9_i_Res3_N_2000" order="1"/>
+<bond atomRefs2="AG_9_i_Res2_N_2000 AG_9_i_Res2_H_2005" order="1"/>
+<bond atomRefs2="AG_9_i_Res2_C_2002 AG_9_i_Res2_O_2003" order="1"/>
+<bond atomRefs2="AG_9_i_Res3_N_2000 AG_9_i_Res3_Ca_2001" order="1"/>
+<bond atomRefs2="AG_9_i_Res3_Ca_2001 AG_9_i_Res3_Cb_2004" order="1"/>
+<bond atomRefs2="AG_9_i_Res3_Ca_2001 AG_9_i_Res3_C_2002" order="1"/>
+<bond atomRefs2="AG_9_i_Res3_C_2002 AG_9_i_Res3_O_2003" order="1"/>
+<bond atomRefs2="AG_9_i_Res3_C_2002 AG_9_i_Res4_N_2000" order="1"/>
+<bond atomRefs2="AG_9_i_Res3_N_2000 AG_9_i_Res3_H_2005" order="1"/>
+<bond atomRefs2="AG_9_i_Res3_C_2002 AG_9_i_Res3_O_2003" order="1"/>
+<bond atomRefs2="AG_9_i_Res4_N_2000 AG_9_i_Res4_H_2005" order="1"/>
+<bond atomRefs2="AG_9_i_Res4_N_2000 AG_9_i_Res4_Ca_2001" order="1"/>
+<bond atomRefs2="AG_9_i_Res4_Ca_2001 AG_9_i_Res4_C_2002" order="1"/>
+<bond atomRefs2="AG_9_i_Res4_C_2002 AG_9_i_Res4_O_2003" order="1"/>
+<bond atomRefs2="AG_9_i_Res4_Ca_2001 AG_9_i_Res4_Cb_140" order="1"/>
+<bond atomRefs2="AG_9_i_Res4_Cb_140 AG_9_i_Res4_O_100" order="1"/>
+<bond atomRefs2="AG_9_i_Res4_Cb_140 AG_9_i_Res4_C_101" order="1"/>
+<bond atomRefs2="AG_9_i_Res4_O_100 AG_9_i_Res4_H_102" order="1"/>
+<bond atomRefs2="AG_9_ii_Res1_N_4000 AG_9_ii_Res1_Ca_4001" order="1"/>
+<bond atomRefs2="AG_9_ii_Res1_Ca_4001 AG_9_ii_Res1_Cb_4004" order="1"/>
+<bond atomRefs2="AG_9_ii_Res1_Ca_4001 AG_9_ii_Res1_C_4002" order="1"/>
+<bond atomRefs2="AG_9_ii_Res1_C_4002 AG_9_ii_Res1_O_4003" order="1"/>
+<bond atomRefs2="AG_9_ii_Res1_C_4002 AG_9_ii_Res2_N_4000" order="1"/>
+<bond atomRefs2="AG_9_ii_Res2_N_4000 AG_9_ii_Res2_Ca_4001" order="1"/>
+<bond atomRefs2="AG_9_ii_Res2_Ca_4001 AG_9_ii_Res2_Cb_4004" order="1"/>
+<bond atomRefs2="AG_9_ii_Res2_Ca_4001 AG_9_ii_Res2_C_4002" order="1"/>
+<bond atomRefs2="AG_9_ii_Res2_C_4002 AG_9_ii_Res2_O_4003" order="1"/>
+<bond atomRefs2="AG_9_ii_Res2_C_4002 AG_9_ii_Res3_N_4000" order="1"/>
+<bond atomRefs2="AG_9_ii_Res2_N_4000 AG_9_ii_Res2_H_4005" order="1"/>
+<bond atomRefs2="AG_9_ii_Res2_C_4002 AG_9_ii_Res2_O_4003" order="1"/>
+<bond atomRefs2="AG_9_ii_Res3_N_4000 AG_9_ii_Res3_Ca_4001" order="1"/>
+<bond atomRefs2="AG_9_ii_Res3_Ca_4001 AG_9_ii_Res3_Cb_4004" order="1"/>
+<bond atomRefs2="AG_9_ii_Res3_Ca_4001 AG_9_ii_Res3_C_4002" order="1"/>
+<bond atomRefs2="AG_9_ii_Res3_C_4002 AG_9_ii_Res3_O_4003" order="1"/>
+<bond atomRefs2="AG_9_ii_Res3_C_4002 AG_9_ii_Res4_N_4000" order="1"/>
+<bond atomRefs2="AG_9_ii_Res3_N_4000 AG_9_ii_Res3_H_4005" order="1"/>
+<bond atomRefs2="AG_9_ii_Res3_C_4002 AG_9_ii_Res3_O_4003" order="1"/>
+<bond atomRefs2="AG_9_ii_Res4_N_4000 AG_9_ii_Res4_H_4005" order="1"/>
+<bond atomRefs2="AG_9_ii_Res4_N_4000 AG_9_ii_Res4_Ca_4001" order="1"/>
+<bond atomRefs2="AG_9_ii_Res4_Ca_4001 AG_9_ii_Res4_C_4002" order="1"/>
+<bond atomRefs2="AG_9_ii_Res4_C_4002 AG_9_ii_Res4_O_4003" order="1"/>
+<bond atomRefs2="AG_9_ii_Res4_Ca_4001 AG_9_ii_Res4_Cb_240" order="1"/>
+<bond atomRefs2="AG_9_ii_Res4_Cb_240 AG_9_ii_Res4_O_200" order="1"/>
+<bond atomRefs2="AG_9_ii_Res4_Cb_240 AG_9_ii_Res4_C_201" order="1"/>
+<bond atomRefs2="AG_9_ii_Res4_O_200 AG_9_ii_Res4_H_202" order="1"/>
+<bond atomRefs2="AG_9_iii_Res1_N_6000 AG_9_iii_Res1_Ca_6001" order="1"/>
+<bond atomRefs2="AG_9_iii_Res1_N_6000 AG_9_iii_Res1_H_6005" order="1"/>
+<bond atomRefs2="AG_9_iii_Res1_Ca_6001 AG_9_iii_Res1_Cb_6004" order="1"/>
+<bond atomRefs2="AG_9_iii_Res1_Ca_6001 AG_9_iii_Res1_C_6002" order="1"/>
+<bond atomRefs2="AG_9_iii_Res1_C_6002 AG_9_iii_Res1_O_6003" order="1"/>
+<bond atomRefs2="AG_9_iii_Res1_C_6002 AG_9_iii_Res2_N_6000" order="1"/>
+<bond atomRefs2="AG_9_iii_Res2_N_6000 AG_9_iii_Res2_Ca_6001" order="1"/>
+<bond atomRefs2="AG_9_iii_Res2_Ca_6001 AG_9_iii_Res2_Cb_6004" order="1"/>
+<bond atomRefs2="AG_9_iii_Res2_Ca_6001 AG_9_iii_Res2_C_6002" order="1"/>
+<bond atomRefs2="AG_9_iii_Res2_C_6002 AG_9_iii_Res2_O_6003" order="1"/>
+<bond atomRefs2="AG_9_iii_Res2_C_6002 AG_9_iii_Res3_N_6000" order="1"/>
+<bond atomRefs2="AG_9_iii_Res2_N_6000 AG_9_iii_Res2_H_6005" order="1"/>
+<bond atomRefs2="AG_9_iii_Res2_C_6002 AG_9_iii_Res2_O_6003" order="1"/>
+<bond atomRefs2="AG_9_iii_Res3_N_6000 AG_9_iii_Res3_Ca_6001" order="1"/>
+<bond atomRefs2="AG_9_iii_Res3_Ca_6001 AG_9_iii_Res3_Cb_6004" order="1"/>
+<bond atomRefs2="AG_9_iii_Res3_Ca_6001 AG_9_iii_Res3_C_6002" order="1"/>
+<bond atomRefs2="AG_9_iii_Res3_C_6002 AG_9_iii_Res3_O_6003" order="1"/>
+<bond atomRefs2="AG_9_iii_Res3_C_6002 AG_9_iii_Res4_N_6000" order="1"/>
+<bond atomRefs2="AG_9_iii_Res3_N_6000 AG_9_iii_Res3_H_6005" order="1"/>
+<bond atomRefs2="AG_9_iii_Res3_C_6002 AG_9_iii_Res3_O_6003" order="1"/>
+<bond atomRefs2="AG_9_iii_Res4_N_6000 AG_9_iii_Res4_H_6005" order="1"/>
+<bond atomRefs2="AG_9_iii_Res4_N_6000 AG_9_iii_Res4_Ca_6001" order="1"/>
+<bond atomRefs2="AG_9_iii_Res4_Ca_6001 AG_9_iii_Res4_C_6002" order="1"/>
+<bond atomRefs2="AG_9_iii_Res4_C_6002 AG_9_iii_Res4_O_6003" order="1"/>
+<bond atomRefs2="AG_9_iii_Res4_Ca_6001 AG_9_iii_Res4_Cb_340" order="1"/>
+<bond atomRefs2="AG_9_iii_Res4_Cb_340 AG_9_iii_Res4_O_300" order="1"/>
+<bond atomRefs2="AG_9_iii_Res4_Cb_340 AG_9_iii_Res4_C_301" order="1"/>
+<bond atomRefs2="AG_9_iii_Res4_O_300 AG_9_iii_Res4_H_302" order="1"/>
+<bond atomRefs2="AG_9_iv_Res1_N_8000 AG_9_iv_Res1_Ca_8001" order="1"/>
+<bond atomRefs2="AG_9_iv_Res1_N_8000 AG_9_iv_Res1_H_8005" order="1"/>
+<bond atomRefs2="AG_9_iv_Res1_Ca_8001 AG_9_iv_Res1_Cb_8004" order="1"/>
+<bond atomRefs2="AG_9_iv_Res1_Ca_8001 AG_9_iv_Res1_C_8002" order="1"/>
+<bond atomRefs2="AG_9_iv_Res1_C_8002 AG_9_iv_Res1_O_8003" order="1"/>
+<bond atomRefs2="AG_9_iv_Res1_C_8002 AG_9_iv_Res2_N_8000" order="1"/>
+<bond atomRefs2="AG_9_iv_Res2_N_8000 AG_9_iv_Res2_Ca_8001" order="1"/>
+<bond atomRefs2="AG_9_iv_Res2_Ca_8001 AG_9_iv_Res2_Cb_8004" order="1"/>
+<bond atomRefs2="AG_9_iv_Res2_Ca_8001 AG_9_iv_Res2_C_8002" order="1"/>
+<bond atomRefs2="AG_9_iv_Res2_C_8002 AG_9_iv_Res2_O_8003" order="1"/>
+<bond atomRefs2="AG_9_iv_Res2_C_8002 AG_9_iv_Res3_N_8000" order="1"/>
+<bond atomRefs2="AG_9_iv_Res2_N_8000 AG_9_iv_Res2_H_8005" order="1"/>
+<bond atomRefs2="AG_9_iv_Res2_C_8002 AG_9_iv_Res2_O_8003" order="1"/>
+<bond atomRefs2="AG_9_iv_Res3_N_8000 AG_9_iv_Res3_Ca_8001" order="1"/>
+<bond atomRefs2="AG_9_iv_Res3_Ca_8001 AG_9_iv_Res3_Cb_8004" order="1"/>
+<bond atomRefs2="AG_9_iv_Res3_Ca_8001 AG_9_iv_Res3_C_8002" order="1"/>
+<bond atomRefs2="AG_9_iv_Res3_C_8002 AG_9_iv_Res3_O_8003" order="1"/>
+<bond atomRefs2="AG_9_iv_Res3_C_8002 AG_9_iv_Res4_N_8000" order="1"/>
+<bond atomRefs2="AG_9_iv_Res3_N_8000 AG_9_iv_Res3_H_8005" order="1"/>
+<bond atomRefs2="AG_9_iv_Res3_C_8002 AG_9_iv_Res3_O_8003" order="1"/>
+<bond atomRefs2="AG_9_iv_Res4_N_8000 AG_9_iv_Res4_H_8005" order="1"/>
+<bond atomRefs2="AG_9_iv_Res4_N_8000 AG_9_iv_Res4_Ca_8001" order="1"/>
+<bond atomRefs2="AG_9_iv_Res4_Ca_8001 AG_9_iv_Res4_C_8002" order="1"/>
+<bond atomRefs2="AG_9_iv_Res4_C_8002 AG_9_iv_Res4_O_8003" order="1"/>
+<bond atomRefs2="AG_9_iv_Res4_Ca_8001 AG_9_iv_Res4_Cb_440" order="1"/>
+<bond atomRefs2="AG_9_iv_Res4_Cb_440 AG_9_iv_Res4_O_400" order="1"/>
+<bond atomRefs2="AG_9_iv_Res4_Cb_440 AG_9_iv_Res4_C_401" order="1"/>
+<bond atomRefs2="AG_9_iv_Res4_O_400 AG_9_iv_Res4_H_402" order="1"/>
+</bondArray>
+</molecule>
