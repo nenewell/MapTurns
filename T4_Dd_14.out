@@ -1,0 +1,430 @@
+Statistics for the SC clusters within this BB cluster. PDB addresses are
+given for each SC cluster medoid. Statistics include the cluster's most
+common Ramachandran type, its turn count and abundance fraction, its
+dispersion, and the avg. depth of its turns.
+
+SC Cluster    PDB Address  Peak Rama Type  Count  Fraction  Disp  Avg. Depth
+-----------   -----------  --------------  -----  --------  ----  ----------
+1_H1E4/H2E4    2BWR_A_201              Dd     17     0.309   0.6         5.2
+2_H0E8/H0E7    5F30_A_184              Dd     15     0.273   1.1         5.1
+3_H1E7/H1E5    3ZYP_A_147              Dd     11     0.200   0.6         6.1
+4_H1E1/H3E2    1HX6_A_298              Dd     10     0.182   0.8         5.5
+
+Counts and turn lists for all combinations of tail clusters within each SC
+cluster (N- and C-tails are clustered independently):
+-------------------------------------------------------------------------
+
+SC Cluster: 1_H1E4/H2E4
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 1_H0E4T0, CTail cluster: 1_H0E6T0
+Count: 3
+2bwr_A_201,1k5n_A_237,2bwr_A_89
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 1_H0E4T0, CTail cluster: 2_H0E3T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 1_H0E4T0, CTail cluster: 3_H3E5T0
+Count: 2
+4iqb_A_51,4bqy_A_305
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 1_H0E4T0, CTail cluster: 4_H3E0T3
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 1_H0E4T0, CTail cluster: 5_H+E0T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 2_H0E5T0, CTail cluster: 1_H0E6T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 2_H0E5T0, CTail cluster: 2_H0E3T0
+Count: 3
+3mxn_A_535,3n17_A_44,2asb_A_136
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 2_H0E5T0, CTail cluster: 3_H3E5T0
+Count: 1
+4rdb_A_299
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 2_H0E5T0, CTail cluster: 4_H3E0T3
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 2_H0E5T0, CTail cluster: 5_H+E0T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 3_H3E0T8, CTail cluster: 1_H0E6T0
+Count: 1
+1sr4_C_101
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 3_H3E0T8, CTail cluster: 2_H0E3T0
+Count: 1
+3ayj_A_310
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 3_H3E0T8, CTail cluster: 3_H3E5T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 3_H3E0T8, CTail cluster: 4_H3E0T3
+Count: 2
+5gqu_A_380,4q8w_A_47
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 3_H3E0T8, CTail cluster: 5_H+E0T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 4_H0E7T0, CTail cluster: 1_H0E6T0
+Count: 1
+3t7a_A_242
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 4_H0E7T0, CTail cluster: 2_H0E3T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 4_H0E7T0, CTail cluster: 3_H3E5T0
+Count: 1
+3edo_A_114
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 4_H0E7T0, CTail cluster: 4_H3E0T3
+Count: 1
+1wcw_A_116
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 4_H0E7T0, CTail cluster: 5_H+E0T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 5_H+E0T+, CTail cluster: 1_H0E6T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 5_H+E0T+, CTail cluster: 2_H0E3T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 5_H+E0T+, CTail cluster: 3_H3E5T0
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 5_H+E0T+, CTail cluster: 4_H3E0T3
+Count: 0
+
+
+SC cluster: 1_H1E4/H2E4, NTail cluster: 5_H+E0T+, CTail cluster: 5_H+E0T0
+Count: 1
+3fxa_A_82
+
+-------------------------------------------------------------------------
+
+SC Cluster: 2_H0E8/H0E7
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 1_H0E+T0, CTail cluster: 1_H0E6T0
+Count: 6
+5go5_A_152,2zk9_X_72,3bwh_A_75,5f30_A_184,5dzo_A_47,3bod_A_153
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 1_H0E+T0, CTail cluster: 2_H0E+T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 1_H0E+T0, CTail cluster: 3_H0E5T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 1_H0E+T0, CTail cluster: 4_H0E5T5
+Count: 1
+3fss_A_225
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 1_H0E+T0, CTail cluster: 5_H0E+T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 2_H0E+T7, CTail cluster: 1_H0E6T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 2_H0E+T7, CTail cluster: 2_H0E+T0
+Count: 2
+4ery_A_234,3hxj_A_29
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 2_H0E+T7, CTail cluster: 3_H0E5T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 2_H0E+T7, CTail cluster: 4_H0E5T5
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 2_H0E+T7, CTail cluster: 5_H0E+T0
+Count: 1
+3ehg_A_356
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 3_H0E7T0, CTail cluster: 1_H0E6T0
+Count: 2
+4eyz_A_221,4x90_A_326
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 3_H0E7T0, CTail cluster: 2_H0E+T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 3_H0E7T0, CTail cluster: 3_H0E5T0
+Count: 1
+3kog_A_71
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 3_H0E7T0, CTail cluster: 4_H0E5T5
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 3_H0E7T0, CTail cluster: 5_H0E+T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 4_H0E0T0, CTail cluster: 1_H0E6T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 4_H0E0T0, CTail cluster: 2_H0E+T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 4_H0E0T0, CTail cluster: 3_H0E5T0
+Count: 1
+4jjj_A_478
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 4_H0E0T0, CTail cluster: 4_H0E5T5
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 4_H0E0T0, CTail cluster: 5_H0E+T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 5_H0E0T0, CTail cluster: 1_H0E6T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 5_H0E0T0, CTail cluster: 2_H0E+T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 5_H0E0T0, CTail cluster: 3_H0E5T0
+Count: 0
+
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 5_H0E0T0, CTail cluster: 4_H0E5T5
+Count: 1
+2yic_A_680
+
+SC cluster: 2_H0E8/H0E7, NTail cluster: 5_H0E0T0, CTail cluster: 5_H0E+T0
+Count: 0
+
+
+-------------------------------------------------------------------------
+
+SC Cluster: 3_H1E7/H1E5
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 1_H0E+T3, CTail cluster: 1_H0E6T0
+Count: 1
+3zyp_A_147
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 1_H0E+T3, CTail cluster: 2_H0E0T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 1_H0E+T3, CTail cluster: 3_H0E+T0
+Count: 1
+5fok_A_166
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 1_H0E+T3, CTail cluster: 4_H0E+T0
+Count: 1
+6ekt_A_95
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 1_H0E+T3, CTail cluster: 5_H+E0T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 2_H3E3T3, CTail cluster: 1_H0E6T0
+Count: 1
+5lw3_A_344
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 2_H3E3T3, CTail cluster: 2_H0E0T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 2_H3E3T3, CTail cluster: 3_H0E+T0
+Count: 1
+5o0s_A_416
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 2_H3E3T3, CTail cluster: 4_H0E+T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 2_H3E3T3, CTail cluster: 5_H+E0T0
+Count: 1
+2zpt_X_48
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 3_H0E5T0, CTail cluster: 1_H0E6T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 3_H0E5T0, CTail cluster: 2_H0E0T0
+Count: 2
+5k6l_A_30,3klk_A_1619
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 3_H0E5T0, CTail cluster: 3_H0E+T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 3_H0E5T0, CTail cluster: 4_H0E+T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 3_H0E5T0, CTail cluster: 5_H+E0T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 4_H0E+T+, CTail cluster: 1_H0E6T0
+Count: 2
+4mkx_A_230,3iv0_A_373
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 4_H0E+T+, CTail cluster: 2_H0E0T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 4_H0E+T+, CTail cluster: 3_H0E+T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 4_H0E+T+, CTail cluster: 4_H0E+T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 4_H0E+T+, CTail cluster: 5_H+E0T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 5_H0E+T0, CTail cluster: 1_H0E6T0
+Count: 1
+4qbb_A_127
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 5_H0E+T0, CTail cluster: 2_H0E0T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 5_H0E+T0, CTail cluster: 3_H0E+T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 5_H0E+T0, CTail cluster: 4_H0E+T0
+Count: 0
+
+
+SC cluster: 3_H1E7/H1E5, NTail cluster: 5_H0E+T0, CTail cluster: 5_H+E0T0
+Count: 0
+
+
+-------------------------------------------------------------------------
+
+SC Cluster: 4_H1E1/H3E2
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 1_H3E0T3, CTail cluster: 1_H7E3T3
+Count: 1
+1hx6_A_298
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 1_H3E0T3, CTail cluster: 2_H0E3T0
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 1_H3E0T3, CTail cluster: 3_H5E0T0
+Count: 1
+2pne_A_54
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 1_H3E0T3, CTail cluster: 4_H0E0T0
+Count: 1
+5a0y_B_400
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 1_H3E0T3, CTail cluster: 5_H0E0T+
+Count: 1
+3vzh_A_136
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 2_H0E5T0, CTail cluster: 1_H7E3T3
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 2_H0E5T0, CTail cluster: 2_H0E3T0
+Count: 1
+1gvf_A_175
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 2_H0E5T0, CTail cluster: 3_H5E0T0
+Count: 1
+5g5g_C_467
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 2_H0E5T0, CTail cluster: 4_H0E0T0
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 2_H0E5T0, CTail cluster: 5_H0E0T+
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 3_H0E0T+, CTail cluster: 1_H7E3T3
+Count: 2
+5byk_A_17,3uan_A_68
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 3_H0E0T+, CTail cluster: 2_H0E3T0
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 3_H0E0T+, CTail cluster: 3_H5E0T0
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 3_H0E0T+, CTail cluster: 4_H0E0T0
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 3_H0E0T+, CTail cluster: 5_H0E0T+
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 4_H0E0T+, CTail cluster: 1_H7E3T3
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 4_H0E0T+, CTail cluster: 2_H0E3T0
+Count: 1
+3uxf_A_419
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 4_H0E0T+, CTail cluster: 3_H5E0T0
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 4_H0E0T+, CTail cluster: 4_H0E0T0
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 4_H0E0T+, CTail cluster: 5_H0E0T+
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 5_H0E0T+, CTail cluster: 1_H7E3T3
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 5_H0E0T+, CTail cluster: 2_H0E3T0
+Count: 1
+5gqf_A_197
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 5_H0E0T+, CTail cluster: 3_H5E0T0
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 5_H0E0T+, CTail cluster: 4_H0E0T0
+Count: 0
+
+
+SC cluster: 4_H1E1/H3E2, NTail cluster: 5_H0E0T+, CTail cluster: 5_H0E0T+
+Count: 0
+
+
