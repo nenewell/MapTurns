@@ -1,1 +1,1 @@
-This repository contains the HTML/Javascript files for a single motif map, which maps the structure, H-bonding and context associated with the motif that specifies the amino acid threonine at the fourth residue in a beta turn.
+This repository contains the HTML/Javascript, JSmol image and data files for a single motif map, which portrays the structure, H-bonding and context associated with the motif that specifies the amino acid threonine at the fourth residue (T4) in beta turns .
